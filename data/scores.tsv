@@ -1,0 +1,2500 @@
+City	State	WalkScore	Population
+New York	NY	85.3	8174290
+Los Angeles	CA	65.9	3787000
+Chicago	IL	74.3	2691070
+Houston	TX	49.8	2112810
+Philadelphia	PA	74.1	1524270
+Phoenix	AZ	45.4	1442530
+San Antonio	TX	40.8	1326420
+San Diego	CA	55.7	1305700
+Dallas	TX	46.9	1197970
+San Jose	CA	54.5	942788
+Jacksonville	FL	32.6	821996
+Indianapolis	IN	37.4	819398
+San Francisco	CA	84.9	804533
+Austin	TX	46.7	790195
+Columbus	OH	47.4	775159
+Fort Worth	TX	36.1	740422
+Charlotte	NC	34.3	727822
+Detroit	MI	49.9	713110
+Memphis	TN	39.4	647889
+El Paso	TX	37.8	646907
+Baltimore	MD	63.9	620567
+Boston	MA	79.2	616228
+Seattle	WA	73.7	608091
+Nashville-Davidson	TN	36.4	601201
+Louisville-Jefferson	KY	39.7	599142
+Denver	CO	60.4	596983
+Milwaukee	WI	60.6	593611
+Portland	OR	66.3	583496
+Oklahoma City	OK	35.6	580508
+Las Vegas	NV	49.2	580138
+Albuquerque	NM	47.5	542997
+Tucson	AZ	48.2	520109
+Fresno	CA	48.6	491455
+Sacramento	CA	49.3	466259
+Long Beach	CA	66.4	462006
+Kansas City	MO	38.1	460377
+Mesa	AZ	42.9	438358
+Virginia Beach	VA	40.8	437639
+Atlanta	GA	52.9	419590
+Colorado Springs	CO	45.1	415281
+Omaha	NE	50.9	409036
+Miami	FL	72.5	398499
+Cleveland	OH	58.3	396598
+Raleigh	NC	41.4	393039
+Tulsa	OK	45.8	391404
+Oakland	CA	68.2	390816
+Minneapolis	MN	69.3	381729
+Wichita	KS	41	379326
+Arlington	TX	41.3	365303
+Bakersfield	CA	40.8	348382
+New Orleans	LA	55.6	343794
+Honolulu	HI	63	337183
+Tampa	FL	51.1	335749
+Anaheim	CA	60.7	335451
+Aurora	CO	48.3	326266
+Santa Ana	CA	61.6	324761
+St. Louis	MO	61.4	319372
+Pittsburgh	PA	64.1	305842
+Corpus Christi	TX	43.5	305047
+Riverside	CA	46.7	303555
+Cincinnati	OH	58.9	296565
+Lexington-Fayette	KY	42.5	295383
+Anchorage	AK	40.8	291828
+Stockton	CA	47.5	288846
+Toledo	OH	49.8	286097
+St. Paul	MN	61.6	284351
+Newark	NJ	74	275593
+Greensboro	NC	39	267495
+Buffalo	NY	60.1	261170
+Plano	TX	43.6	259797
+Henderson	NV	39.1	257170
+Lincoln	NE	49.4	257101
+Fort Wayne	IN	39	252642
+Jersey City	NJ	85.2	247955
+St. Petersburg	FL	44.5	244992
+Chula Vista	CA	51.4	243773
+Norfolk	VA	47.6	242897
+Orlando	FL	47.1	237105
+Laredo	TX	32.7	235151
+Chandler	AZ	41.5	234398
+Madison	WI	55.4	232495
+Lubbock	TX	44.3	229784
+Baton Rouge	LA	47.5	228866
+Winston-Salem	NC	32	228366
+Glendale	AZ	44.8	227282
+Garland	TX	40.5	226776
+Durham	NC	37.2	225060
+Hialeah	FL	64	224149
+Paradise	NV	57.4	223398
+Reno	NV	49.1	223270
+Chesapeake	VA	28.3	222581
+North Las Vegas	NV	41.7	217126
+Scottsdale	AZ	41.6	216614
+Irving	TX	46	215836
+Fremont	CA	52.4	214084
+Irvine	CA	53.8	212841
+Birmingham	AL	40	212786
+San Bernardino	CA	43.7	211497
+Rochester	NY	63.1	211394
+Spokane	WA	53.6	208554
+Gilbert	AZ	37.7	207773
+Arlington	VA	67.1	206779
+Montgomery	AL	35.5	205330
+Boise City	ID	49.8	204438
+Richmond	VA	51.1	203620
+Des Moines	IA	49.9	203107
+Fayetteville	NC	28.8	200402
+Modesto	CA	48.6	199448
+Akron	OH	50.7	198557
+Tacoma	WA	58.8	198031
+Shreveport	LA	37.8	196835
+Oxnard	CA	54.6	196160
+Fontana	CA	41.6	195934
+Augusta-Richmond County	GA	30	195886
+Mobile	AL	38.6	195719
+Yonkers	NY	71.2	195661
+Aurora	IL	44.1	195478
+Little Rock	AR	40.1	192913
+Moreno Valley	CA	36.5	192696
+Glendale	CA	68.8	190871
+Amarillo	TX	43.7	190543
+Columbus	GA	32.8	189937
+Huntington Beach	CA	62.5	189221
+Sunrise Manor	NV	43.2	189156
+Grand Rapids	MI	54.3	187794
+Salt Lake City	UT	57.6	186419
+Worcester	MA	60.4	180579
+Newport News	VA	40.6	180426
+Tallahassee	FL	39.2	180192
+Knoxville	TN	40.4	180189
+Huntsville	AL	32.1	179192
+Providence	RI	72.7	177627
+Spring Valley	NV	50.9	177620
+Brownsville	TX	31.6	176086
+Santa Clarita	CA	45.7	175164
+Grand Prairie	TX	34.7	174866
+Jackson	MS	34.6	173352
+Overland Park	KS	47.4	173005
+Garden Grove	CA	63.6	171823
+Chattanooga	TN	37.1	168164
+Oceanside	CA	45.4	166405
+Santa Rosa	CA	53.4	165735
+Fort Lauderdale	FL	59.2	165694
+Rancho Cucamonga	CA	49.1	165055
+Port St. Lucie	FL	19.9	164360
+Ontario	CA	46.3	164260
+Tempe	AZ	61.6	162125
+Vancouver	WA	49.3	161913
+Springfield	MO	48.3	159387
+Lancaster	CA	32.3	156592
+Eugene	OR	55.2	154650
+Pembroke Pines	FL	42.7	154456
+Cape Coral	FL	23.5	154300
+Salem	OR	49	153647
+Sioux Falls	SD	43	153346
+Peoria	AZ	33.9	153056
+Springfield	MA	58.7	152945
+Palmdale	CA	28.4	152504
+Rockford	IL	47.8	152492
+Elk Grove	CA	42	152482
+Corona	CA	44.6	151868
+Salinas	CA	53.3	149540
+Pasadena	TX	42.4	149115
+Pomona	CA	51.3	149059
+Kansas City	KS	35	145810
+Paterson	NJ	75	145647
+Torrance	CA	69.7	145414
+Joliet	IL	38.2	145134
+Syracuse	NY	63	145033
+Hayward	CA	57.6	144684
+Bridgeport	CT	65.2	143480
+Fort Collins	CO	44.1	143332
+Escondido	CA	51.1	143083
+Lakewood	CO	53	143020
+Dayton	OH	47.7	141994
+Hollywood	FL	55.6	141061
+Alexandria	VA	65.4	140733
+Naperville	IL	45.4	139972
+Mesquite	TX	39.5	139329
+Sunnyvale	CA	61.7	138782
+Metairie	LA	57.5	138437
+Pasadena	CA	67.7	137867
+Hampton	VA	38.9	137624
+Orange	CA	59.3	136314
+Savannah	GA	47.5	135894
+Fullerton	CA	59	135030
+Warren	MI	49.2	133954
+Cary	NC	37.9	132148
+Clarksville	TN	23.4	131913
+McKinney	TX	32.2	130540
+McAllen	TX	44.8	129916
+Sterling Heights	MI	39.9	129782
+West Valley City	UT	41	129722
+New Haven	CT	66.7	129515
+Columbia	SC	39.6	128000
+Killeen	TX	28.9	127611
+Topeka	KS	43	126807
+Thousand Oaks	CA	42.5	126659
+Cedar Rapids	IA	43.1	125681
+Olathe	KS	36.3	125470
+East Los Angeles	CA	69	124759
+Waco	TX	39.2	124512
+Gainesville	FL	42.6	124488
+Hartford	CT	72.7	124485
+Elizabeth	NJ	71.8	124143
+Simi Valley	CA	48.3	123815
+Visalia	CA	43.8	123222
+Stamford	CT	59.1	122442
+Bellevue	WA	50.3	122061
+Concord	CA	52.9	121872
+Miramar	FL	35.4	121868
+Coral Springs	FL	45.7	121316
+Charleston	SC	46.1	121281
+Carrollton	TX	40.8	119013
+Lafayette	LA	49.6	118772
+Thornton	CO	39.9	118535
+Beaumont	TX	36	118090
+Allentown	PA	66.8	117924
+Roseville	CA	44.4	117884
+Frisco	TX	29.3	117464
+Surprise	AZ	26.4	117046
+Evansville	IN	49.9	116933
+Abilene	TX	37.8	116651
+Santa Clara	CA	64.1	116572
+Independence	MO	34.4	116562
+Victorville	CA	26.4	116066
+Athens-Clarke County	GA	34.7	115352
+Vallejo	CA	45.5	115143
+Springfield	IL	43	114694
+Peoria	IL	46.6	114514
+Lansing	MI	47.7	113877
+Denton	TX	38.9	113014
+Ann Arbor	MI	58.9	112674
+El Monte	CA	60.9	112624
+Berkeley	CA	81.6	112398
+Provo	UT	49	112365
+Downey	CA	57.9	112083
+Midland	TX	44.3	111064
+Norman	OK	35.3	110982
+Inglewood	CA	63.9	110408
+Costa Mesa	CA	70.6	109994
+Waterbury	CT	53.8	109863
+Manchester	NH	53.3	109056
+Enterprise	NV	31.1	108514
+Columbia	MO	37.7	108429
+Elgin	IL	44.4	107356
+Murfreesboro	TN	29.2	107069
+Miami Gardens	FL	41.1	106690
+Clearwater	FL	49.1	106592
+Lowell	MA	64.1	106209
+Pueblo	CO	41.8	106180
+Wilmington	NC	44.2	106115
+Rochester	MN	36.9	105801
+Carlsbad	CA	41.7	105537
+Westminster	CO	45.8	105515
+Fargo	ND	50.7	105496
+Gresham	OR	52	105394
+Richmond	CA	53.1	105240
+West Covina	CA	50.7	105157
+Cambridge	MA	88.8	105138
+Arvada	CO	46	105059
+Norwalk	CA	61.6	104805
+San Buenaventura (Ventura)	CA	56	104393
+Wichita Falls	TX	36.7	104234
+Green Bay	WI	48.1	104002
+Fairfield	CA	40.6	103991
+West Jordan	UT	33.6	103751
+Burbank	CA	73.6	103576
+Brandon	FL	35.6	103311
+Everett	WA	53.9	103093
+Billings	MT	44.5	102865
+High Point	NC	34.2	102667
+Murrieta	CA	35.3	102662
+Palm Bay	FL	19.8	102627
+Flint	MI	48.5	102376
+Antioch	CA	48.8	101929
+Erie	PA	59.6	101559
+South Bend	IN	47.1	101266
+Centennial	CO	47.8	100628
+West Palm Beach	FL	48.1	100121
+Pompano Beach	FL	53.1	99830
+Davenport	IA	46.6	99657
+Odessa	TX	43.1	99600
+Temecula	CA	41.8	99539
+Richardson	TX	47.6	99477
+Rialto	CA	40.8	99462
+Columbia	MD	43.1	99432
+Santa Maria	CA	52.1	99340
+El Cajon	CA	61.2	98985
+Broken Arrow	OK	28.7	98816
+Compton	CA	54	98313
+Spring Hill	FL	21.6	98264
+North Charleston	SC	34	98171
+Dearborn	MI	56.5	98142
+Round Rock	TX	33.9	98063
+Albany	NY	66.3	97831
+Lakeland	FL	40.6	97823
+Kenosha	WI	52.1	97812
+Roanoke	VA	46.1	97153
+Daly City	CA	62.9	97135
+San Mateo	CA	67.3	97069
+Livonia	MI	44.9	96933
+Las Cruces	NM	39.4	96929
+Boulder	CO	63.7	96698
+Tyler	TX	40.4	96654
+Highlands Ranch	CO	42.3	96473
+Lawton	OK	36.8	96252
+Lewisville	TX	45.8	95503
+Portsmouth	VA	40.3	95284
+Clovis	CA	44.3	95052
+New Bedford	MA	65.5	94766
+South Gate	CA	61.4	94077
+Sandy Springs	GA	41.3	93836
+College Station	TX	42	93834
+Vista	CA	54.3	93486
+Brockton	MA	53.3	93346
+Mission Viejo	CA	50.9	93157
+The Woodlands	TX	27	93147
+Yuma	AZ	38.5	93122
+San Angelo	TX	37.1	92900
+Quincy	MA	62	92232
+Kent	WA	47.7	92135
+Davie	FL	38.7	92109
+Greeley	CO	46.9	92021
+Beaverton	OR	56.7	92002
+Carson	CA	54.6	91875
+Arden-Arcade	CA	58.6	91739
+Vacaville	CA	42.5	91623
+Hillsboro	OR	51.2	91564
+Pearland	TX	26.6	91378
+Lee's Summit	MO	29.5	91135
+Yakima	WA	54.6	90755
+Renton	WA	49.9	90743
+Macon	GA	36.6	90404
+Sparks	NV	48.2	90204
+Westminster	CA	62.4	90158
+Lynn	MA	64.9	90036
+Hesperia	CA	19.5	89914
+Redding	CA	37	89646
+Santa Monica	CA	81.9	89618
+Tuscaloosa	AL	37.4	89469
+Spokane Valley	WA	40.9	89063
+Federal Way	WA	46.3	89049
+Waukegan	IL	53.2	88794
+Fall River	MA	62.2	88732
+Toms River	NJ	32.8	88446
+Roswell	GA	38.6	88438
+Santa Barbara	CA	67.2	88266
+Reading	PA	67	88026
+Orem	UT	48.2	87826
+Sandy	UT	44.8	87643
+Rio Rancho	NM	20.7	87363
+Lawrence	KS	50	86851
+Miami Beach	FL	75.3	86745
+Lehigh Acres	FL	11.4	86654
+Duluth	MN	41.9	86328
+Nashua	NH	45.3	86082
+Fort Smith	AR	40.9	85943
+Whittier	CA	61.9	85929
+Germantown	MD	43.1	85830
+Chico	CA	54.4	85705
+Norwalk	CT	56.4	85526
+Newton	MA	60.3	85245
+San Leandro	CA	65.1	85111
+Clifton	NJ	65	84982
+Newport Beach	CA	57	84866
+Longmont	CO	43.9	84808
+Hawthorne	CA	65.7	84802
+Plantation	FL	41.8	84758
+Suffolk	VA	19.5	84654
+Deltona	FL	17.4	84457
+Trenton	NJ	68.4	84345
+Sunrise	FL	48.9	84145
+Boca Raton	FL	48.9	84104
+Westland	MI	45.2	83959
+Allen	TX	33.4	83842
+Alhambra	CA	68.5	83549
+Cicero	IL	67	83505
+San Marcos	CA	44.6	83475
+League City	TX	29.4	83474
+Bloomington	MN	38.7	83324
+Citrus Heights	CA	52.3	83005
+Warwick	RI	43.2	83005
+Sioux City	IA	45.9	82615
+Ogden	UT	50.2	82377
+Asheville	NC	50	82083
+Tracy	CA	45.3	82024
+Edmond	OK	34.5	81553
+Parma	OH	47.3	81341
+Troy	MI	38.1	81305
+Hammond	IN	51	81146
+Greenville	NC	39.9	80987
+Danbury	CT	46.9	80786
+Bellingham	WA	55.6	80748
+Buena Park	CA	63.8	80664
+Cranston	RI	53.7	80558
+San Tan Valley	AZ	15.8	80550
+Livermore	CA	47.5	80354
+Champaign	IL	56.9	80348
+Longview	TX	36	80266
+Gary	IN	37	80086
+Sugar Land	TX	33.6	79977
+Bloomington	IN	48.8	79905
+Farmington Hills	MI	34.3	79857
+Nampa	ID	36.6	79575
+Hoover	AL	27.8	79567
+Carmel	IN	27.2	79551
+Lakewood	CA	61.1	79371
+Town 'n' Country	FL	39.4	78437
+Hemet	CA	41.2	78306
+Racine	WI	55.6	78288
+Alafaya	FL	27.3	77967
+Merced	CA	46.3	77887
+Menifee	CA	20.4	77841
+Largo	FL	50.5	77815
+Concord	NC	24.6	77719
+Chino	CA	42.9	77518
+O'Fallon	MO	32.1	77225
+Camden	NJ	60.2	77059
+New Rochelle	NY	69	77056
+Redwood City	CA	61.5	77025
+Lake Forest	CA	53.6	76957
+St. Joseph	MO	40.6	76780
+Albany	GA	32.9	76710
+Mission	TX	35.4	76688
+Johns Creek	GA	31.4	76635
+Indio	CA	37.5	76381
+Brooklyn Park	MN	31.4	76295
+Bellflower	CA	63.1	76258
+Lawrence	MA	69.4	76117
+Bend	OR	43.1	76040
+Bryan	TX	39.9	76001
+Scranton	PA	62.9	75927
+Kendall	FL	50.4	75916
+Napa	CA	51.3	75630
+Melbourne	FL	40.3	75624
+Decatur	IL	41.1	75453
+Somerville	MA	84.3	75449
+Avondale	AZ	34.8	75413
+Lynchburg	VA	38	75380
+Edinburg	TX	32.6	75375
+Arlington Heights	IL	52.5	75221
+Bloomington	IL	44.1	75178
+Fishers	IN	28.5	75129
+Cheektowaga	NY	42.1	75037
+Tustin	CA	58.8	74876
+Chino Hills	CA	31	74819
+Bethlehem	PA	59.5	74631
+Evanston	IL	75.1	74591
+Palm Coast	FL	13.7	74540
+Mountain View	CA	66.3	74426
+Baldwin Park	CA	52.2	74421
+Medford	OR	44.6	74160
+Deerfield Beach	FL	46	74141
+Kalamazoo	MI	51.2	74080
+Schaumburg	IL	50.1	74080
+Kennewick	WA	41.9	73980
+Alameda	CA	68.7	73677
+Canton	OH	50.1	73647
+Fayetteville	AR	40.2	73246
+Upland	CA	53.3	73198
+Bolingbrook	IL	44.4	73124
+Meridian	ID	36.4	72937
+New Britain	CT	53.7	72809
+St. George	UT	36.1	72781
+Appleton	WI	49.4	72445
+Wyoming	MI	44.3	72139
+Southfield	MI	45.4	71893
+Folsom	CA	41.4	71881
+Lake Charles	LA	45.9	71728
+Gastonia	NC	32.8	71361
+San Ramon	CA	31.8	71052
+Riverview	FL	20.6	70979
+Rochester Hills	MI	30.9	70951
+Baytown	TX	34.5	70907
+Plymouth	MN	30.4	70860
+Pawtucket	RI	66.4	70781
+Silver Spring	MD	62.9	70779
+Wilmington	DE	66.8	70602
+Centreville	VA	41.5	70425
+Waukesha	WI	46	70140
+Auburn	WA	39.5	70028
+Lynwood	CA	56.9	69952
+Muncie	IN	46.3	69796
+Pharr	TX	33.4	69788
+Jacksonville	NC	28.3	69644
+Pleasanton	CA	49.8	69609
+Springdale	AR	30.9	69429
+Union City	CA	51.6	69386
+Passaic	NJ	81.2	69273
+Apple Valley	CA	19	69087
+Redlands	CA	40.3	68835
+Waterloo	IA	41.4	68260
+Palatine	IL	47.7	68162
+Perris	CA	23.8	68102
+Framingham	MA	52	68030
+Turlock	CA	44.5	67988
+Santa Fe	NM	50.6	67944
+Boynton Beach	FL	43.9	67934
+Mount Vernon	NY	73.3	67714
+Gulfport	MS	30.8	67652
+Rapid City	SD	37.8	67645
+Iowa City	IA	53.3	67574
+Missouri City	TX	27.1	67570
+Glen Burnie	MD	42.9	67513
+Waldorf	MD	26.7	67275
+Lafayette	IN	43.1	67130
+Jonesboro	AR	27.1	67024
+Mount Pleasant	SC	31.4	66977
+Youngstown	OH	39.9	66917
+Milpitas	CA	56	66798
+Lauderhill	FL	47.6	66725
+Layton	UT	38.8	66684
+Kenner	LA	52	66484
+Casas Adobes	AZ	36.3	66232
+Portland	ME	65.4	66166
+Manteca	CA	48.4	66139
+Redondo Beach	CA	76	66135
+Temple	TX	35	66025
+Schenectady	NY	64.4	65899
+Warner Robins	GA	29	65790
+Dothan	AL	32.7	65651
+Missoula	MT	51.9	65634
+Loveland	CO	37.6	65624
+St. Charles	MO	38.8	65605
+Goodyear	AZ	22.1	65596
+Ellicott City	MD	34.6	65573
+Dale City	VA	32.6	65546
+Flagstaff	AZ	48.1	65433
+St. Cloud	MN	40.9	65296
+Oshkosh	WI	48	65148
+Weston	FL	30.3	65127
+Eau Claire	WI	46.1	65117
+Harlingen	TX	41.3	64904
+Jackson	TN	35.4	64866
+Skokie	IL	66.7	64856
+Union City	NJ	92.2	64845
+Flower Mound	TX	34.4	64784
+Frederick	MD	52.5	64722
+Rock Hill	SC	39.7	64675
+Camarillo	CA	53.6	64657
+Rancho Cordova	CA	47.6	64638
+Palo Alto	CA	62.7	64512
+Atascocita	TX	28.8	64464
+East Orange	NJ	68.4	64197
+Eagan	MN	33.5	64187
+Yorba Linda	CA	39.7	64171
+Davis	CA	49.5	63985
+Yuba City	CA	42.9	63980
+Walnut Creek	CA	51.5	63807
+Florence-Graham	CA	63.4	63668
+Lorain	OH	39.3	63454
+Pico Rivera	CA	54.9	63450
+Dundalk	MD	52.9	63402
+West Hartford	CT	50.7	63227
+San Clemente	CA	46.9	63106
+Montebello	CA	58.8	63097
+Bayonne	NJ	77.4	62971
+Janesville	WI	43	62962
+North Richland Hills	TX	39.5	62909
+Taylor	MI	40	62830
+Laguna Niguel	CA	49.6	62720
+Pittsburg	CA	41.8	62673
+Victoria	TX	40.6	62448
+Fort Myers	FL	42.6	62377
+South San Francisco	CA	62.1	62213
+North Little Rock	AR	36.6	62143
+Shawnee	KS	33.5	62127
+Hamilton	OH	46.2	62107
+Utica	NY	56.8	62097
+Millcreek	UT	53.1	62085
+Council Bluffs	IA	43.4	62061
+Johnson City	TN	35	62056
+Franklin	TN	32.6	61951
+Woodbury	MN	27.1	61867
+Carmichael	CA	54	61793
+Bethesda	MD	50.1	61781
+Lodi	CA	56.2	61747
+Castro Valley	CA	45.1	61308
+Maple Grove	MN	23.7	61230
+Coon Rapids	MN	31.6	61220
+Daytona Beach	FL	43.8	61097
+Haverhill	MA	45.5	60838
+Madera	CA	44.5	60829
+Rockville	MD	59.3	60742
+Vineland	NJ	34.7	60725
+Tamarac	FL	39.2	60690
+Meriden	CT	49.1	60647
+Eden Prairie	MN	26.4	60632
+Terre Haute	IN	42.1	60578
+Brentwood	NY	39.7	60572
+Bismarck	ND	44.5	60567
+Bossier City	LA	35.6	60551
+Waltham	MA	61.7	60487
+Bristol	CT	40.7	60312
+Gaithersburg	MD	57.2	60283
+Springfield	OH	45.5	60272
+Burnsville	MN	39.9	60244
+West Allis	WI	60.9	60215
+Monterey Park	CA	61.9	60063
+Fountainebleau	FL	53.6	60056
+Homestead	FL	38.2	60026
+Delray Beach	FL	44.3	59936
+Pine Hills	FL	34.2	59918
+St. Clair Shores	MI	47.8	59743
+Grand Junction	CO	43	59653
+Santa Cruz	CA	65.9	59632
+Brookline	MA	83.3	59627
+Encinitas	CA	48.4	59606
+Marysville	WA	31.5	59604
+La Habra	CA	66.2	59599
+Pontiac	MI	45.5	59467
+Pasco	WA	35.3	59390
+Malden	MA	69.5	59269
+Lancaster	PA	79.3	59196
+Kissimmee	FL	37.5	58992
+Springfield	OR	55.8	58891
+Cupertino	CA	57.7	58810
+Des Plaines	IL	58.8	58784
+Conway	AR	33.2	58655
+Reston	VA	49.9	58512
+Taylorsville	UT	44.2	58438
+National City	CA	64	58400
+Tulare	CA	39.3	58379
+Ames	IA	47	58343
+Tonawanda	NY	54.6	58204
+North Miami	FL	59.9	58131
+Cheyenne	WY	44.1	58062
+Gardena	CA	72	57964
+Bowling Green	KY	43.4	57892
+Dubuque	IA	51.7	57780
+Huntington Park	CA	74	57694
+Dearborn Heights	MI	49	57685
+Greenville	SC	52.1	57650
+Lakewood	WA	49.6	57499
+San Rafael	CA	61.4	57498
+Alpharetta	GA	34.3	57467
+North Port	FL	12.1	57437
+New Braunfels	TX	30.9	57342
+Royal Oak	MI	59.1	57334
+Petaluma	CA	55.4	57298
+Blaine	MN	29.9	57257
+Palm Harbor	FL	37.5	57243
+Marietta	GA	44.7	57090
+Arcadia	CA	56.6	57085
+Great Falls	MT	53.2	57031
+Chapel Hill	NC	50.1	56978
+La Mesa	CA	65.6	56778
+White Plains	NY	68.3	56767
+Rocklin	CA	42.4	56758
+West Des Moines	IA	45.3	56571
+Orland Park	IL	38.3	56399
+Medford	MA	63.9	56382
+Kendale Lakes	FL	45.7	56344
+Ocala	FL	39	56300
+Mansfield	TX	32.3	56291
+Anderson	IN	41.1	56251
+Conroe	TX	35.4	56248
+Rocky Mount	NC	28.2	56220
+Oak Lawn	IL	59.8	56198
+Broomfield	CO	38.2	56150
+Wellington	FL	30.1	56081
+Kettering	OH	48	56078
+South Whittier	CA	49.8	55933
+Berwyn	IL	67	55865
+Tinley Park	IL	39.7	55858
+Lakeville	MN	24.5	55739
+Taunton	MA	35.9	55709
+Towson	MD	56.6	55646
+Port Orange	FL	27.3	55546
+Idaho Falls	ID	46.8	55528
+Decatur	AL	34.7	55448
+Rogers	AR	26.3	55426
+Chicopee	MA	51.8	55275
+Carson City	NV	42.8	55269
+Rowlett	TX	24.7	55233
+Novi	MI	31.1	55095
+West Haven	CT	53.8	55082
+Fountain Valley	CA	62.8	55051
+Moore	OK	30.9	55009
+New Brunswick	NJ	69.7	54987
+Tamiami	FL	48.3	54901
+Diamond Bar	CA	42.2	54827
+Casper	WY	44	54706
+Woodland	CA	52.5	54688
+Jupiter	FL	37	54629
+Mount Prospect	IL	54.3	54391
+Owensboro	KY	42.4	54379
+Valdosta	GA	41.1	54241
+Midwest City	OK	35.6	54235
+Port Charlotte	FL	26	54222
+Redmond	WA	44.1	54152
+Bartlett	TN	26	54142
+Spring	TX	26.9	54022
+Elyria	OH	40.2	53974
+Port Arthur	TX	35.2	53733
+Pocatello	ID	45.1	53718
+Rosemead	CA	64.1	53690
+Paramount	CA	63.9	53634
+Bowie	MD	33.8	53626
+Weymouth Town	MA	49.7	53487
+Porterville	CA	42.1	53480
+Corvallis	OR	53.8	53476
+Hempstead	NY	66.7	53447
+Lakewood	NJ	52.7	53287
+Hanford	CA	38.2	53206
+Poinciana	FL	7.1	53126
+Margate	FL	48.4	53121
+Eastvale	CA	30.6	53044
+Hacienda Heights	CA	45.4	52997
+Auburn	AL	36.6	52919
+Santee	CA	40.9	52898
+Levittown	PA	42.8	52803
+St. Peters	MO	36.2	52732
+Coconut Creek	FL	40.7	52532
+Grand Forks	ND	53.8	52490
+Wheaton	IL	47.9	52300
+Sanford	FL	36.1	52273
+Lake Havasu City	AZ	23	52272
+South Hill	WA	27.5	52260
+Florissant	MO	45	52251
+Highland	CA	38.3	52232
+Battle Creek	MI	39.7	52203
+Shoreline	WA	57.5	52179
+Normal	IL	48.2	52176
+Delano	CA	37.6	52162
+Sarasota	FL	56.3	52032
+Lakewood	OH	68.4	51916
+Revere	MA	59.5	51780
+Pensacola	FL	42.2	51773
+Lake Elsinore	CA	32.7	51679
+Levittown	NY	55.2	51645
+Oak Park	IL	77.5	51544
+Novato	CA	46.4	51504
+Hoffman Estates	IL	43.3	51498
+Stratford	CT	45.9	51470
+Colton	CA	42.1	51458
+Manhattan	KS	46	51322
+Blue Springs	MO	35.8	51290
+Euless	TX	38.1	51261
+Yucaipa	CA	32	51238
+Hendersonville	TN	25.5	51162
+The Hammocks	FL	48.9	51159
+La Crosse	WI	60.4	51107
+Saginaw	MI	45.5	51089
+Irondequoit	NY	39.1	51064
+East Hartford	CT	43.1	51053
+Cathedral City	CA	38.8	51052
+Charleston	WV	44.3	51040
+Brentwood	CA	45.4	50990
+Peabody	MA	51.4	50988
+Catalina Foothills	AZ	21	50980
+Milford	CT	43.5	50913
+The Villages	FL	13.7	50902
+Buckeye	AZ	14.7	50809
+Perth Amboy	NJ	71.3	50790
+Noblesville	IN	22.4	50706
+Watsonville	CA	69.8	50687
+South Jordan	UT	30.3	50487
+Glendora	CA	52.5	50444
+Smyrna	GA	40.6	50351
+Placentia	CA	55.6	50138
+Joplin	MO	44.3	50105
+Cuyahoga Falls	OH	50.2	50045
+Hoboken	NJ	92.2	50032
+Troy	NY	57.9	50032
+Niagara Falls	NY	42.1	50023
+East Honolulu	HI	27	49942
+Elkhart	IN	42.1	49882
+Cerritos	CA	60.1	49871
+West New York	NJ	90	49771
+Plainfield	NJ	54.6	49532
+DeSoto	TX	30.7	49503
+Cedar Park	TX	33.6	49463
+Minnetonka	MN	34.3	49449
+Greenwood	IN	33.7	49428
+Burlington	NC	39.9	49411
+Harrisburg	PA	68.2	49359
+Albany	OR	42.4	49344
+Huntington	WV	53	49283
+Enid	OK	39.3	49238
+Bradenton	FL	41.2	48973
+Apple Valley	MN	29.3	48970
+Palm Beach Gardens	FL	33.3	48942
+Aloha	OR	49.3	48933
+Euclid	OH	46.1	48926
+Pine Bluff	AR	34.3	48851
+Covina	CA	62	48819
+Pinellas Park	FL	46.9	48802
+Southaven	MS	23.7	48793
+Casa Grande	AZ	32.2	48784
+West Sacramento	CA	41.3	48771
+Rowland Heights	CA	48.7	48764
+Middletown	OH	39.3	48730
+Bellevue	NE	39.8	48689
+East Lansing	MI	57.3	48669
+Kirkland	WA	59.3	48669
+Sheboygan	WI	54.4	48667
+Kentwood	MI	33.3	48544
+Aspen Hill	MD	38	48534
+Harrisonburg	VA	52.8	48507
+La Mirada	CA	57.3	48396
+Gilroy	CA	53.8	48376
+Monroe	LA	40.4	48287
+Lenexa	KS	41.4	48219
+Kingsport	TN	32.3	48190
+Downers Grove	IL	52.9	48135
+McLean	VA	34.3	48107
+Wheaton	MD	47.1	48055
+Richland	WA	40	48011
+Poway	CA	41.5	47986
+Grand Island	NE	46.7	47968
+Tigard	OR	51.2	47875
+Mansfield	OH	39.7	47843
+Cypress	CA	63	47827
+Galveston	TX	49.3	47822
+Palm Desert	CA	36.7	47797
+Edina	MN	48.2	47782
+Logan	UT	48.3	47767
+Roswell	NM	38.8	47753
+Wilson	NC	37.6	47674
+Middletown	CT	40.7	47560
+Bel Air South	MD	33.9	47526
+Rancho Santa Margarita	CA	46.5	47496
+Florin	CA	48.6	47491
+Aliso Viejo	CA	55.4	47428
+Methuen Town	MA	40.5	47405
+Pearl City	HI	39.1	47384
+Mishawaka	IN	47.5	47370
+Salina	KS	45.6	47301
+Newark	OH	44.7	47243
+Country Club	FL	51.7	47238
+Binghamton	NY	61.1	47176
+Roseville	MI	53.5	47145
+Chesterfield	MO	34.1	47130
+Mentor	OH	34.1	47128
+Alexandria	LA	42.1	47100
+East Providence	RI	51.8	47082
+Pflugerville	TX	29.6	47050
+Coral Gables	FL	57.8	47018
+Georgetown	TX	32	46933
+Castle Rock	CO	19.1	46849
+Murray	UT	48.4	46749
+Bedford	TX	46.5	46643
+Wauwatosa	WI	60	46550
+Hattiesburg	MS	45.8	46534
+Olympia	WA	46.2	46428
+Huntersville	NC	23.8	46393
+Lehi	UT	21.3	46349
+Cleveland Heights	OH	64.3	46265
+Azusa	CA	57.4	46218
+Grapevine	TX	38.2	46147
+Portage	MI	29	46139
+Dublin	CA	42.2	45967
+Dunwoody	GA	42.5	45846
+Commerce City	CO	27.5	45787
+Lawrence	IN	30.5	45590
+Altoona	PA	59.5	45504
+Farmington	NM	39.2	45437
+Glenview	IL	49.2	45332
+Stillwater	OK	42.7	45289
+Barnstable Town	MA	32.7	45268
+Sammamish	WA	24.6	45261
+Doral	FL	43.6	45257
+Tuckahoe	VA	37.4	45245
+Texas City	TX	39.7	45224
+Kokomo	IN	45	45216
+Caldwell	ID	32.5	45173
+Antelope	CA	46.3	45122
+Ankeny	IA	39.3	45119
+Parker	CO	28.4	45071
+Beavercreek	OH	28.5	45012
+St. Louis Park	MN	58.4	44993
+Cedar Hill	TX	25.1	44935
+Potomac	MD	28.9	44925
+Strongsville	OH	30.4	44907
+West Seneca	NY	36.3	44770
+Jeffersonville	IN	29.4	44736
+Pittsfield	MA	45.3	44710
+Palm Springs	CA	44.8	44691
+Ceres	CA	46.3	44574
+San Marcos	TX	48.1	44376
+Biloxi	MS	34.4	44148
+San Jacinto	CA	33.3	44121
+Belleville	IL	48.1	44120
+Sierra Vista	AZ	31.9	44031
+Severn	MD	27.2	44026
+Elmhurst	IL	55	43996
+San Luis Obispo	CA	60.6	43973
+Bonita Springs	FL	26.4	43932
+Attleboro	MA	37.9	43737
+Wesley Chapel	FL	15.2	43713
+Collierville	TN	19.8	43670
+Twin Falls	ID	49.6	43615
+Moline	IL	51.2	43554
+Titusville	FL	32.9	43528
+North Bethesda	MD	58.2	43521
+North Highlands	CA	57.7	43505
+York	PA	65.5	43470
+Columbus	IN	33	43372
+Ashburn	VA	42.5	43326
+West Babylon	NY	48.4	43306
+Coeur d'Alene	ID	44.4	43194
+Hilo	HI	30	43127
+Jefferson City	MO	36.8	43106
+Charlottesville	VA	63	43010
+Lombard	IL	54.1	42951
+Maricopa	AZ	17	42905
+Danville	VA	34.3	42895
+Sayreville	NJ	36.5	42750
+Concord	NH	43.7	42702
+Fond du Lac	WI	50.1	42674
+Freeport	NY	61.7	42662
+Arlington	MA	67	42651
+DeKalb	IL	47.6	42622
+Hackensack	NJ	74.2	42617
+Newark	CA	60.3	42577
+Fairfield	OH	35.9	42518
+Madison	AL	23.1	42459
+Blacksburg	VA	47.4	42422
+Lincoln	CA	26.5	42419
+Bountiful	UT	37.5	42416
+Altadena	CA	54.3	42358
+Draper	UT	29.8	42352
+Kannapolis	NC	25.8	42327
+Haltom City	TX	38.4	42326
+Leesburg	VA	45	42204
+El Centro	CA	55.2	42142
+Burlington	VT	62.6	42120
+El Dorado Hills	CA	22	42106
+Catonsville	MD	46.4	41952
+Danville	CA	34.5	41868
+Summerville	SC	26.7	41843
+Dublin	OH	26.9	41833
+Lompoc	CA	56.7	41751
+Midland	MI	37.3	41743
+Lacey	WA	35.3	41716
+Hutchinson	KS	42.7	41654
+Littleton	CO	49.3	41648
+Hicksville	NY	60.4	41626
+Everett	MA	77.1	41594
+Urbana	IL	58.4	41581
+State College	PA	70.4	41525
+Rancho Palos Verdes	CA	39.7	41471
+Salem	MA	69.9	41394
+Wilkes-Barre	PA	67.3	41393
+Oakland Park	FL	57.2	41309
+Apopka	FL	25.2	41301
+Meridian	MS	37.5	41185
+Fort Pierce	FL	39.1	41154
+Wylie	TX	22.1	41109
+Bell Gardens	CA	67.3	41080
+Cleveland	TN	35.9	41067
+Burke	VA	37.5	41046
+Westfield	MA	38	41026
+Warren	OH	43.4	40972
+Findlay	OH	44.3	40954
+North Miami Beach	FL	66.1	40929
+South Valley	NM	29.5	40918
+University	FL	52.8	40901
+Lake Ridge	VA	33.4	40898
+Annandale	VA	49.8	40879
+Altamonte Springs	FL	48.6	40868
+Woonsocket	RI	58.5	40859
+Oro Valley	AZ	18.7	40801
+San Bruno	CA	58.2	40705
+Crystal Lake	IL	36.7	40697
+Covington	KY	48.8	40693
+Coachella	CA	34.5	40670
+North Lauderdale	FL	46.9	40642
+Linden	NJ	67.2	40640
+Buffalo Grove	IL	51.1	40513
+Leominster	MA	47	40483
+Fitchburg	MA	48.8	40462
+Norwich	CT	47.9	40404
+Cutler Bay	FL	37	40397
+Kearny	NJ	75.1	40350
+Minot	ND	49.8	40147
+Rohnert Park	CA	51.5	40144
+North Atlanta	GA	53.5	40112
+Quincy	IL	49	40092
+Smyrna	TN	29.1	39834
+Holyoke	MA	59.7	39827
+Bartlett	IL	30.2	39797
+Sumter	SC	34.7	39760
+Streamwood	IL	40.5	39694
+Atlantic City	NJ	68.1	39628
+Hagerstown	MD	58.6	39582
+Shelton	CT	26.8	39565
+New Berlin	WI	27.6	39548
+Culver City	CA	79	39501
+Romeoville	IL	33.3	39482
+Keller	TX	28.9	39448
+Urbandale	IA	41	39443
+San Gabriel	CA	72.2	39442
+Prescott	AZ	36	39417
+Bullhead City	AZ	27.9	39411
+Edmonds	WA	50	39407
+Beverly	MA	55.9	39398
+Campbell	CA	65.9	39368
+Coram	NY	30.7	39308
+Brea	CA	56	39174
+Carol Stream	IL	42	39138
+Essex	MD	43.1	39120
+Cedar Falls	IA	42.2	39076
+Muskogee	OK	35.5	39070
+North Fort Myers	FL	22.1	39052
+Hickory	NC	39.1	39041
+Prescott Valley	AZ	20.9	38984
+Duncanville	TX	44.5	38947
+La Puente	CA	52.1	38934
+Mankato	MN	50.3	38905
+Florence	AL	39.6	38868
+Rock Island	IL	54.7	38809
+Germantown	TN	27.1	38684
+Plainfield	IL	30.1	38645
+Wausau	WI	48.9	38514
+Riverton	UT	29	38511
+Maplewood	MN	30.3	38481
+Lima	OH	46.7	38450
+Marlborough	MA	46.9	38438
+Coppell	TX	37.6	38414
+Huntsville	TX	37.6	38410
+The Acreage	FL	6.3	38389
+Ormond Beach	FL	28.5	38362
+East Meadow	NY	57.4	38312
+Whitney	NV	38.6	38304
+Lancaster	OH	46.6	38256
+Calexico	CA	41.8	38212
+Huber Heights	OH	37.2	38163
+Sherman	TX	34.8	38113
+Lincoln Park	MI	53.5	38099
+Brookfield	WI	34.5	38092
+Woburn	MA	56.9	38074
+Muskegon	MI	47.9	38065
+Manassas	VA	48.4	38049
+Channelview	TX	31.5	38036
+Kailua	HI	43.9	37997
+Moorhead	MN	42.1	37953
+Bremerton	WA	56.4	37869
+Sun City	AZ	29.1	37842
+Cape Girardeau	MO	42.1	37778
+Annapolis	MD	58.8	37699
+Severna Park	MD	30.2	37667
+Woodlawn	MD	43.1	37666
+Park Ridge	IL	56.8	37642
+Clovis	NM	38.4	37618
+Greenfield	WI	46.1	37345
+Waipahu	HI	57.1	37337
+Mableton	GA	23.1	37287
+Wheeling	IL	52.2	37274
+Valley Stream	NY	65.9	37265
+Rockwall	TX	32.8	37250
+Hurst	TX	48.5	37217
+Brentwood	TN	13.3	37213
+Hilton Head Island	SC	26.3	37151
+Shakopee	MN	31.7	37093
+La Quinta	CA	29.4	37079
+Hanover Park	IL	46.4	37073
+Pacifica	CA	50.8	37017
+Morgan Hill	CA	42.4	37008
+Greenacres	FL	43	36996
+Puyallup	WA	42.1	36961
+Odenton	MD	30.1	36959
+Stanton	CA	65.6	36957
+Montclair	CA	60.4	36943
+Monrovia	CA	64	36832
+Bozeman	MT	57.4	36742
+Hallandale Beach	FL	56.6	36740
+Portage	IN	27.6	36700
+Roy	UT	32.9	36661
+Beloit	WI	46.9	36650
+Burleson	TX	30.4	36636
+Addison	IL	53.9	36620
+Lewiston	ME	51.9	36607
+Calumet City	IL	53.1	36603
+Brighton	NY	41.7	36535
+Richmond	IN	47.8	36529
+Carpentersville	IL	35.3	36492
+Lake Oswego	OR	50.9	36480
+Marion	OH	39.1	36480
+Gadsden	AL	34.5	36455
+Pahrump	NV	8.1	36438
+Longview	WA	44.9	36437
+Panama City	FL	42.7	36380
+Lancaster	TX	25.8	36355
+Florence	SC	37	36277
+Lynnwood	WA	56.7	36260
+Spartanburg	SC	40.1	36253
+Torrington	CT	45.6	36245
+Beaumont	CA	27.2	36218
+Texarkana	TX	38.1	36208
+The Colony	TX	32.5	36205
+Oakville	MO	27.6	36182
+Trumbull	CT	27.3	36180
+Commack	NY	43.4	36150
+Mechanicsville	VA	25.2	36140
+Rome	GA	35.3	36078
+New Albany	IN	45.7	36058
+Goose Creek	SC	23	36041
+Clinton	MD	22.9	36020
+Apache Junction	AZ	22.6	35972
+Keizer	OR	43.9	35908
+Dover	DE	45	35886
+Friendswood	TX	29.4	35841
+Temple City	CA	57.2	35840
+Braintree Town	MA	45.6	35831
+Kendall West	FL	52.7	35780
+Bell	CA	68.3	35754
+Westerville	OH	40.9	35729
+Menomonee Falls	WI	32.4	35727
+Apex	NC	34.4	35676
+Merrillville	IN	31.5	35640
+Mission Bend	TX	27.4	35610
+Franklin	WI	29	35586
+Northglenn	CO	52.3	35577
+Martinez	CA	48.8	35575
+Goldsboro	NC	35.3	35574
+Martinez	GA	32.5	35562
+Boardman	OH	37.8	35451
+Oakley	CA	28.4	35449
+Willowbrook	CA	45.8	35431
+Reynoldsburg	OH	39.6	35416
+Wildwood	MO	18.3	35381
+Linton Hall	VA	18	35348
+Valrico	FL	20.1	35283
+Los Banos	CA	43.1	35269
+Bartlesville	OK	33.9	35254
+Claremont	CA	52.2	35251
+Weslaco	TX	41.2	35138
+Leavenworth	KS	35.5	35129
+South Miami Heights	FL	39.8	35083
+Kearns	UT	34.9	35074
+Chelsea	MA	71.9	35071
+Parkland	WA	43.4	35058
+Marana	AZ	20.3	35052
+Dunedin	FL	44.6	35044
+Richfield	MN	54.4	35034
+University City	MO	59.7	35032
+Lufkin	TX	35.6	35008
+Aventura	FL	61.4	34943
+San Juan Capistrano	CA	46.3	34924
+Winter Haven	FL	33.3	34907
+Grove City	OH	37.5	34890
+Marumsco	VA	38.6	34866
+Plant City	FL	35	34845
+Fort Lee	NJ	76.3	34834
+Bay City	MI	58.8	34788
+Stow	OH	30.3	34772
+Merritt Island	FL	30.6	34756
+Bentonville	AR	29.1	34750
+Egypt Lake-Leto	FL	49.3	34729
+Manhattan Beach	CA	65.9	34673
+Lake Worth	FL	55.4	34661
+Hot Springs	AR	38.9	34642
+Marion	IA	37.2	34622
+Oak Creek	WI	32.2	34618
+Cottage Grove	MN	21.5	34598
+Tupelo	MS	31.9	34595
+West Little River	FL	46.4	34580
+Del Rio	TX	42	34578
+St. Cloud	FL	27.6	34526
+Ocoee	FL	27.6	34521
+Beverly Hills	CA	76.4	34449
+La Presa	CA	44	34357
+Spanish Fork	UT	35.8	34327
+Central Islip	NY	44.4	34308
+Peachtree City	GA	28.3	34242
+Greenville	MS	36.6	34217
+Orangevale	CA	42.9	34210
+Rubidoux	CA	34.7	34173
+Columbia	TN	30.6	34156
+Norristown	PA	68.6	34139
+Kaneohe	HI	45.3	34123
+Delaware	OH	40.5	34104
+Pekin	IL	40.6	33991
+Moorpark	CA	48.8	33983
+Inver Grove Heights	MN	29.1	33982
+Royal Palm Beach	FL	30.7	33943
+East Point	GA	40.2	33910
+Olney	MD	31.9	33910
+Hobbs	NM	48.6	33882
+Gainesville	GA	39.1	33867
+Upper Arlington	OH	48.9	33816
+Rome	NY	41.4	33773
+Hollister	CA	48.5	33711
+Grants Pass	OR	55.6	33645
+Bothell	WA	42.6	33641
+Prattville	AL	26.7	33616
+New City	NY	32.4	33615
+Oakton	VA	39	33611
+San Juan	TX	29.3	33610
+Winter Garden	FL	37.9	33581
+Brunswick	OH	33.4	33579
+Jackson	MI	55.7	33572
+Chester	PA	55.3	33568
+Manitowoc	WI	44.7	33488
+Pleasant Grove	UT	35.6	33483
+Butte-Silver Bow	MT	44.6	33473
+San Dimas	CA	45.4	33418
+Carrollwood	FL	39.1	33413
+La Porte	TX	30.3	33394
+Roseville	MN	44.4	33376
+Houma	LA	51.4	33341
+Olive Branch	MS	20.7	33332
+Golden Glades	FL	48.1	33328
+Elmont	NY	57.5	33315
+Vestavia Hills	AL	34.9	33274
+Cottonwood Heights	UT	45.6	33269
+Bettendorf	IA	41.8	33198
+Dana Point	CA	61.2	33192
+Long Beach	NY	66.7	33181
+Westlake	OH	37.6	33164
+Pleasant Hill	CA	62.6	33116
+Glendale Heights	IL	48.9	33079
+Bangor	ME	50.2	33061
+Seaside	CA	48.5	33043
+Brighton	CO	37.1	33019
+Winter Springs	FL	25.3	33013
+Burien	WA	54.6	32981
+West Hollywood	CA	89.4	32963
+Huntington Station	NY	57	32948
+Holland	MI	52	32945
+Marrero	LA	48.5	32896
+Security-Widefield	CO	27.5	32879
+Gahanna	OH	35.5	32831
+Oviedo	FL	25.2	32825
+Redan	GA	30.8	32800
+Salisbury	NC	36.5	32790
+Hinesville	GA	27.5	32771
+Elk Grove Village	IL	49.1	32769
+Indian Trail	NC	18.3	32757
+Chillum	MD	51.8	32755
+Northbrook	IL	51.3	32672
+Nacogdoches	TX	39.8	32666
+Poughkeepsie	NY	66.7	32662
+Milton	GA	19.4	32658
+Danville	IL	41.1	32580
+Menlo Park	CA	62.4	32548
+St. Charles	IL	45.8	32547
+North Olmsted	OH	42.7	32538
+Newnan	GA	34	32519
+Lauderdale Lakes	FL	49.1	32509
+Phenix City	AL	30.4	32505
+Foothill Farms	CA	48.2	32490
+Eastpointe	MI	58.6	32484
+La Vergne	TN	17.6	32454
+Woodridge	IL	43.7	32435
+Riviera Beach	FL	39.7	32426
+Bethel Park	PA	41.2	32378
+Randallstown	MD	30.7	32369
+Dalton	GA	40.2	32346
+Oildale	CA	46.2	32344
+Fair Lawn	NJ	63.8	32332
+Ken Caryl	CO	45.7	32310
+Petersburg	VA	35.8	32298
+Fairborn	OH	36.3	32197
+Oceanside	NY	61	32126
+Monroe	NC	32.2	32122
+Wildomar	CA	18.6	32108
+Leawood	KS	36	32090
+Massillon	OH	45.7	32077
+Watertown Town	MA	73.5	32052
+Deer Park	TX	39.3	32011
+Socorro	TX	21.5	32002
+North Chicago	IL	37.1	31902
+El Mirage	AZ	32.1	31888
+Randolph	MA	42.9	31869
+Lawndale	CA	70.9	31843
+Dakota Ridge	CO	35.9	31782
+Land O' Lakes	FL	22.8	31754
+Naugatuck	CT	38.5	31730
+Lewiston	ID	48.9	31644
+Lexington	MA	39	31644
+Mount Vernon	WA	43	31636
+Franklin Town	MA	31.6	31612
+Wenatchee	WA	55.2	31553
+North Tonawanda	NY	46.9	31548
+Valparaiso	IN	49	31530
+Centereach	NY	31.9	31516
+Copperas Cove	TX	29.8	31496
+Galesburg	IL	49.2	31461
+Richmond West	FL	26.8	31450
+Hopkinsville	KY	34.5	31426
+Fairbanks	AK	50.6	31415
+Mooresville	NC	30.2	31395
+Walla Walla	WA	53	31374
+McMinnville	OR	50.8	31367
+Schertz	TX	25.6	31307
+Montgomery Village	MD	43.1	31303
+University Place	WA	41.1	31299
+Tooele	UT	34.4	31283
+Adelanto	CA	11.3	31266
+Parkersburg	WV	50.4	31254
+Goshen	IN	38.3	31251
+Navarre	FL	14.2	31251
+Michigan City	IN	42.1	31209
+Juneau	AK	31.1	31181
+East Lake	FL	18.6	31172
+Newark	DE	50.9	31136
+Richmond	KY	47.6	31100
+Mason	OH	31.3	31088
+Oregon City	OR	49.3	30980
+Pikesville	MD	44.8	30972
+Fair Oaks	CA	46.5	30955
+Jamestown	NY	56.5	30955
+University	FL	34.7	30940
+Lakeside	FL	30	30796
+La Verne	CA	50.6	30785
+Mundelein	IL	48.3	30783
+Owings Mills	MD	45.7	30777
+Bel Air North	MD	26.2	30752
+Gurnee	IL	35.9	30699
+Westmont	CA	55.2	30684
+Parkville	MD	53.3	30661
+Long Branch	NJ	60	30612
+Newington	CT	44.4	30595
+Andover	MN	21.4	30585
+Laguna Hills	CA	55.3	30585
+Eldersburg	MD	22.6	30567
+Rosenberg	TX	40.1	30548
+West Bend	WI	43	30540
+Niles	IL	62.6	30463
+Englewood	CO	62.8	30458
+North Royalton	OH	25.5	30424
+Ballwin	MO	31.3	30409
+Kearney	NE	49.8	30397
+Cookeville	TN	40.1	30392
+Springfield	VA	48.7	30387
+Laramie	WY	44.1	30335
+Garfield	NJ	73.7	30325
+Westfield	NJ	48.8	30314
+Granger	IN	14.2	30278
+Granite City	IL	39.4	30265
+Wheat Ridge	CO	57.4	30244
+Alamogordo	NM	34.6	30228
+Morgantown	WV	63	30223
+Manchester	CT	61.6	30209
+Foster City	CA	52.4	30160
+Salisbury	MD	51.5	30150
+Saratoga	CA	39	30122
+New Iberia	LA	50.6	30113
+Burton	MI	32.4	30096
+Chicago Heights	IL	48.9	30061
+Port Huron	MI	34.3	30059
+Fallbrook	CA	47.8	30004
+Brooklyn Center	MN	42.5	29994
+Douglasville	GA	30	29973
+Gallatin	TN	33.7	29963
+Alabaster	AL	20.7	29943
+East Hill-Meridian	WA	29.9	29932
+Spring Valley	NY	58.7	29922
+Benton	AR	27.4	29890
+Texarkana	AR	36.4	29882
+Westfield	IN	27.9	29872
+Laplace	LA	30.8	29869
+College Park	MD	55	29857
+Dover	NH	38.9	29853
+Shawnee	OK	39.7	29845
+Highland Park	IL	53.2	29831
+Oswego	IL	32.7	29810
+Marion	IN	45.9	29803
+Southgate	MI	56.6	29800
+Carney	MD	46.3	29707
+Fair Oaks	VA	55.4	29684
+Algonquin	IL	37.2	29664
+Bowling Green	OH	51.5	29658
+Rochester	NH	31.8	29642
+Waxahachie	TX	32.6	29613
+Clearfield	UT	44.2	29607
+Los Gatos	CA	52.1	29573
+El Paso de Robles (Paso Robles)	CA	47.7	29546
+Madison Heights	MI	62.8	29542
+Sherwood	AR	26	29542
+East Chicago	IN	62.1	29538
+Pullman	WA	55.5	29528
+Fort Hood	TX	14.4	29519
+Westchester	FL	53.5	29516
+Pueblo West	CO	12.1	29507
+Ithaca	NY	71.7	29504
+East Haven	CT	42.6	29482
+North Ridgeville	OH	22.5	29476
+West Falls Church	VA	53.4	29471
+Walnut	CA	41	29470
+Austintown	OH	34.4	29452
+Goleta	CA	58.4	29423
+Issaquah	WA	38.4	29419
+LaGrange	GA	34	29409
+Raytown	MO	35.2	29405
+Banning	CA	35.3	29403
+New Bern	NC	38.1	29397
+Oak Park	MI	54.9	29365
+Oak Ridge	TN	27.5	29259
+Kennesaw	GA	36.1	29251
+Franklin Square	NY	69.2	29244
+Des Moines	WA	50.9	29225
+Cleburne	TX	34.7	29223
+West Lafayette	IN	52.6	29221
+Williamsport	PA	62.8	29211
+Liberty	MO	34.2	29154
+Evans	GA	17.1	29129
+Elmira	NY	53.8	29113
+Los Altos	CA	50.4	29108
+Florence	KY	47.2	29092
+Hobart	IN	34.7	29049
+Morristown	TN	36.6	29027
+Milford Mill	MD	41.4	28999
+Dania Beach	FL	56.3	28996
+Sun Prairie	WI	38.7	28982
+Springville	UT	29	28975
+Needham	MA	46.3	28968
+Ferry Pass	FL	32.5	28966
+San Pablo	CA	55.8	28934
+Fruit Cove	FL	16.6	28929
+Miami Lakes	FL	48.8	28921
+Schererville	IN	32.7	28895
+Farmers Branch	TX	50	28892
+Port Chester	NY	77.7	28862
+Hilliard	OH	35.2	28860
+Spring Hill	TN	17.6	28842
+Lake in the Hills	IL	26.2	28833
+Monroeville	PA	35.6	28814
+Cedar City	UT	41.6	28772
+Gloucester	MA	48.5	28766
+Garfield Heights	OH	52.1	28753
+Newburgh	NY	68.7	28747
+Burbank	IL	55.3	28735
+Santa Paula	CA	60.3	28731
+Shaker Heights	OH	48.2	28700
+Lawrenceville	GA	39	28682
+Northampton	MA	50.4	28570
+Allen Park	MI	53.3	28569
+Elizabethtown	KY	38.9	28538
+Orcutt	CA	32.7	28529
+Cooper City	FL	40.3	28508
+Aiken	SC	30.6	28467
+Spring Valley	CA	41.6	28449
+West Springfield Town	MA	41.2	28449
+Perry Hall	MD	39.8	28443
+Lake Magdalene	FL	36.6	28434
+Kent	OH	51.2	28432
+Norwood	MA	56.5	28431
+Millville	NJ	39	28400
+Agawam Town	MA	32.1	28380
+Clermont	FL	31.3	28310
+West Islip	NY	43.2	28306
+Burlingame	CA	67.2	28295
+Wake Forest	NC	29.8	28259
+Gillette	WY	32.3	28228
+Atascadero	CA	35.7	28220
+Wheeling	WV	48.3	28092
+San Carlos	CA	51.5	28077
+Owasso	OK	31.9	28047
+Georgetown	KY	31.5	28034
+Henderson	KY	33.3	28034
+Kingman	AZ	35.7	28016
+Mason City	IA	46.3	28015
+Jacksonville	AR	29.9	28005
+Mehlville	MO	45.7	28005
+Helena	MT	59.8	27998
+Round Lake Beach	IL	44	27980
+Winter Park	FL	50.4	27958
+Drexel Heights	AZ	21.9	27894
+Wentzville	MO	17.9	27875
+Russellville	AR	33.8	27867
+Statesboro	GA	47.8	27857
+Shirley	NY	29.8	27855
+Garden City	MI	49.7	27849
+Maryland Heights	MO	36.3	27845
+Wellesley	MA	50.6	27836
+Midvale	UT	57.9	27800
+Suisun City	CA	43	27788
+Drexel Hill	PA	60.2	27753
+Alton	IL	40.1	27751
+Tucker	GA	37.2	27730
+Norco	CA	33.3	27702
+Deer Park	NY	49.8	27670
+Lansing	IL	50	27634
+Auburn	NY	55.6	27625
+Kyle	TX	18.4	27620
+Bessemer	AL	30.5	27614
+Sterling	VA	45.2	27575
+Winona	MN	52.1	27510
+Sanford	NC	30.8	27460
+Ridgecrest	CA	42.3	27453
+Winchester	NV	61.4	27452
+Lake Stevens	WA	31.4	27442
+Atwater	CA	44.9	27435
+Mililani Town	HI	47.9	27425
+Matthews	NC	32.1	27423
+Marshalltown	IA	50.8	27420
+Eureka	CA	66.2	27405
+Kirkwood	MO	47.1	27402
+O'Fallon	IL	31.9	27401
+Harrison	NY	43.9	27397
+Plainfield	IN	27.8	27396
+Middletown	NY	64.9	27394
+Kankakee	IL	52.2	27366
+Milton	MA	41.5	27365
+Oakdale	MN	31.2	27343
+Glen Ellyn	IL	55.5	27311
+Fridley	MN	44.6	27299
+Monterey	CA	64.6	27292
+New London	CT	62.7	27282
+Kaysville	UT	28.4	27241
+Maryville	TN	37.5	27229
+Superior	WI	49.3	27228
+SeaTac	WA	45.6	27226
+Rahway	NJ	68.6	27210
+Lindenhurst	NY	60.2	27194
+East Palo Alto	CA	56.9	27174
+Crown Point	IN	36.3	27138
+Fleming Island	FL	21.9	27127
+Slidell	LA	48.5	27123
+Post Falls	ID	33.8	27122
+Englewood	NJ	60.5	27112
+University Park	FL	56.8	27097
+Plum	PA	22.2	27049
+Spanaway	WA	29.1	27027
+Melrose	MA	55.7	27023
+Dix Hills	NY	25.1	27007
+Holbrook	NY	41.6	27000
+Dodge City	KS	50.1	26983
+Nicholasville	KY	34.3	26973
+Wilmette	IL	59.7	26972
+Watertown	NY	57.9	26969
+Benicia	CA	46.9	26936
+Oak Forest	IL	45	26903
+Crofton	MD	35.6	26891
+Clinton	IA	46.7	26877
+Central	LA	13.2	26866
+Big Spring	TX	31.4	26844
+Savage	MN	31.9	26840
+Prairieville	LA	18.9	26839
+Southlake	TX	23.7	26800
+Lake Jackson	TX	34.4	26796
+Wethersfield	CT	39.7	26786
+Glen Cove	NY	59.9	26760
+Easton	PA	69.9	26754
+Bristol	TN	33.9	26747
+Mount Pleasant	WI	28.3	26746
+Jeffersontown	KY	42.7	26737
+East St. Louis	IL	36.9	26707
+Stevens Point	WI	55.2	26654
+Myrtle Beach	SC	48.6	26649
+McHenry	IL	38.5	26646
+Saugus	MA	50.2	26644
+Maywood	CA	67.9	26577
+Danvers	MA	47.5	26574
+Little Elm	TX	23.9	26563
+Saratoga Springs	NY	46	26563
+Leander	TX	27.3	26529
+Paramus	NJ	55.3	26525
+Bergenfield	NJ	63.4	26498
+Kahului	HI	42.4	26481
+Magna	UT	35.4	26426
+Garden City	KS	49.1	26374
+Opelika	AL	25.8	26374
+Westport	CT	35.7	26374
+DeLand	FL	39.3	26352
+Thomasville	NC	32.9	26352
+Harker Heights	TX	28.4	26347
+Smithtown	NY	33.5	26315
+Queen Creek	AZ	26.2	26284
+Anderson	SC	41.8	26278
+West Chicago	IL	39.1	26272
+Plainview	NY	56.4	26246
+Holladay	UT	46.2	26237
+Barberton	OH	47.6	26230
+Enterprise	AL	29.4	26222
+Medina	OH	38.9	26222
+Fortuna Foothills	AZ	17	26214
+Bella Vista	AR	7.3	26213
+Bay Shore	NY	54.9	26195
+Casselberry	FL	43.1	26171
+West Memphis	AR	34.9	26155
+Eagle Pass	TX	41.2	26150
+Kingsville	TX	43.2	26130
+Horn Lake	MS	28.2	26108
+Lebanon	TN	31.5	26102
+Windsor	CA	48.7	26096
+Paradise	CA	35.1	26044
+Desert Hot Springs	CA	39.4	26041
+Duluth	GA	41.8	26038
+Redmond	OR	40.2	26024
+Imperial Beach	CA	58.3	26008
+South Laurel	MD	39.9	25999
+Mount Pleasant	MI	60.8	25985
+Four Corners	FL	18.8	25980
+Carlsbad	NM	44.8	25968
+Wyandotte	MI	50.3	25943
+Paragould	AR	30.5	25942
+Winchester	VA	58.2	25909
+Wooster	OH	45	25900
+Forest Hills	MI	16.5	25847
+Aberdeen	SD	50.5	25846
+American Fork	UT	39.5	25815
+Fremont	NE	52.8	25803
+Lemon Grove	CA	48.4	25799
+Reisterstown	MD	46.2	25790
+Tualatin	OR	43.6	25748
+West Fargo	ND	36.4	25713
+Carbondale	IL	49.5	25706
+Melrose Park	IL	67	25682
+Fountain	CO	23.6	25658
+Green	OH	16.1	25645
+Sandusky	OH	52.7	25606
+Burlington	IA	43.2	25603
+Hazelwood	MO	39.3	25558
+Belmont	CA	59.2	25550
+Buenaventura Lakes	FL	23.5	25545
+Lochearn	MD	37.8	25533
+Meadow Woods	FL	19.6	25526
+Xenia	OH	35.9	25526
+Greenville	TX	32.8	25513
+South Pasadena	CA	67.7	25503
+Edgewood	MD	30.7	25496
+Florence	AZ	20.7	25470
+Freeport	IL	47.1	25446
+Rexburg	ID	53.3	25439
+Hazleton	PA	64.3	25432
+Gladstone	MO	39.1	25379
+Lebanon	PA	60.9	25316
+Ponca City	OK	46.9	25293
+Inkster	MI	39.7	25279
+Batavia	IL	39.6	25277
+San Luis	AZ	15.2	25252
+Owatonna	MN	33.8	25249
+Zanesville	OH	48.6	25228
+Sahuarita	AZ	13.6	25224
+Seguin	TX	41.4	25222
+Neenah	WI	45.5	25217
+Collinsville	IL	40.2	25194
+Frankfort	KY	42.7	25169
+Suitland	MD	39.1	25159
+Middle River	MD	42.9	25155
+Clinton	MS	29.4	25126
+Paris	TX	42.9	25121
+Wasco	CA	36.5	25116
+Stockbridge	GA	29.7	25100
+Harvey	IL	50.6	25078
+Fitchburg	WI	38.8	25072
+Fort Dodge	IA	45.9	25066
+Belvidere	IL	40.1	25037
+Greer	SC	32.3	25034
+Weatherford	TX	31.9	25027
+Wakefield	MA	53.8	25011
+Milford	MA	45.5	24999
+Riverside	OH	39.6	24995
+Bridgeton	NJ	48.2	24988
+Ridgewood	NJ	52.9	24962
+Paducah	KY	43.4	24957
+Pearl	MS	27.7	24942
+Rockledge	FL	31.8	24927
+Garner	NC	34.7	24908
+Homewood	AL	52.9	24880
+Dedham	MA	54.6	24872
+Twentynine Palms	CA	18.6	24871
+Vineyard	CA	25	24846
+South Portland	ME	46.2	24835
+Laurel	MD	55.2	24819
+Caledonia	WI	18.6	24799
+North Tustin	CA	35.7	24746
+Burlington	MA	41.1	24729
+Ottumwa	IA	45.5	24715
+Cave Spring	VA	38.1	24699
+Hastings	NE	55.6	24698
+Temple Terrace	FL	48.4	24686
+Belmont	MA	63.4	24653
+Emporia	KS	55.8	24637
+Troy	OH	42.9	24631
+Uniondale	NY	62.3	24603
+Newport	RI	67.9	24602
+West Whittier-Los Nietos	CA	56	24598
+West Linn	OR	45.4	24588
+Corcoran	CA	23.8	24578
+Ossining	NY	63.7	24560
+Pasadena	MD	34.3	24547
+Coral Terrace	FL	57.5	24536
+Salem	VA	40.6	24536
+Soledad	CA	30.2	24520
+Austin	MN	43.9	24512
+Reading	MA	47.6	24500
+Key West	FL	64.4	24478
+Brawley	CA	44.3	24467
+Short Pump	VA	34	24467
+Grandview	MO	31.8	24462
+Scaggsville	MD	31.7	24455
+Lockport	IL	29.3	24433
+North Platte	NE	47.6	24405
+Vernon Hills	IL	42.6	24402
+Asheboro	NC	35	24362
+Shoreview	MN	27.5	24353
+Seal Beach	CA	51.3	24316
+Citrus Park	FL	31.2	24287
+Independence	KY	17.1	24264
+Elmwood Park	IL	70.1	24259
+Columbine	CO	43.5	24240
+Statesville	NC	42	24240
+Sun City West	AZ	17	24240
+Ardmore	OK	39.8	24230
+Balch Springs	TX	33.7	24196
+Summerlin South	NV	27.6	24191
+Syracuse	UT	28.9	24178
+North Potomac	MD	30.5	24173
+Trotwood	OH	29.7	24163
+Westmont	IL	56.2	24160
+Muskego	WI	23.8	24145
+San Benito	TX	39.1	24140
+Carrollton	GA	35.1	24139
+Loves Park	IL	39.9	24137
+Alvin	TX	38	24130
+Homer Glen	IL	20.8	24127
+Ridgeland	MS	40.6	24123
+South Riding	VA	26.7	24113
+Baldwin	NY	66.5	24110
+Fredericksburg	VA	49.4	24104
+Immokalee	FL	27.8	24099
+Woodstock	IL	38.1	24086
+Medford	NY	28.4	24085
+Centerville	OH	41.6	24078
+North Haven	CT	32.2	24075
+Rockville Centre	NY	64.5	24069
+Norton Shores	MI	24.2	24052
+Zion	IL	45.6	24035
+Lafayette	CA	32.6	24016
+Edwardsville	IL	40.7	23990
+Lemoore	CA	47.7	23977
+Lodi	NJ	70	23961
+Lafayette	CO	46.6	23957
+Keystone	FL	11.9	23951
+New Lenox	IL	34.4	23938
+Holt	MI	29.2	23920
+Romulus	MI	25.2	23916
+Madison	MS	17.7	23900
+Sanger	CA	50.1	23887
+Huntley	IL	18.9	23864
+San Fernando	CA	68.7	23846
+Norfolk	NE	47.1	23804
+Reedley	CA	50.9	23803
+Starkville	MS	40.3	23791
+Parkland	FL	26.2	23779
+Rolling Meadows	IL	49.7	23775
+Vicksburg	MS	30.4	23771
+Maywood	IL	56.3	23737
+Fort Washington	MD	24.2	23727
+Waverly	MI	41.4	23722
+Hercules	CA	44	23714
+Kingston	NY	62.8	23712
+South Salt Lake	UT	62.8	23708
+Staunton	VA	42.9	23699
+Chaska	MN	30.9	23679
+South Plainfield	NJ	49.7	23657
+Watertown	WI	49.5	23642
+Fairland	MD	37.5	23640
+Graham	WA	14.5	23627
+Cudahy	CA	67.2	23626
+Corsicana	TX	37.2	23621
+Bloomington	CA	33	23617
+White Bear Lake	MN	44	23605
+Highland	IN	55.8	23597
+Athens	OH	63	23595
+Mequon	WI	23.1	23595
+Holly Springs	NC	25.1	23592
+Ramsey	MN	14.3	23588
+Walker	MI	33.4	23572
+Columbus	MS	43.9	23553
+Moscow	ID	57.6	23548
+Munster	IN	41	23547
+De Pere	WI	40.7	23544
+Cornelius	NC	35.7	23514
+Woodburn	OR	51.2	23512
+Old Bridge	NJ	34.2	23490
+Lincolnia	VA	51.1	23440
+Duncan	OK	39.1	23429
+Marshall	TX	34.4	23427
+Keene	NH	52.1	23393
+Tarpon Springs	FL	37.6	23387
+Peekskill	NY	69.5	23359
+Chantilly	VA	43.4	23347
+Herndon	VA	58.6	23344
+Palmetto Bay	FL	35.4	23335
+Anniston	AL	33.4	23333
+El Cerrito	CA	63.8	23322
+Bayonet Point	FL	32.2	23319
+Ilchester	MD	29.8	23319
+Solon	OH	22.2	23310
+Franklin	IN	35.3	23297
+Mount Juliet	TN	21.6	23297
+Morton Grove	IL	58.9	23290
+Fairfax	VA	58.8	23236
+Faribault	MN	35	23219
+Watauga	TX	50.9	23207
+Bellview	FL	20.1	23200
+Machesney Park	IL	31.8	23189
+Terrytown	LA	57.7	23187
+San Lorenzo	CA	58.1	23171
+Cabot	AR	28	23164
+Golden Gate	FL	40.9	23162
+Griffin	GA	39.7	23155
+New Castle	PA	49.2	23149
+Webster Groves	MO	50.4	23140
+Woodstock	GA	31	23137
+Chanhassen	MN	23.1	23122
+Colleyville	TX	30	23111
+University Park	TX	69.9	23085
+French Valley	CA	13.3	23076
+Auburn	ME	38.4	23070
+Dolton	IL	48.3	23062
+Galt	CA	40.2	23058
+Arnold	MD	23.2	23048
+Palm City	FL	20.5	23036
+Loma Linda	CA	39.8	23031
+Garden City	NY	59.7	23030
+Bainbridge Island	WA	31.1	23025
+Cliffside Park	NJ	79.9	23025
+Vero Beach South	FL	29.7	22973
+Elk River	MN	23.8	22959
+Blue Island	IL	66.4	22945
+Champlin	MN	32.2	22939
+East Peoria	IL	29.1	22939
+Cloverleaf	TX	44.9	22924
+Belton	MO	34.2	22913
+Maple Heights	OH	45.8	22899
+East Lake-Orient Park	FL	33.4	22888
+Muscatine	IA	47.7	22884
+Bailey's Crossroads	VA	67.3	22881
+Landover	MD	42.7	22877
+Rock Springs	WY	42.9	22864
+Greenbelt	MD	52.3	22851
+Selma	CA	48.6	22836
+Greenwood	SC	41.7	22834
+Junction City	KS	37.9	22823
+Candler-McAfee	GA	35.3	22788
+Copiague	NY	62.2	22783
+Barstow	CA	41.1	22781
+Searcy	AR	46.3	22776
+Oak Ridge	FL	37	22746
+Carteret	NJ	57.3	22718
+Mercer Island	WA	43.8	22699
+Ladera Ranch	CA	40.3	22698
+West Odessa	TX	9.2	22695
+Rosemont	CA	46.8	22683
+The Crossings	FL	54.8	22659
+Prior Lake	MN	24.6	22650
+Prichard	AL	30.1	22617
+Inglewood-Finn Hill	WA	40.1	22614
+Mint Hill	NC	17.8	22604
+Leisure City	FL	43.1	22584
+Laguna Beach	CA	49	22571
+Wilmington	MA	31.7	22548
+Cottage Lake	WA	16	22546
+Yukon	OK	39.9	22536
+Wright	FL	39.4	22533
+Hopewell	VA	37	22461
+Pascagoula	MS	38.8	22450
+Denison	TX	31.8	22446
+Estero	FL	23.9	22437
+Bloomingdale	FL	25.1	22431
+Avon Lake	OH	30.9	22417
+Kernersville	NC	34.2	22395
+Calabasas	CA	29.6	22382
+Roselle	IL	47.9	22376
+Valinda	CA	49.5	22375
+East Patchogue	NY	34.4	22335
+Port Hueneme	CA	55.3	22333
+Van Buren	AR	29.8	22328
+Fountain Hills	AZ	26.2	22316
+Temescal Valley	CA	18.8	22311
+Northport	AL	33.3	22289
+South Holland	IL	46	22282
+Isla Vista	CA	57.3	22273
+South Bradenton	FL	50.4	22271
+Willoughby	OH	41.7	22270
+Holiday	FL	31.9	22261
+Pottstown	PA	61.8	22253
+Hudson	OH	22.3	22227
+New Smyrna Beach	FL	28.3	22220
+Riverbank	CA	42.4	22220
+Hialeah Gardens	FL	49.4	22215
+Northdale	FL	25.9	22203
+West Puente Valley	CA	58.4	22179
+Hamtramck	MI	68.8	22176
+Alliance	OH	48.1	22157
+West Springfield	VA	33.9	22147
+Mauldin	SC	33.1	22133
+Brent	FL	35	22120
+Plainview	TX	38	22091
+Bloomingdale	IL	54	22083
+Darien	IL	42.8	22059
+Somerset	NJ	32.6	22050
+Mira Loma	CA	29.2	22045
+Kerrville	TX	43.8	22041
+Crystal	MN	50.3	22036
+Merrick	NY	59.6	22015
+South Euclid	OH	56.1	22013
+Canton	GA	30.5	21965
+Lisle	IL	51.8	21941
+Brookings	SD	49.1	21926
+Herriman	UT	17.2	21926
+Derby	KS	37.2	21908
+Lennox	CA	64	21907
+West Carson	CA	60	21892
+Ewa Gentry	HI	37.1	21885
+Wekiwa Springs	FL	27.7	21869
+Rosemount	MN	26.6	21857
+La Porte	IN	49	21847
+Hastings	MN	38.9	21844
+Derry	NH	37.7	21842
+Westchase	FL	36.4	21835
+Brushy Creek	TX	25.1	21807
+Princeton	FL	22.7	21806
+Chillicothe	OH	50.4	21804
+Athens	AL	30.1	21786
+Sebastian	FL	19.3	21767
+Marysville	OH	31.7	21751
+Maple Valley	WA	34	21738
+Brandon	MS	18	21710
+Oak Harbor	WA	39.5	21675
+Ruston	LA	39.6	21675
+Columbus	NE	55.8	21659
+Ashland	KY	41.5	21630
+Villa Park	IL	55	21600
+Summit	NJ	53.8	21588
+Roselle	NJ	62.6	21587
+Ashland	CA	66.5	21561
+Massapequa	NY	52.6	21557
+Anthem	AZ	29.9	21553
+North Plainfield	NJ	61.7	21544
+Charleston	IL	50.8	21537
+South Elgin	IL	38.3	21522
+North Augusta	SC	30.9	21520
+Taylors	SC	21.8	21504
+Millbrae	CA	57.3	21483
+Prairie Village	KS	47.3	21453
+Jacksonville Beach	FL	48.8	21450
+Okemos	MI	35.2	21415
+Allison Park	PA	25	21407
+Radcliff	KY	30.9	21406
+New Brighton	MN	41.7	21399
+McDonough	GA	29.6	21394
+Clarksville	IN	40.7	21346
+Eagle Mountain	UT	15.9	21342
+Dinuba	CA	51.3	21339
+Auburn Hills	MI	36	21338
+Avon	OH	22.6	21334
+Stoneham	MA	55.4	21328
+Bay Point	CA	41.6	21326
+Marquette	MI	55.2	21324
+Pelham	AL	25.6	21314
+Gallup	NM	40.7	21289
+Kinston	NC	39.1	21282
+Rancho San Diego	CA	36	21266
+Canyon Lake	TX	6.4	21251
+Biddeford	ME	46	21248
+Geneva	IL	46.5	21246
+Newberg	OR	54.5	21244
+Green Valley	AZ	22.1	21239
+Winchester	MA	46.7	21231
+Sedalia	MO	48.7	21230
+Park Forest	IL	42.9	21210
+Ferguson	MO	46.5	21209
+Benbrook	TX	30	21181
+Lockport	NY	55.6	21164
+West Pensacola	FL	41.6	21157
+South Lake Tahoe	CA	51.7	21155
+Wadsworth	OH	43.3	21138
+Albertville	AL	22.5	21108
+Oxford	OH	57.1	21085
+East Moline	IL	40.1	21065
+Del City	OK	41.4	21038
+Daphne	AL	29.7	21027
+South Milwaukee	WI	44.1	21001
+Forest Grove	OR	52.5	20993
+Sidney	OH	40.6	20985
+Arnold	MO	34.1	20983
+Roseburg	OR	57.9	20981
+Watertown	SD	45.7	20957
+Chester	VA	23.6	20953
+Hauppauge	NY	36.6	20947
+Brownsburg	IN	32.2	20925
+Adrian	MI	55.3	20923
+Darien	CT	41.1	20912
+Waynesboro	VA	38.9	20906
+Palm River-Clair Mel	FL	25.4	20903
+Kihei	HI	48.5	20854
+Silver Firs	WA	22.3	20841
+Farmington	MN	27	20825
+Edgewater	FL	22.9	20793
+Cumberland	MD	55.2	20792
+Christiansburg	VA	34	20783
+Lumberton	NC	34.4	20783
+Mililani Mauka	HI	23.9	20767
+Cockeysville	MD	42.1	20765
+Farragut	TN	24.6	20714
+Rotterdam	NY	48.1	20706
+Johnstown	PA	50.4	20693
+Portsmouth	NH	56.4	20692
+Nogales	AZ	34.3	20687
+East Ridge	TN	38	20671
+Klamath Falls	OR	48.5	20664
+Yucca Valley	CA	25.9	20658
+Oxford	AL	16.1	20657
+Lakeside	CA	36	20647
+Sunny Isles Beach	FL	57.6	20628
+Selma	AL	40.3	20627
+Duarte	CA	54.6	20620
+Grayslake	IL	39.2	20613
+Harvey	LA	54.7	20564
+Parma Heights	OH	53.6	20564
+Affton	MO	41.3	20540
+Granite Bay	CA	23.1	20531
+Bixby	OK	21.8	20526
+South El Monte	CA	61.7	20523
+Ensley	FL	27	20512
+West Mifflin	PA	37.1	20504
+Wade Hampton	SC	40.4	20497
+Golden Valley	MN	43.4	20495
+Glen Avon	CA	32.5	20492
+Rose Hill	VA	39.6	20485
+Bethany	OR	49.5	20478
+Venice	FL	35	20474
+Monroe	MI	53.8	20458
+Kenmore	WA	42.3	20456
+Winter Gardens	CA	34.7	20435
+Oregon	OH	33.4	20431
+Clinton	UT	37.4	20412
+St. Andrews	SC	40.3	20408
+Crest Hill	IL	31.7	20407
+Miamisburg	OH	34.7	20406
+Mountain Brook	AL	31.8	20402
+Greenfield	IN	35.1	20398
+Moses Lake	WA	40.3	20370
+Woodlawn	VA	44.5	20369
+Lino Lakes	MN	15.6	20368
+Murrysville	PA	21.2	20363
+Perrysburg	OH	38.8	20362
+Crestview	FL	26.3	20357
+Haines City	FL	29.9	20351
+Pleasant Prairie	WI	18.8	20329
+Oakleaf Plantation	FL	15.3	20293
+Oakdale	CA	55.2	20292
+Blythe	CA	30.7	20287
+Ramona	CA	39.5	20281
+Piqua	OH	44.2	20275
+Sulphur	LA	42.3	20235
+Arbutus	MD	52.5	20222
+Liberal	KS	46.9	20202
+Ashland	OH	52.7	20175
+Milwaukie	OR	59.3	20166
+Gardner	MA	46.7	20162
+Leesburg	FL	35.4	20158
+Sapulpa	OK	28	20152
+La Cañada Flintridge	CA	44.2	20139
+Portsmouth	OH	48.5	20132
+Rocky River	OH	58.9	20131
+South St. Paul	MN	46.6	20116
+Hayesville	OR	47.6	20101
+Eastmont	WA	29.6	20095
+Havelock	NC	30.4	20086
+Hays	KS	54.9	20084
+East Northport	NY	53	20083
+Sachse	TX	22.1	20082
+Lake Ronkonkoma	NY	45	20072
+Shelbyville	TN	31.9	20068
+Pittsburg	KS	46.8	20060
+Shelby	NC	38	20050
+Chambersburg	PA	59.2	20049
+Pleasantville	NJ	53.2	20040
+Agoura Hills	CA	54.7	20020
+King of Prussia	PA	49.2	20013
+Libertyville	IL	49.7	20006
+Mukilteo	WA	35.3	19984
+Birmingham	MI	60.4	19956
+North Bellmore	NY	59.5	19953
+La Crescenta-Montrose	CA	60	19920
+New Hope	MN	48.3	19901
+Salmon Creek	WA	41.3	19896
+South San Jose Hills	CA	45.7	19892
+Palm Valley	FL	25	19885
+Selden	NY	39.2	19883
+Pace	FL	17.7	19876
+Patterson	CA	43.5	19865
+Corinth	TX	18	19841
+Socastee	SC	29.4	19799
+Evergreen Park	IL	65.6	19794
+Naples	FL	46.5	19777
+Ives Estates	FL	49.7	19761
+Germantown	WI	34.7	19756
+Holtsville	NY	33.6	19754
+Marblehead	MA	53.6	19740
+Union City	GA	17.5	19738
+Plattsburgh	NY	61.3	19735
+Saginaw	TX	29.5	19734
+McKeesport	PA	45.3	19715
+Marina	CA	52.4	19687
+Acworth	GA	31	19685
+Baldwin	PA	37.5	19678
+Lomita	CA	74.9	19675
+Mountlake Terrace	WA	54.1	19671
+Weirton	WV	40.9	19665
+Cartersville	GA	35	19653
+Lebanon	OH	40.9	19646
+Eagle	ID	28.3	19642
+Montclair	VA	19.3	19638
+Ferndale	MI	63.8	19634
+Northfield	MN	40	19621
+Lutz	FL	17.2	19613
+Hammond	LA	43.6	19611
+Ashland	OR	62.3	19600
+Altus	OK	40.6	19566
+Sun Valley	NV	24	19532
+Lealman	FL	46.3	19524
+Spanish Lake	MO	29.3	19521
+Trussville	AL	19.7	19513
+Upper St. Clair	PA	28.2	19512
+Palm Springs	FL	51.7	19508
+Elmwood Park	NJ	58.3	19470
+Coronado	CA	58.8	19462
+Homewood	IL	54.2	19450
+Orchards	WA	39.8	19431
+Woodbridge	NJ	61.5	19429
+Fort Walton Beach	FL	46.4	19427
+Palisades Park	NJ	79.1	19415
+Badger	AK	6.2	19411
+Monsey	NY	48.2	19409
+Camas	WA	27.9	19406
+Lake Shore	MD	21.3	19404
+Clifton	CO	26.2	19400
+Broadview Heights	OH	17.6	19394
+Rolla	MO	50.8	19386
+Norwood	OH	64	19376
+West St. Paul	MN	55.5	19364
+Fernley	NV	24.8	19354
+Rosedale	MD	44.3	19344
+Willmar	MN	41.1	19329
+Painesville	OH	48.1	19325
+Tukwila	WA	53.9	19325
+Ypsilanti	MI	58.7	19317
+Lake Forest	IL	34.4	19308
+Pooler	GA	18.6	19302
+Madisonville	KY	33.1	19288
+Amherst Center	MA	56.1	19277
+Lynbrook	NY	74.1	19273
+Central Falls	RI	74	19270
+Bear	DE	32.4	19267
+Hazel Dell	WA	51.3	19263
+American Canyon	CA	41.9	19262
+Eastchester	NY	63.1	19251
+Camp Springs	MD	31.8	19244
+Tysons Corner	VA	65.7	19229
+Decatur	GA	62.7	19224
+Altamont	OR	42.7	19216
+DeBary	FL	26.3	19212
+Bayou Cane	LA	44.6	19198
+Silverdale	WA	28.3	19196
+Sun City Center	FL	13.6	19196
+Lake Zurich	IL	44.5	19194
+Ronkonkoma	NY	36	19188
+Franklin Farm	VA	29.1	19181
+Hermosa Beach	CA	77.7	19171
+Jacksonville	IL	49.5	19163
+Columbia Heights	MN	54.7	19162
+Carrboro	NC	37.1	19159
+Niles	OH	38.7	19154
+Ansonia	CT	44.8	19150
+Haslett	MI	28.5	19139
+North Druid Hills	GA	58.7	19115
+Augusta	ME	39.3	19100
+Kalispell	MT	55.4	19097
+Old Jamestown	MO	19.6	19079
+White Oak	OH	42.8	19069
+Raymore	MO	23.6	19064
+Brownwood	TX	35.8	19048
+Easley	SC	33.5	19042
+Cortland	NY	65.3	19026
+Alice	TX	38.5	19008
+Newton	KS	40	18984
+East Massapequa	NY	56.6	18981
+Fresno	TX	10.4	18969
+Fairwood	WA	34.8	18954
+Port Angeles	WA	49	18946
+Union Hill-Novelty Hill	WA	16.3	18928
+Converse	TX	30.3	18916
+Oxford	MS	38.2	18905
+North Bay Shore	NY	41.6	18897
+Rio Rico	AZ	6.2	18893
+Melville	NY	31.5	18881
+Wantagh	NY	56	18880
+Shelbyville	IN	46.3	18878
+Marshfield	WI	48.5	18872
+Brook Park	OH	40	18868
+Brookfield	IL	59.8	18830
+Bellwood	IL	62.6	18825
+Mamaroneck	NY	69.9	18823
+Berea	OH	46.6	18820
+Jasmine Estates	FL	47.1	18808
+Arvin	CA	35	18795
+El Dorado	AR	45.9	18790
+Coralville	IA	45.3	18774
+Twinsburg	OH	29.1	18771
+Matteson	IL	31.8	18762
+Wilsonville	OR	41.9	18754
+West Hempstead	NY	64.2	18752
+Casa de Oro-Mount Helix	CA	40.6	18751
+Syosset	NY	51.3	18745
+Ashtabula	OH	42.3	18738
+Alsip	IL	54.7	18734
+Hawthorne	NJ	63.4	18728
+Macomb	IL	49.4	18706
+Lexington	NC	40.5	18705
+Trenton	MI	49.5	18701
+Bethany	OK	50	18693
+Washington	UT	20.2	18688
+Pinole	CA	46.5	18682
+Mayfield Heights	OH	54.1	18673
+Gardner	KS	33.2	18658
+Dickinson	TX	35.3	18653
+Ojus	FL	53.7	18648
+Forest Park	OH	42.5	18645
+Montrose	CO	40.4	18642
+Golden	CO	52.5	18641
+Sand Springs	OK	24.3	18638
+Frederickson	WA	11.9	18634
+Fairmont	WV	50.1	18625
+Eastlake	OH	39	18618
+Warrensburg	MO	45.1	18613
+Sylvania	OH	40.8	18596
+Angleton	TX	33.9	18580
+Iselin	NJ	61.1	18555
+Orange	TX	31.4	18552
+Amsterdam	NY	49.6	18549
+Papillion	NE	51.5	18539
+Tullahoma	TN	27.5	18535
+Saco	ME	34.1	18533
+Islip	NY	43.9	18517
+Langley Park	MD	57.2	18512
+Mead Valley	CA	7.8	18503
+Bourbonnais	IL	46.3	18487
+Universal City	TX	46.5	18481
+Mineola	NY	78	18480
+Middletown	DE	41	18479
+Steubenville	OH	49	18478
+Lorton	VA	31.8	18460
+Castaic	CA	36.1	18453
+Glassboro	NJ	44.4	18451
+Laurel	MS	40.8	18420
+Forest Park	GA	35.9	18416
+Gautier	MS	18.3	18401
+Windsor	CO	29	18400
+Evans	CO	35.3	18391
+Elizabeth City	NC	48.6	18389
+Mill Creek	WA	45.1	18377
+Morristown	NJ	75	18368
+Ennis	TX	37.2	18360
+Carlisle	PA	67.9	18358
+Claremore	OK	35.9	18344
+Franklin Park	IL	61.1	18337
+Meadowbrook	VA	23.2	18329
+Montgomery	IL	25.6	18312
+Forest Lake	MN	27.9	18306
+Palestine	TX	34.1	18303
+Louisville	CO	48.3	18299
+Ottawa	IL	46.5	18298
+Cudahy	WI	55.8	18291
+Point Pleasant	NJ	52	18282
+Logansport	IN	53.8	18281
+Kiryas Joel	NY	41.6	18280
+North Massapequa	NY	54.2	18274
+Natchitoches	LA	46	18270
+Pickerington	OH	28.4	18263
+Mokena	IL	33.7	18253
+Rutherford	NJ	70.9	18248
+Belton	TX	39.1	18235
+McAlester	OK	36.8	18234
+Ballenger Creek	MD	33.5	18210
+South Burlington	VT	42.8	18197
+Snellville	GA	31.4	18195
+Cameron Park	CA	32.5	18187
+Florida Ridge	FL	17.3	18163
+Alamo	TX	33.8	18162
+Oswego	NY	64	18160
+Huntington	NY	49.2	18159
+Westminster	MD	47.4	18156
+Shenandoah	LA	32.6	18154
+Midlothian	TX	15.1	18153
+Whitehall	OH	55.3	18147
+Thomasville	GA	35.4	18143
+Wisconsin Rapids	WI	45.7	18135
+Rosamond	CA	22	18116
+Franconia	VA	43.7	18115
+Wallingford Center	CT	52.5	18113
+Deerfield	IL	50.6	18111
+Bensenville	IL	54.9	18110
+West Melbourne	FL	29.3	18104
+Albany	CA	85.7	18097
+Lynn Haven	FL	31	18089
+Elko	NV	51.7	18086
+Farmington	UT	25.3	18075
+Dover	NJ	59.9	18067
+Pinecrest	FL	33.4	18063
+Cinco Ranch	TX	46.1	18056
+Erlanger	KY	30.9	18052
+Mandan	ND	36.9	18051
+Hyattsville	MD	60.2	18047
+Payson	UT	40	18046
+Clemmons	NC	21.7	18041
+Oxon Hill	MD	28	18039
+Dixon	CA	51.9	18003
+West Chester	PA	79.4	18003
+Somerset	MA	37.4	18001
+Eustis	FL	32.1	17990
+Lathrop	CA	32.7	17984
+Manchester	MO	37.4	17981
+Creve Coeur	MO	40.4	17979
+Nixa	MO	26.4	17975
+Tinton Falls	NJ	25	17973
+Hanahan	SC	29.2	17971
+Ellensburg	WA	50.9	17969
+Godfrey	IL	18.2	17968
+Cary	IL	38.7	17949
+Westerly	RI	42.3	17947
+Five Corners	WA	36.4	17944
+Vincennes	IN	52.7	17933
+Clarksdale	MS	38.5	17914
+Chowchilla	CA	25.5	17897
+Winchester	KY	48.7	17893
+Erie	CO	15.5	17885
+Sugar Hill	GA	18.5	17885
+Bristol	VA	39.9	17874
+Brigham City	UT	45.5	17865
+Sherrelwood	CO	47.9	17862
+Stillwater	MN	42.3	17841
+Mattoon	IL	44.4	17831
+Tiffin	OH	51.8	17829
+Lenoir	NC	30.5	17824
+Hannibal	MO	42.2	17822
+East Cleveland	OH	55.3	17800
+Lackawanna	NY	45.6	17795
+Makakilo	HI	23	17794
+Troy	AL	29.1	17769
+Nanuet	NY	47.9	17761
+Simpsonville	SC	33.5	17738
+New Castle	IN	43.9	17732
+Pampa	TX	44.5	17715
+Murphy	TX	19.7	17706
+Colonia	NJ	46.1	17703
+Gretna	LA	65.5	17681
+Albert Lea	MN	36.8	17669
+Sherwood	OR	48.6	17662
+Stevenson Ranch	CA	29.2	17647
+Hopkins	MN	61	17632
+Dickinson	ND	54.6	17616
+Round Lake	IL	25.6	17593
+North Amityville	NY	45.6	17580
+Allendale	MI	21.6	17555
+Wayne	MI	51.7	17554
+Milledgeville	GA	36.1	17539
+Susanville	CA	31.1	17537
+Tallmadge	OH	26.4	17525
+Saratoga Springs	UT	9	17517
+Calverton	MD	42.1	17506
+Linda	CA	25.4	17497
+Seminole	FL	45.1	17496
+Winthrop Town	MA	59.8	17487
+White Oak	MD	45.5	17471
+North Babylon	NY	49	17469
+Battle Ground	WA	42.8	17468
+Prunedale	CA	9.3	17466
+Arlington	WA	38.5	17464
+Morrisville	NC	32.6	17457
+Orinda	CA	21.5	17444
+Kirksville	MO	51.4	17441
+Beckley	WV	49.2	17436
+Menasha	WI	48.1	17433
+Greenfield Town	MA	48.3	17427
+East Hemet	CA	31.4	17422
+Willimantic	CT	62.1	17412
+Frankfort	IL	30.8	17398
+Bartow	FL	29.6	17397
+Howard	WI	28.1	17384
+Newburyport	MA	53.7	17378
+Woodmere	NY	53.7	17376
+Murray	KY	45	17373
+Onalaska	WI	36.6	17373
+Ocean Springs	MS	35.9	17365
+Westbrook	ME	43.7	17358
+Glassmanor	MD	42	17350
+Lindenwold	NJ	46.7	17340
+Rancho Mirage	CA	24.3	17334
+Bonney Lake	WA	26.4	17333
+Covington	WA	33.5	17327
+Scarsdale	NY	43.1	17305
+North Canton	OH	40.5	17304
+McNair	VA	55.2	17292
+Burke Centre	VA	43.5	17289
+Kings Park	NY	34.6	17289
+Nederland	TX	44.3	17262
+Fuquay-Varina	NC	33.2	17254
+Cocoa	FL	40.6	17238
+Redland	MD	34.4	17228
+Anoka	MN	46	17202
+Tumwater	WA	37.5	17199
+Dumont	NJ	58.4	17197
+Mustang	OK	27.1	17192
+Huntington	IN	46.9	17180
+Palos Hills	IL	40.8	17180
+Johnston	IA	28.2	17164
+Maumelle	AR	23.1	17147
+Stafford	TX	41.4	17139
+Beltsville	MD	44.9	17134
+Seymour	IN	45.8	17125
+South Houston	TX	48.9	17123
+Tillmans Corner	AL	18.8	17114
+Colonial Heights	VA	40.2	17110
+Takoma Park	MD	67.4	17102
+St. Matthews	KY	58.6	17083
+Ashwaubenon	WI	46.6	17047
+Sheridan	WY	46.4	17043
+Sycamore	IL	38.4	17043
+Douglas	AZ	35.2	17038
+Bay City	TX	38	17036
+Monroe	WA	42.6	17033
+Ruskin	FL	15.2	17030
+Stephenville	TX	47.2	17017
+Tanque Verde	AZ	11.8	17016
+Dyersburg	TN	36.7	17012
+Bryant	AR	24.1	16984
+Martinsburg	WV	57.5	16984
+Middleton	WI	54.9	16969
+Live Oak	CA	66.6	16966
+El Segundo	CA	73.1	16925
+Poplar Bluff	MO	46.6	16925
+Seabrook	MD	37.8	16916
+Avenel	NJ	53	16913
+Griffith	IN	45.2	16907
+Bellaire	TX	58.4	16901
+Arroyo Grande	CA	57	16896
+Aberdeen	WA	55.5	16892
+St. Marys	GA	21.1	16883
+Center Point	AL	26.1	16879
+Shafter	CA	44.7	16875
+North Ogden	UT	26	16850
+Arcata	CA	57.1	16840
+Wahiawa	HI	43.1	16832
+Springboro	OH	29.7	16827
+Sayville	NY	46.5	16817
+Idylwood	VA	55.2	16803
+Fairview Heights	IL	39.7	16801
+Fairview Park	OH	49.9	16779
+New Philadelphia	OH	53	16773
+Norwalk	OH	47	16773
+El Reno	OK	34.8	16772
+Massapequa Park	NY	50.3	16772
+Marion	IL	46.3	16769
+Morganton	NC	39.6	16761
+Fremont	OH	57.5	16754
+Jenks	OK	16.9	16738
+North Decatur	GA	52.9	16735
+Chalmette	LA	48.3	16732
+Mineral Wells	TX	31.2	16727
+North Valley Stream	NY	61.4	16722
+Horizon City	TX	21.7	16719
+Southbridge Town	MA	47.6	16699
+Hinsdale	IL	52.8	16689
+Ozark	MO	25.5	16678
+Lemay	MO	39.3	16662
+Nipomo	CA	31.3	16661
+Ada	OK	44	16658
+Oak Grove	OR	58.1	16658
+Laurel	VA	42.7	16651
+Belle Glade	FL	36.7	16646
+Ferndale	MD	47.6	16638
+Mount Vernon	OH	49.9	16622
+Helena	AL	19.3	16612
+San Carlos Park	FL	17	16600
+Conway	SC	30.1	16586
+Boone	NC	66.6	16570
+Yorkville	IL	24.5	16539
+North Lynnwood	WA	41.2	16524
+Jenison	MI	29.3	16501
+Bothell West	WA	24.3	16486
+Lexington	SC	39.9	16484
+Central Point	OR	41.9	16476
+Punta Gorda	FL	24.1	16430
+Eloy	AZ	14.3	16421
+Glenvar Heights	FL	54	16415
+Clarksburg	WV	51.6	16372
+Americus	GA	38.5	16332
+Westchester	IL	52.7	16315
+Safety Harbor	FL	33.5	16296
+Opelousas	LA	49.5	16277
+North Aurora	IL	28.1	16210
+South Ogden	UT	44.7	16206
+Pendleton	OR	52.4	16205
+Country Club Hills	IL	38	16161
+Hermiston	OR	52.7	16143
+Durango	CO	54.2	16141
+Artesia	CA	74.4	15719

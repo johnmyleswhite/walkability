@@ -1,0 +1,7498 @@
+City	State	Walk Score	Population
+New York
+NY
+85.3	8,174,290
+Los Angeles
+CA
+65.9	3,787,000
+Chicago
+IL
+74.3	2,691,070
+Houston
+TX
+49.8	2,112,810
+Philadelphia
+PA
+74.1	1,524,270
+Phoenix
+AZ
+45.4	1,442,530
+San Antonio
+TX
+40.8	1,326,420
+San Diego
+CA
+55.7	1,305,700
+Dallas
+TX
+46.9	1,197,970
+San Jose
+CA
+54.5	942,788
+Jacksonville
+FL
+32.6	821,996
+Indianapolis
+IN
+37.4	819,398
+San Francisco
+CA
+84.9	804,533
+Austin
+TX
+46.7	790,195
+Columbus
+OH
+47.4	775,159
+Fort Worth
+TX
+36.1	740,422
+Charlotte
+NC
+34.3	727,822
+Detroit
+MI
+49.9	713,110
+Memphis
+TN
+39.4	647,889
+El Paso
+TX
+37.8	646,907
+Baltimore
+MD
+63.9	620,567
+Boston
+MA
+79.2	616,228
+Seattle
+WA
+73.7	608,091
+Nashville-Davidson
+TN
+36.4	601,201
+Louisville-Jefferson
+KY
+39.7	599,142
+Denver
+CO
+60.4	596,983
+Milwaukee
+WI
+60.6	593,611
+Portland
+OR
+66.3	583,496
+Oklahoma City
+OK
+35.6	580,508
+Las Vegas
+NV
+49.2	580,138
+Albuquerque
+NM
+47.5	542,997
+Tucson
+AZ
+48.2	520,109
+Fresno
+CA
+48.6	491,455
+Sacramento
+CA
+49.3	466,259
+Long Beach
+CA
+66.4	462,006
+Kansas City
+MO
+38.1	460,377
+Mesa
+AZ
+42.9	438,358
+Virginia Beach
+VA
+40.8	437,639
+Atlanta
+GA
+52.9	419,590
+Colorado Springs
+CO
+45.1	415,281
+Omaha
+NE
+50.9	409,036
+Miami
+FL
+72.5	398,499
+Cleveland
+OH
+58.3	396,598
+Raleigh
+NC
+41.4	393,039
+Tulsa
+OK
+45.8	391,404
+Oakland
+CA
+68.2	390,816
+Minneapolis
+MN
+69.3	381,729
+Wichita
+KS
+41	379,326
+Arlington
+TX
+41.3	365,303
+Bakersfield
+CA
+40.8	348,382
+New Orleans
+LA
+55.6	343,794
+Honolulu
+HI
+63	337,183
+Tampa
+FL
+51.1	335,749
+Anaheim
+CA
+60.7	335,451
+Aurora
+CO
+48.3	326,266
+Santa Ana
+CA
+61.6	324,761
+St. Louis
+MO
+61.4	319,372
+Pittsburgh
+PA
+64.1	305,842
+Corpus Christi
+TX
+43.5	305,047
+Riverside
+CA
+46.7	303,555
+Cincinnati
+OH
+58.9	296,565
+Lexington-Fayette
+KY
+42.5	295,383
+Anchorage
+AK
+40.8	291,828
+Stockton
+CA
+47.5	288,846
+Toledo
+OH
+49.8	286,097
+St. Paul
+MN
+61.6	284,351
+Newark
+NJ
+74	275,593
+Greensboro
+NC
+39	267,495
+Buffalo
+NY
+60.1	261,170
+Plano
+TX
+43.6	259,797
+Henderson
+NV
+39.1	257,170
+Lincoln
+NE
+49.4	257,101
+Fort Wayne
+IN
+39	252,642
+Jersey City
+NJ
+85.2	247,955
+St. Petersburg
+FL
+44.5	244,992
+Chula Vista
+CA
+51.4	243,773
+Norfolk
+VA
+47.6	242,897
+Orlando
+FL
+47.1	237,105
+Laredo
+TX
+32.7	235,151
+Chandler
+AZ
+41.5	234,398
+Madison
+WI
+55.4	232,495
+Lubbock
+TX
+44.3	229,784
+Baton Rouge
+LA
+47.5	228,866
+Winston-Salem
+NC
+32	228,366
+Glendale
+AZ
+44.8	227,282
+Garland
+TX
+40.5	226,776
+Durham
+NC
+37.2	225,060
+Hialeah
+FL
+64	224,149
+Paradise
+NV
+57.4	223,398
+Reno
+NV
+49.1	223,270
+Chesapeake
+VA
+28.3	222,581
+North Las Vegas
+NV
+41.7	217,126
+Scottsdale
+AZ
+41.6	216,614
+Irving
+TX
+46	215,836
+Fremont
+CA
+52.4	214,084
+Irvine
+CA
+53.8	212,841
+Birmingham
+AL
+40	212,786
+San Bernardino
+CA
+43.7	211,497
+Rochester
+NY
+63.1	211,394
+Spokane
+WA
+53.6	208,554
+Gilbert
+AZ
+37.7	207,773
+Arlington
+VA
+67.1	206,779
+Montgomery
+AL
+35.5	205,330
+Boise City
+ID
+49.8	204,438
+Richmond
+VA
+51.1	203,620
+Des Moines
+IA
+49.9	203,107
+Fayetteville
+NC
+28.8	200,402
+Modesto
+CA
+48.6	199,448
+Akron
+OH
+50.7	198,557
+Tacoma
+WA
+58.8	198,031
+Shreveport
+LA
+37.8	196,835
+Oxnard
+CA
+54.6	196,160
+Fontana
+CA
+41.6	195,934
+Augusta-Richmond County
+GA
+30	195,886
+Mobile
+AL
+38.6	195,719
+Yonkers
+NY
+71.2	195,661
+Aurora
+IL
+44.1	195,478
+Little Rock
+AR
+40.1	192,913
+Moreno Valley
+CA
+36.5	192,696
+Glendale
+CA
+68.8	190,871
+Amarillo
+TX
+43.7	190,543
+Columbus
+GA
+32.8	189,937
+Huntington Beach
+CA
+62.5	189,221
+Sunrise Manor
+NV
+43.2	189,156
+Grand Rapids
+MI
+54.3	187,794
+Salt Lake City
+UT
+57.6	186,419
+Worcester
+MA
+60.4	180,579
+Newport News
+VA
+40.6	180,426
+Tallahassee
+FL
+39.2	180,192
+Knoxville
+TN
+40.4	180,189
+Huntsville
+AL
+32.1	179,192
+Providence
+RI
+72.7	177,627
+Spring Valley
+NV
+50.9	177,620
+Brownsville
+TX
+31.6	176,086
+Santa Clarita
+CA
+45.7	175,164
+Grand Prairie
+TX
+34.7	174,866
+Jackson
+MS
+34.6	173,352
+Overland Park
+KS
+47.4	173,005
+Garden Grove
+CA
+63.6	171,823
+Chattanooga
+TN
+37.1	168,164
+Oceanside
+CA
+45.4	166,405
+Santa Rosa
+CA
+53.4	165,735
+Fort Lauderdale
+FL
+59.2	165,694
+Rancho Cucamonga
+CA
+49.1	165,055
+Port St. Lucie
+FL
+19.9	164,360
+Ontario
+CA
+46.3	164,260
+Tempe
+AZ
+61.6	162,125
+Vancouver
+WA
+49.3	161,913
+Springfield
+MO
+48.3	159,387
+Lancaster
+CA
+32.3	156,592
+Eugene
+OR
+55.2	154,650
+Pembroke Pines
+FL
+42.7	154,456
+Cape Coral
+FL
+23.5	154,300
+Salem
+OR
+49	153,647
+Sioux Falls
+SD
+43	153,346
+Peoria
+AZ
+33.9	153,056
+Springfield
+MA
+58.7	152,945
+Palmdale
+CA
+28.4	152,504
+Rockford
+IL
+47.8	152,492
+Elk Grove
+CA
+42	152,482
+Corona
+CA
+44.6	151,868
+Salinas
+CA
+53.3	149,540
+Pasadena
+TX
+42.4	149,115
+Pomona
+CA
+51.3	149,059
+Kansas City
+KS
+35	145,810
+Paterson
+NJ
+75	145,647
+Torrance
+CA
+69.7	145,414
+Joliet
+IL
+38.2	145,134
+Syracuse
+NY
+63	145,033
+Hayward
+CA
+57.6	144,684
+Bridgeport
+CT
+65.2	143,480
+Fort Collins
+CO
+44.1	143,332
+Escondido
+CA
+51.1	143,083
+Lakewood
+CO
+53	143,020
+Dayton
+OH
+47.7	141,994
+Hollywood
+FL
+55.6	141,061
+Alexandria
+VA
+65.4	140,733
+Naperville
+IL
+45.4	139,972
+Mesquite
+TX
+39.5	139,329
+Sunnyvale
+CA
+61.7	138,782
+Metairie
+LA
+57.5	138,437
+Pasadena
+CA
+67.7	137,867
+Hampton
+VA
+38.9	137,624
+Orange
+CA
+59.3	136,314
+Savannah
+GA
+47.5	135,894
+Fullerton
+CA
+59	135,030
+Warren
+MI
+49.2	133,954
+Cary
+NC
+37.9	132,148
+Clarksville
+TN
+23.4	131,913
+McKinney
+TX
+32.2	130,540
+McAllen
+TX
+44.8	129,916
+Sterling Heights
+MI
+39.9	129,782
+West Valley City
+UT
+41	129,722
+New Haven
+CT
+66.7	129,515
+Columbia
+SC
+39.6	128,000
+Killeen
+TX
+28.9	127,611
+Topeka
+KS
+43	126,807
+Thousand Oaks
+CA
+42.5	126,659
+Cedar Rapids
+IA
+43.1	125,681
+Olathe
+KS
+36.3	125,470
+East Los Angeles
+CA
+69	124,759
+Waco
+TX
+39.2	124,512
+Gainesville
+FL
+42.6	124,488
+Hartford
+CT
+72.7	124,485
+Elizabeth
+NJ
+71.8	124,143
+Simi Valley
+CA
+48.3	123,815
+Visalia
+CA
+43.8	123,222
+Stamford
+CT
+59.1	122,442
+Bellevue
+WA
+50.3	122,061
+Concord
+CA
+52.9	121,872
+Miramar
+FL
+35.4	121,868
+Coral Springs
+FL
+45.7	121,316
+Charleston
+SC
+46.1	121,281
+Carrollton
+TX
+40.8	119,013
+Lafayette
+LA
+49.6	118,772
+Thornton
+CO
+39.9	118,535
+Beaumont
+TX
+36	118,090
+Allentown
+PA
+66.8	117,924
+Roseville
+CA
+44.4	117,884
+Frisco
+TX
+29.3	117,464
+Surprise
+AZ
+26.4	117,046
+Evansville
+IN
+49.9	116,933
+Abilene
+TX
+37.8	116,651
+Santa Clara
+CA
+64.1	116,572
+Independence
+MO
+34.4	116,562
+Victorville
+CA
+26.4	116,066
+Athens-Clarke County
+GA
+34.7	115,352
+Vallejo
+CA
+45.5	115,143
+Springfield
+IL
+43	114,694
+Peoria
+IL
+46.6	114,514
+Lansing
+MI
+47.7	113,877
+Denton
+TX
+38.9	113,014
+Ann Arbor
+MI
+58.9	112,674
+El Monte
+CA
+60.9	112,624
+Berkeley
+CA
+81.6	112,398
+Provo
+UT
+49	112,365
+Downey
+CA
+57.9	112,083
+Midland
+TX
+44.3	111,064
+Norman
+OK
+35.3	110,982
+Inglewood
+CA
+63.9	110,408
+Costa Mesa
+CA
+70.6	109,994
+Waterbury
+CT
+53.8	109,863
+Manchester
+NH
+53.3	109,056
+Enterprise
+NV
+31.1	108,514
+Columbia
+MO
+37.7	108,429
+Elgin
+IL
+44.4	107,356
+Murfreesboro
+TN
+29.2	107,069
+Miami Gardens
+FL
+41.1	106,690
+Clearwater
+FL
+49.1	106,592
+Lowell
+MA
+64.1	106,209
+Pueblo
+CO
+41.8	106,180
+Wilmington
+NC
+44.2	106,115
+Rochester
+MN
+36.9	105,801
+Carlsbad
+CA
+41.7	105,537
+Westminster
+CO
+45.8	105,515
+Fargo
+ND
+50.7	105,496
+Gresham
+OR
+52	105,394
+Richmond
+CA
+53.1	105,240
+West Covina
+CA
+50.7	105,157
+Cambridge
+MA
+88.8	105,138
+Arvada
+CO
+46	105,059
+Norwalk
+CA
+61.6	104,805
+San Buenaventura (Ventura)
+CA
+56	104,393
+Wichita Falls
+TX
+36.7	104,234
+Green Bay
+WI
+48.1	104,002
+Fairfield
+CA
+40.6	103,991
+West Jordan
+UT
+33.6	103,751
+Burbank
+CA
+73.6	103,576
+Brandon
+FL
+35.6	103,311
+Everett
+WA
+53.9	103,093
+Billings
+MT
+44.5	102,865
+High Point
+NC
+34.2	102,667
+Murrieta
+CA
+35.3	102,662
+Palm Bay
+FL
+19.8	102,627
+Flint
+MI
+48.5	102,376
+Antioch
+CA
+48.8	101,929
+Erie
+PA
+59.6	101,559
+South Bend
+IN
+47.1	101,266
+Centennial
+CO
+47.8	100,628
+West Palm Beach
+FL
+48.1	100,121
+Pompano Beach
+FL
+53.1	99,830
+Davenport
+IA
+46.6	99,657
+Odessa
+TX
+43.1	99,600
+Temecula
+CA
+41.8	99,539
+Richardson
+TX
+47.6	99,477
+Rialto
+CA
+40.8	99,462
+Columbia
+MD
+43.1	99,432
+Santa Maria
+CA
+52.1	99,340
+El Cajon
+CA
+61.2	98,985
+Broken Arrow
+OK
+28.7	98,816
+Compton
+CA
+54	98,313
+Spring Hill
+FL
+21.6	98,264
+North Charleston
+SC
+34	98,171
+Dearborn
+MI
+56.5	98,142
+Round Rock
+TX
+33.9	98,063
+Albany
+NY
+66.3	97,831
+Lakeland
+FL
+40.6	97,823
+Kenosha
+WI
+52.1	97,812
+Roanoke
+VA
+46.1	97,153
+Daly City
+CA
+62.9	97,135
+San Mateo
+CA
+67.3	97,069
+Livonia
+MI
+44.9	96,933
+Las Cruces
+NM
+39.4	96,929
+Boulder
+CO
+63.7	96,698
+Tyler
+TX
+40.4	96,654
+Highlands Ranch
+CO
+42.3	96,473
+Lawton
+OK
+36.8	96,252
+Lewisville
+TX
+45.8	95,503
+Portsmouth
+VA
+40.3	95,284
+Clovis
+CA
+44.3	95,052
+New Bedford
+MA
+65.5	94,766
+South Gate
+CA
+61.4	94,077
+Sandy Springs
+GA
+41.3	93,836
+College Station
+TX
+42	93,834
+Vista
+CA
+54.3	93,486
+Brockton
+MA
+53.3	93,346
+Mission Viejo
+CA
+50.9	93,157
+The Woodlands
+TX
+27	93,147
+Yuma
+AZ
+38.5	93,122
+San Angelo
+TX
+37.1	92,900
+Quincy
+MA
+62	92,232
+Kent
+WA
+47.7	92,135
+Davie
+FL
+38.7	92,109
+Greeley
+CO
+46.9	92,021
+Beaverton
+OR
+56.7	92,002
+Carson
+CA
+54.6	91,875
+Arden-Arcade
+CA
+58.6	91,739
+Vacaville
+CA
+42.5	91,623
+Hillsboro
+OR
+51.2	91,564
+Pearland
+TX
+26.6	91,378
+Lee's Summit
+MO
+29.5	91,135
+Yakima
+WA
+54.6	90,755
+Renton
+WA
+49.9	90,743
+Macon
+GA
+36.6	90,404
+Sparks
+NV
+48.2	90,204
+Westminster
+CA
+62.4	90,158
+Lynn
+MA
+64.9	90,036
+Hesperia
+CA
+19.5	89,914
+Redding
+CA
+37	89,646
+Santa Monica
+CA
+81.9	89,618
+Tuscaloosa
+AL
+37.4	89,469
+Spokane Valley
+WA
+40.9	89,063
+Federal Way
+WA
+46.3	89,049
+Waukegan
+IL
+53.2	88,794
+Fall River
+MA
+62.2	88,732
+Toms River
+NJ
+32.8	88,446
+Roswell
+GA
+38.6	88,438
+Santa Barbara
+CA
+67.2	88,266
+Reading
+PA
+67	88,026
+Orem
+UT
+48.2	87,826
+Sandy
+UT
+44.8	87,643
+Rio Rancho
+NM
+20.7	87,363
+Lawrence
+KS
+50	86,851
+Miami Beach
+FL
+75.3	86,745
+Lehigh Acres
+FL
+11.4	86,654
+Duluth
+MN
+41.9	86,328
+Nashua
+NH
+45.3	86,082
+Fort Smith
+AR
+40.9	85,943
+Whittier
+CA
+61.9	85,929
+Germantown
+MD
+43.1	85,830
+Chico
+CA
+54.4	85,705
+Norwalk
+CT
+56.4	85,526
+Newton
+MA
+60.3	85,245
+San Leandro
+CA
+65.1	85,111
+Clifton
+NJ
+65	84,982
+Newport Beach
+CA
+57	84,866
+Longmont
+CO
+43.9	84,808
+Hawthorne
+CA
+65.7	84,802
+Plantation
+FL
+41.8	84,758
+Suffolk
+VA
+19.5	84,654
+Deltona
+FL
+17.4	84,457
+Trenton
+NJ
+68.4	84,345
+Sunrise
+FL
+48.9	84,145
+Boca Raton
+FL
+48.9	84,104
+Westland
+MI
+45.2	83,959
+Allen
+TX
+33.4	83,842
+Alhambra
+CA
+68.5	83,549
+Cicero
+IL
+67	83,505
+San Marcos
+CA
+44.6	83,475
+League City
+TX
+29.4	83,474
+Bloomington
+MN
+38.7	83,324
+Citrus Heights
+CA
+52.3	83,005
+Warwick
+RI
+43.2	83,005
+Sioux City
+IA
+45.9	82,615
+Ogden
+UT
+50.2	82,377
+Asheville
+NC
+50	82,083
+Tracy
+CA
+45.3	82,024
+Edmond
+OK
+34.5	81,553
+Parma
+OH
+47.3	81,341
+Troy
+MI
+38.1	81,305
+Hammond
+IN
+51	81,146
+Greenville
+NC
+39.9	80,987
+Danbury
+CT
+46.9	80,786
+Bellingham
+WA
+55.6	80,748
+Buena Park
+CA
+63.8	80,664
+Cranston
+RI
+53.7	80,558
+San Tan Valley
+AZ
+15.8	80,550
+Livermore
+CA
+47.5	80,354
+Champaign
+IL
+56.9	80,348
+Longview
+TX
+36	80,266
+Gary
+IN
+37	80,086
+Sugar Land
+TX
+33.6	79,977
+Bloomington
+IN
+48.8	79,905
+Farmington Hills
+MI
+34.3	79,857
+Nampa
+ID
+36.6	79,575
+Hoover
+AL
+27.8	79,567
+Carmel
+IN
+27.2	79,551
+Lakewood
+CA
+61.1	79,371
+Town 'n' Country
+FL
+39.4	78,437
+Hemet
+CA
+41.2	78,306
+Racine
+WI
+55.6	78,288
+Alafaya
+FL
+27.3	77,967
+Merced
+CA
+46.3	77,887
+Menifee
+CA
+20.4	77,841
+Largo
+FL
+50.5	77,815
+Concord
+NC
+24.6	77,719
+Chino
+CA
+42.9	77,518
+O'Fallon
+MO
+32.1	77,225
+Camden
+NJ
+60.2	77,059
+New Rochelle
+NY
+69	77,056
+Redwood City
+CA
+61.5	77,025
+Lake Forest
+CA
+53.6	76,957
+St. Joseph
+MO
+40.6	76,780
+Albany
+GA
+32.9	76,710
+Mission
+TX
+35.4	76,688
+Johns Creek
+GA
+31.4	76,635
+Indio
+CA
+37.5	76,381
+Brooklyn Park
+MN
+31.4	76,295
+Bellflower
+CA
+63.1	76,258
+Lawrence
+MA
+69.4	76,117
+Bend
+OR
+43.1	76,040
+Bryan
+TX
+39.9	76,001
+Scranton
+PA
+62.9	75,927
+Kendall
+FL
+50.4	75,916
+Napa
+CA
+51.3	75,630
+Melbourne
+FL
+40.3	75,624
+Decatur
+IL
+41.1	75,453
+Somerville
+MA
+84.3	75,449
+Avondale
+AZ
+34.8	75,413
+Lynchburg
+VA
+38	75,380
+Edinburg
+TX
+32.6	75,375
+Arlington Heights
+IL
+52.5	75,221
+Bloomington
+IL
+44.1	75,178
+Fishers
+IN
+28.5	75,129
+Cheektowaga
+NY
+42.1	75,037
+Tustin
+CA
+58.8	74,876
+Chino Hills
+CA
+31	74,819
+Bethlehem
+PA
+59.5	74,631
+Evanston
+IL
+75.1	74,591
+Palm Coast
+FL
+13.7	74,540
+Mountain View
+CA
+66.3	74,426
+Baldwin Park
+CA
+52.2	74,421
+Medford
+OR
+44.6	74,160
+Deerfield Beach
+FL
+46	74,141
+Kalamazoo
+MI
+51.2	74,080
+Schaumburg
+IL
+50.1	74,080
+Kennewick
+WA
+41.9	73,980
+Alameda
+CA
+68.7	73,677
+Canton
+OH
+50.1	73,647
+Fayetteville
+AR
+40.2	73,246
+Upland
+CA
+53.3	73,198
+Bolingbrook
+IL
+44.4	73,124
+Meridian
+ID
+36.4	72,937
+New Britain
+CT
+53.7	72,809
+St. George
+UT
+36.1	72,781
+Appleton
+WI
+49.4	72,445
+Wyoming
+MI
+44.3	72,139
+Southfield
+MI
+45.4	71,893
+Folsom
+CA
+41.4	71,881
+Lake Charles
+LA
+45.9	71,728
+Gastonia
+NC
+32.8	71,361
+San Ramon
+CA
+31.8	71,052
+Riverview
+FL
+20.6	70,979
+Rochester Hills
+MI
+30.9	70,951
+Baytown
+TX
+34.5	70,907
+Plymouth
+MN
+30.4	70,860
+Pawtucket
+RI
+66.4	70,781
+Silver Spring
+MD
+62.9	70,779
+Wilmington
+DE
+66.8	70,602
+Centreville
+VA
+41.5	70,425
+Waukesha
+WI
+46	70,140
+Auburn
+WA
+39.5	70,028
+Lynwood
+CA
+56.9	69,952
+Muncie
+IN
+46.3	69,796
+Pharr
+TX
+33.4	69,788
+Jacksonville
+NC
+28.3	69,644
+Pleasanton
+CA
+49.8	69,609
+Springdale
+AR
+30.9	69,429
+Union City
+CA
+51.6	69,386
+Passaic
+NJ
+81.2	69,273
+Apple Valley
+CA
+19	69,087
+Redlands
+CA
+40.3	68,835
+Waterloo
+IA
+41.4	68,260
+Palatine
+IL
+47.7	68,162
+Perris
+CA
+23.8	68,102
+Framingham
+MA
+52	68,030
+Turlock
+CA
+44.5	67,988
+Santa Fe
+NM
+50.6	67,944
+Boynton Beach
+FL
+43.9	67,934
+Mount Vernon
+NY
+73.3	67,714
+Gulfport
+MS
+30.8	67,652
+Rapid City
+SD
+37.8	67,645
+Iowa City
+IA
+53.3	67,574
+Missouri City
+TX
+27.1	67,570
+Glen Burnie
+MD
+42.9	67,513
+Waldorf
+MD
+26.7	67,275
+Lafayette
+IN
+43.1	67,130
+Jonesboro
+AR
+27.1	67,024
+Mount Pleasant
+SC
+31.4	66,977
+Youngstown
+OH
+39.9	66,917
+Milpitas
+CA
+56	66,798
+Lauderhill
+FL
+47.6	66,725
+Layton
+UT
+38.8	66,684
+Kenner
+LA
+52	66,484
+Casas Adobes
+AZ
+36.3	66,232
+Portland
+ME
+65.4	66,166
+Manteca
+CA
+48.4	66,139
+Redondo Beach
+CA
+76	66,135
+Temple
+TX
+35	66,025
+Schenectady
+NY
+64.4	65,899
+Warner Robins
+GA
+29	65,790
+Dothan
+AL
+32.7	65,651
+Missoula
+MT
+51.9	65,634
+Loveland
+CO
+37.6	65,624
+St. Charles
+MO
+38.8	65,605
+Goodyear
+AZ
+22.1	65,596
+Ellicott City
+MD
+34.6	65,573
+Dale City
+VA
+32.6	65,546
+Flagstaff
+AZ
+48.1	65,433
+St. Cloud
+MN
+40.9	65,296
+Oshkosh
+WI
+48	65,148
+Weston
+FL
+30.3	65,127
+Eau Claire
+WI
+46.1	65,117
+Harlingen
+TX
+41.3	64,904
+Jackson
+TN
+35.4	64,866
+Skokie
+IL
+66.7	64,856
+Union City
+NJ
+92.2	64,845
+Flower Mound
+TX
+34.4	64,784
+Frederick
+MD
+52.5	64,722
+Rock Hill
+SC
+39.7	64,675
+Camarillo
+CA
+53.6	64,657
+Rancho Cordova
+CA
+47.6	64,638
+Palo Alto
+CA
+62.7	64,512
+Atascocita
+TX
+28.8	64,464
+East Orange
+NJ
+68.4	64,197
+Eagan
+MN
+33.5	64,187
+Yorba Linda
+CA
+39.7	64,171
+Davis
+CA
+49.5	63,985
+Yuba City
+CA
+42.9	63,980
+Walnut Creek
+CA
+51.5	63,807
+Florence-Graham
+CA
+63.4	63,668
+Lorain
+OH
+39.3	63,454
+Pico Rivera
+CA
+54.9	63,450
+Dundalk
+MD
+52.9	63,402
+West Hartford
+CT
+50.7	63,227
+San Clemente
+CA
+46.9	63,106
+Montebello
+CA
+58.8	63,097
+Bayonne
+NJ
+77.4	62,971
+Janesville
+WI
+43	62,962
+North Richland Hills
+TX
+39.5	62,909
+Taylor
+MI
+40	62,830
+Laguna Niguel
+CA
+49.6	62,720
+Pittsburg
+CA
+41.8	62,673
+Victoria
+TX
+40.6	62,448
+Fort Myers
+FL
+42.6	62,377
+South San Francisco
+CA
+62.1	62,213
+North Little Rock
+AR
+36.6	62,143
+Shawnee
+KS
+33.5	62,127
+Hamilton
+OH
+46.2	62,107
+Utica
+NY
+56.8	62,097
+Millcreek
+UT
+53.1	62,085
+Council Bluffs
+IA
+43.4	62,061
+Johnson City
+TN
+35	62,056
+Franklin
+TN
+32.6	61,951
+Woodbury
+MN
+27.1	61,867
+Carmichael
+CA
+54	61,793
+Bethesda
+MD
+50.1	61,781
+Lodi
+CA
+56.2	61,747
+Castro Valley
+CA
+45.1	61,308
+Maple Grove
+MN
+23.7	61,230
+Coon Rapids
+MN
+31.6	61,220
+Daytona Beach
+FL
+43.8	61,097
+Haverhill
+MA
+45.5	60,838
+Madera
+CA
+44.5	60,829
+Rockville
+MD
+59.3	60,742
+Vineland
+NJ
+34.7	60,725
+Tamarac
+FL
+39.2	60,690
+Meriden
+CT
+49.1	60,647
+Eden Prairie
+MN
+26.4	60,632
+Terre Haute
+IN
+42.1	60,578
+Brentwood
+NY
+39.7	60,572
+Bismarck
+ND
+44.5	60,567
+Bossier City
+LA
+35.6	60,551
+Waltham
+MA
+61.7	60,487
+Bristol
+CT
+40.7	60,312
+Gaithersburg
+MD
+57.2	60,283
+Springfield
+OH
+45.5	60,272
+Burnsville
+MN
+39.9	60,244
+West Allis
+WI
+60.9	60,215
+Monterey Park
+CA
+61.9	60,063
+Fountainebleau
+FL
+53.6	60,056
+Homestead
+FL
+38.2	60,026
+Delray Beach
+FL
+44.3	59,936
+Pine Hills
+FL
+34.2	59,918
+St. Clair Shores
+MI
+47.8	59,743
+Grand Junction
+CO
+43	59,653
+Santa Cruz
+CA
+65.9	59,632
+Brookline
+MA
+83.3	59,627
+Encinitas
+CA
+48.4	59,606
+Marysville
+WA
+31.5	59,604
+La Habra
+CA
+66.2	59,599
+Pontiac
+MI
+45.5	59,467
+Pasco
+WA
+35.3	59,390
+Malden
+MA
+69.5	59,269
+Lancaster
+PA
+79.3	59,196
+Kissimmee
+FL
+37.5	58,992
+Springfield
+OR
+55.8	58,891
+Cupertino
+CA
+57.7	58,810
+Des Plaines
+IL
+58.8	58,784
+Conway
+AR
+33.2	58,655
+Reston
+VA
+49.9	58,512
+Taylorsville
+UT
+44.2	58,438
+National City
+CA
+64	58,400
+Tulare
+CA
+39.3	58,379
+Ames
+IA
+47	58,343
+Tonawanda
+NY
+54.6	58,204
+North Miami
+FL
+59.9	58,131
+Cheyenne
+WY
+44.1	58,062
+Gardena
+CA
+72	57,964
+Bowling Green
+KY
+43.4	57,892
+Dubuque
+IA
+51.7	57,780
+Huntington Park
+CA
+74	57,694
+Dearborn Heights
+MI
+49	57,685
+Greenville
+SC
+52.1	57,650
+Lakewood
+WA
+49.6	57,499
+San Rafael
+CA
+61.4	57,498
+Alpharetta
+GA
+34.3	57,467
+North Port
+FL
+12.1	57,437
+New Braunfels
+TX
+30.9	57,342
+Royal Oak
+MI
+59.1	57,334
+Petaluma
+CA
+55.4	57,298
+Blaine
+MN
+29.9	57,257
+Palm Harbor
+FL
+37.5	57,243
+Marietta
+GA
+44.7	57,090
+Arcadia
+CA
+56.6	57,085
+Great Falls
+MT
+53.2	57,031
+Chapel Hill
+NC
+50.1	56,978
+La Mesa
+CA
+65.6	56,778
+White Plains
+NY
+68.3	56,767
+Rocklin
+CA
+42.4	56,758
+West Des Moines
+IA
+45.3	56,571
+Orland Park
+IL
+38.3	56,399
+Medford
+MA
+63.9	56,382
+Kendale Lakes
+FL
+45.7	56,344
+Ocala
+FL
+39	56,300
+Mansfield
+TX
+32.3	56,291
+Anderson
+IN
+41.1	56,251
+Conroe
+TX
+35.4	56,248
+Rocky Mount
+NC
+28.2	56,220
+Oak Lawn
+IL
+59.8	56,198
+Broomfield
+CO
+38.2	56,150
+Wellington
+FL
+30.1	56,081
+Kettering
+OH
+48	56,078
+South Whittier
+CA
+49.8	55,933
+Berwyn
+IL
+67	55,865
+Tinley Park
+IL
+39.7	55,858
+Lakeville
+MN
+24.5	55,739
+Taunton
+MA
+35.9	55,709
+Towson
+MD
+56.6	55,646
+Port Orange
+FL
+27.3	55,546
+Idaho Falls
+ID
+46.8	55,528
+Decatur
+AL
+34.7	55,448
+Rogers
+AR
+26.3	55,426
+Chicopee
+MA
+51.8	55,275
+Carson City
+NV
+42.8	55,269
+Rowlett
+TX
+24.7	55,233
+Novi
+MI
+31.1	55,095
+West Haven
+CT
+53.8	55,082
+Fountain Valley
+CA
+62.8	55,051
+Moore
+OK
+30.9	55,009
+New Brunswick
+NJ
+69.7	54,987
+Tamiami
+FL
+48.3	54,901
+Diamond Bar
+CA
+42.2	54,827
+Casper
+WY
+44	54,706
+Woodland
+CA
+52.5	54,688
+Jupiter
+FL
+37	54,629
+Mount Prospect
+IL
+54.3	54,391
+Owensboro
+KY
+42.4	54,379
+Valdosta
+GA
+41.1	54,241
+Midwest City
+OK
+35.6	54,235
+Port Charlotte
+FL
+26	54,222
+Redmond
+WA
+44.1	54,152
+Bartlett
+TN
+26	54,142
+Spring
+TX
+26.9	54,022
+Elyria
+OH
+40.2	53,974
+Port Arthur
+TX
+35.2	53,733
+Pocatello
+ID
+45.1	53,718
+Rosemead
+CA
+64.1	53,690
+Paramount
+CA
+63.9	53,634
+Bowie
+MD
+33.8	53,626
+Weymouth Town
+MA
+49.7	53,487
+Porterville
+CA
+42.1	53,480
+Corvallis
+OR
+53.8	53,476
+Hempstead
+NY
+66.7	53,447
+Lakewood
+NJ
+52.7	53,287
+Hanford
+CA
+38.2	53,206
+Poinciana
+FL
+7.1	53,126
+Margate
+FL
+48.4	53,121
+Eastvale
+CA
+30.6	53,044
+Hacienda Heights
+CA
+45.4	52,997
+Auburn
+AL
+36.6	52,919
+Santee
+CA
+40.9	52,898
+Levittown
+PA
+42.8	52,803
+St. Peters
+MO
+36.2	52,732
+Coconut Creek
+FL
+40.7	52,532
+Grand Forks
+ND
+53.8	52,490
+Wheaton
+IL
+47.9	52,300
+Sanford
+FL
+36.1	52,273
+Lake Havasu City
+AZ
+23	52,272
+South Hill
+WA
+27.5	52,260
+Florissant
+MO
+45	52,251
+Highland
+CA
+38.3	52,232
+Battle Creek
+MI
+39.7	52,203
+Shoreline
+WA
+57.5	52,179
+Normal
+IL
+48.2	52,176
+Delano
+CA
+37.6	52,162
+Sarasota
+FL
+56.3	52,032
+Lakewood
+OH
+68.4	51,916
+Revere
+MA
+59.5	51,780
+Pensacola
+FL
+42.2	51,773
+Lake Elsinore
+CA
+32.7	51,679
+Levittown
+NY
+55.2	51,645
+Oak Park
+IL
+77.5	51,544
+Novato
+CA
+46.4	51,504
+Hoffman Estates
+IL
+43.3	51,498
+Stratford
+CT
+45.9	51,470
+Colton
+CA
+42.1	51,458
+Manhattan
+KS
+46	51,322
+Blue Springs
+MO
+35.8	51,290
+Euless
+TX
+38.1	51,261
+Yucaipa
+CA
+32	51,238
+Hendersonville
+TN
+25.5	51,162
+The Hammocks
+FL
+48.9	51,159
+La Crosse
+WI
+60.4	51,107
+Saginaw
+MI
+45.5	51,089
+Irondequoit
+NY
+39.1	51,064
+East Hartford
+CT
+43.1	51,053
+Cathedral City
+CA
+38.8	51,052
+Charleston
+WV
+44.3	51,040
+Brentwood
+CA
+45.4	50,990
+Peabody
+MA
+51.4	50,988
+Catalina Foothills
+AZ
+21	50,980
+Milford
+CT
+43.5	50,913
+The Villages
+FL
+13.7	50,902
+Buckeye
+AZ
+14.7	50,809
+Perth Amboy
+NJ
+71.3	50,790
+Noblesville
+IN
+22.4	50,706
+Watsonville
+CA
+69.8	50,687
+South Jordan
+UT
+30.3	50,487
+Glendora
+CA
+52.5	50,444
+Smyrna
+GA
+40.6	50,351
+Placentia
+CA
+55.6	50,138
+Joplin
+MO
+44.3	50,105
+Cuyahoga Falls
+OH
+50.2	50,045
+Hoboken
+NJ
+92.2	50,032
+Troy
+NY
+57.9	50,032
+Niagara Falls
+NY
+42.1	50,023
+East Honolulu
+HI
+27	49,942
+Elkhart
+IN
+42.1	49,882
+Cerritos
+CA
+60.1	49,871
+West New York
+NJ
+90	49,771
+Plainfield
+NJ
+54.6	49,532
+DeSoto
+TX
+30.7	49,503
+Cedar Park
+TX
+33.6	49,463
+Minnetonka
+MN
+34.3	49,449
+Greenwood
+IN
+33.7	49,428
+Burlington
+NC
+39.9	49,411
+Harrisburg
+PA
+68.2	49,359
+Albany
+OR
+42.4	49,344
+Huntington
+WV
+53	49,283
+Enid
+OK
+39.3	49,238
+Bradenton
+FL
+41.2	48,973
+Apple Valley
+MN
+29.3	48,970
+Palm Beach Gardens
+FL
+33.3	48,942
+Aloha
+OR
+49.3	48,933
+Euclid
+OH
+46.1	48,926
+Pine Bluff
+AR
+34.3	48,851
+Covina
+CA
+62	48,819
+Pinellas Park
+FL
+46.9	48,802
+Southaven
+MS
+23.7	48,793
+Casa Grande
+AZ
+32.2	48,784
+West Sacramento
+CA
+41.3	48,771
+Rowland Heights
+CA
+48.7	48,764
+Middletown
+OH
+39.3	48,730
+Bellevue
+NE
+39.8	48,689
+East Lansing
+MI
+57.3	48,669
+Kirkland
+WA
+59.3	48,669
+Sheboygan
+WI
+54.4	48,667
+Kentwood
+MI
+33.3	48,544
+Aspen Hill
+MD
+38	48,534
+Harrisonburg
+VA
+52.8	48,507
+La Mirada
+CA
+57.3	48,396
+Gilroy
+CA
+53.8	48,376
+Monroe
+LA
+40.4	48,287
+Lenexa
+KS
+41.4	48,219
+Kingsport
+TN
+32.3	48,190
+Downers Grove
+IL
+52.9	48,135
+McLean
+VA
+34.3	48,107
+Wheaton
+MD
+47.1	48,055
+Richland
+WA
+40	48,011
+Poway
+CA
+41.5	47,986
+Grand Island
+NE
+46.7	47,968
+Tigard
+OR
+51.2	47,875
+Mansfield
+OH
+39.7	47,843
+Cypress
+CA
+63	47,827
+Galveston
+TX
+49.3	47,822
+Palm Desert
+CA
+36.7	47,797
+Edina
+MN
+48.2	47,782
+Logan
+UT
+48.3	47,767
+Roswell
+NM
+38.8	47,753
+Wilson
+NC
+37.6	47,674
+Middletown
+CT
+40.7	47,560
+Bel Air South
+MD
+33.9	47,526
+Rancho Santa Margarita
+CA
+46.5	47,496
+Florin
+CA
+48.6	47,491
+Aliso Viejo
+CA
+55.4	47,428
+Methuen Town
+MA
+40.5	47,405
+Pearl City
+HI
+39.1	47,384
+Mishawaka
+IN
+47.5	47,370
+Salina
+KS
+45.6	47,301
+Newark
+OH
+44.7	47,243
+Country Club
+FL
+51.7	47,238
+Binghamton
+NY
+61.1	47,176
+Roseville
+MI
+53.5	47,145
+Chesterfield
+MO
+34.1	47,130
+Mentor
+OH
+34.1	47,128
+Alexandria
+LA
+42.1	47,100
+East Providence
+RI
+51.8	47,082
+Pflugerville
+TX
+29.6	47,050
+Coral Gables
+FL
+57.8	47,018
+Georgetown
+TX
+32	46,933
+Castle Rock
+CO
+19.1	46,849
+Murray
+UT
+48.4	46,749
+Bedford
+TX
+46.5	46,643
+Wauwatosa
+WI
+60	46,550
+Hattiesburg
+MS
+45.8	46,534
+Olympia
+WA
+46.2	46,428
+Huntersville
+NC
+23.8	46,393
+Lehi
+UT
+21.3	46,349
+Cleveland Heights
+OH
+64.3	46,265
+Azusa
+CA
+57.4	46,218
+Grapevine
+TX
+38.2	46,147
+Portage
+MI
+29	46,139
+Dublin
+CA
+42.2	45,967
+Dunwoody
+GA
+42.5	45,846
+Commerce City
+CO
+27.5	45,787
+Lawrence
+IN
+30.5	45,590
+Altoona
+PA
+59.5	45,504
+Farmington
+NM
+39.2	45,437
+Glenview
+IL
+49.2	45,332
+Stillwater
+OK
+42.7	45,289
+Barnstable Town
+MA
+32.7	45,268
+Sammamish
+WA
+24.6	45,261
+Doral
+FL
+43.6	45,257
+Tuckahoe
+VA
+37.4	45,245
+Texas City
+TX
+39.7	45,224
+Kokomo
+IN
+45	45,216
+Caldwell
+ID
+32.5	45,173
+Antelope
+CA
+46.3	45,122
+Ankeny
+IA
+39.3	45,119
+Parker
+CO
+28.4	45,071
+Beavercreek
+OH
+28.5	45,012
+St. Louis Park
+MN
+58.4	44,993
+Cedar Hill
+TX
+25.1	44,935
+Potomac
+MD
+28.9	44,925
+Strongsville
+OH
+30.4	44,907
+West Seneca
+NY
+36.3	44,770
+Jeffersonville
+IN
+29.4	44,736
+Pittsfield
+MA
+45.3	44,710
+Palm Springs
+CA
+44.8	44,691
+Ceres
+CA
+46.3	44,574
+San Marcos
+TX
+48.1	44,376
+Biloxi
+MS
+34.4	44,148
+San Jacinto
+CA
+33.3	44,121
+Belleville
+IL
+48.1	44,120
+Sierra Vista
+AZ
+31.9	44,031
+Severn
+MD
+27.2	44,026
+Elmhurst
+IL
+55	43,996
+San Luis Obispo
+CA
+60.6	43,973
+Bonita Springs
+FL
+26.4	43,932
+Attleboro
+MA
+37.9	43,737
+Wesley Chapel
+FL
+15.2	43,713
+Collierville
+TN
+19.8	43,670
+Twin Falls
+ID
+49.6	43,615
+Moline
+IL
+51.2	43,554
+Titusville
+FL
+32.9	43,528
+North Bethesda
+MD
+58.2	43,521
+North Highlands
+CA
+57.7	43,505
+York
+PA
+65.5	43,470
+Columbus
+IN
+33	43,372
+Ashburn
+VA
+42.5	43,326
+West Babylon
+NY
+48.4	43,306
+Coeur d'Alene
+ID
+44.4	43,194
+Hilo
+HI
+30	43,127
+Jefferson City
+MO
+36.8	43,106
+Charlottesville
+VA
+63	43,010
+Lombard
+IL
+54.1	42,951
+Maricopa
+AZ
+17	42,905
+Danville
+VA
+34.3	42,895
+Sayreville
+NJ
+36.5	42,750
+Concord
+NH
+43.7	42,702
+Fond du Lac
+WI
+50.1	42,674
+Freeport
+NY
+61.7	42,662
+Arlington
+MA
+67	42,651
+DeKalb
+IL
+47.6	42,622
+Hackensack
+NJ
+74.2	42,617
+Newark
+CA
+60.3	42,577
+Fairfield
+OH
+35.9	42,518
+Madison
+AL
+23.1	42,459
+Blacksburg
+VA
+47.4	42,422
+Lincoln
+CA
+26.5	42,419
+Bountiful
+UT
+37.5	42,416
+Altadena
+CA
+54.3	42,358
+Draper
+UT
+29.8	42,352
+Kannapolis
+NC
+25.8	42,327
+Haltom City
+TX
+38.4	42,326
+Leesburg
+VA
+45	42,204
+El Centro
+CA
+55.2	42,142
+Burlington
+VT
+62.6	42,120
+El Dorado Hills
+CA
+22	42,106
+Catonsville
+MD
+46.4	41,952
+Danville
+CA
+34.5	41,868
+Summerville
+SC
+26.7	41,843
+Dublin
+OH
+26.9	41,833
+Lompoc
+CA
+56.7	41,751
+Midland
+MI
+37.3	41,743
+Lacey
+WA
+35.3	41,716
+Hutchinson
+KS
+42.7	41,654
+Littleton
+CO
+49.3	41,648
+Hicksville
+NY
+60.4	41,626
+Everett
+MA
+77.1	41,594
+Urbana
+IL
+58.4	41,581
+State College
+PA
+70.4	41,525
+Rancho Palos Verdes
+CA
+39.7	41,471
+Salem
+MA
+69.9	41,394
+Wilkes-Barre
+PA
+67.3	41,393
+Oakland Park
+FL
+57.2	41,309
+Apopka
+FL
+25.2	41,301
+Meridian
+MS
+37.5	41,185
+Fort Pierce
+FL
+39.1	41,154
+Wylie
+TX
+22.1	41,109
+Bell Gardens
+CA
+67.3	41,080
+Cleveland
+TN
+35.9	41,067
+Burke
+VA
+37.5	41,046
+Westfield
+MA
+38	41,026
+Warren
+OH
+43.4	40,972
+Findlay
+OH
+44.3	40,954
+North Miami Beach
+FL
+66.1	40,929
+South Valley
+NM
+29.5	40,918
+University
+FL
+52.8	40,901
+Lake Ridge
+VA
+33.4	40,898
+Annandale
+VA
+49.8	40,879
+Altamonte Springs
+FL
+48.6	40,868
+Woonsocket
+RI
+58.5	40,859
+Oro Valley
+AZ
+18.7	40,801
+San Bruno
+CA
+58.2	40,705
+Crystal Lake
+IL
+36.7	40,697
+Covington
+KY
+48.8	40,693
+Coachella
+CA
+34.5	40,670
+North Lauderdale
+FL
+46.9	40,642
+Linden
+NJ
+67.2	40,640
+Buffalo Grove
+IL
+51.1	40,513
+Leominster
+MA
+47	40,483
+Fitchburg
+MA
+48.8	40,462
+Norwich
+CT
+47.9	40,404
+Cutler Bay
+FL
+37	40,397
+Kearny
+NJ
+75.1	40,350
+Minot
+ND
+49.8	40,147
+Rohnert Park
+CA
+51.5	40,144
+North Atlanta
+GA
+53.5	40,112
+Quincy
+IL
+49	40,092
+Smyrna
+TN
+29.1	39,834
+Holyoke
+MA
+59.7	39,827
+Bartlett
+IL
+30.2	39,797
+Sumter
+SC
+34.7	39,760
+Streamwood
+IL
+40.5	39,694
+Atlantic City
+NJ
+68.1	39,628
+Hagerstown
+MD
+58.6	39,582
+Shelton
+CT
+26.8	39,565
+New Berlin
+WI
+27.6	39,548
+Culver City
+CA
+79	39,501
+Romeoville
+IL
+33.3	39,482
+Keller
+TX
+28.9	39,448
+Urbandale
+IA
+41	39,443
+San Gabriel
+CA
+72.2	39,442
+Prescott
+AZ
+36	39,417
+Bullhead City
+AZ
+27.9	39,411
+Edmonds
+WA
+50	39,407
+Beverly
+MA
+55.9	39,398
+Campbell
+CA
+65.9	39,368
+Coram
+NY
+30.7	39,308
+Brea
+CA
+56	39,174
+Carol Stream
+IL
+42	39,138
+Essex
+MD
+43.1	39,120
+Cedar Falls
+IA
+42.2	39,076
+Muskogee
+OK
+35.5	39,070
+North Fort Myers
+FL
+22.1	39,052
+Hickory
+NC
+39.1	39,041
+Prescott Valley
+AZ
+20.9	38,984
+Duncanville
+TX
+44.5	38,947
+La Puente
+CA
+52.1	38,934
+Mankato
+MN
+50.3	38,905
+Florence
+AL
+39.6	38,868
+Rock Island
+IL
+54.7	38,809
+Germantown
+TN
+27.1	38,684
+Plainfield
+IL
+30.1	38,645
+Wausau
+WI
+48.9	38,514
+Riverton
+UT
+29	38,511
+Maplewood
+MN
+30.3	38,481
+Lima
+OH
+46.7	38,450
+Marlborough
+MA
+46.9	38,438
+Coppell
+TX
+37.6	38,414
+Huntsville
+TX
+37.6	38,410
+The Acreage
+FL
+6.3	38,389
+Ormond Beach
+FL
+28.5	38,362
+East Meadow
+NY
+57.4	38,312
+Whitney
+NV
+38.6	38,304
+Lancaster
+OH
+46.6	38,256
+Calexico
+CA
+41.8	38,212
+Huber Heights
+OH
+37.2	38,163
+Sherman
+TX
+34.8	38,113
+Lincoln Park
+MI
+53.5	38,099
+Brookfield
+WI
+34.5	38,092
+Woburn
+MA
+56.9	38,074
+Muskegon
+MI
+47.9	38,065
+Manassas
+VA
+48.4	38,049
+Channelview
+TX
+31.5	38,036
+Kailua
+HI
+43.9	37,997
+Moorhead
+MN
+42.1	37,953
+Bremerton
+WA
+56.4	37,869
+Sun City
+AZ
+29.1	37,842
+Cape Girardeau
+MO
+42.1	37,778
+Annapolis
+MD
+58.8	37,699
+Severna Park
+MD
+30.2	37,667
+Woodlawn
+MD
+43.1	37,666
+Park Ridge
+IL
+56.8	37,642
+Clovis
+NM
+38.4	37,618
+Greenfield
+WI
+46.1	37,345
+Waipahu
+HI
+57.1	37,337
+Mableton
+GA
+23.1	37,287
+Wheeling
+IL
+52.2	37,274
+Valley Stream
+NY
+65.9	37,265
+Rockwall
+TX
+32.8	37,250
+Hurst
+TX
+48.5	37,217
+Brentwood
+TN
+13.3	37,213
+Hilton Head Island
+SC
+26.3	37,151
+Shakopee
+MN
+31.7	37,093
+La Quinta
+CA
+29.4	37,079
+Hanover Park
+IL
+46.4	37,073
+Pacifica
+CA
+50.8	37,017
+Morgan Hill
+CA
+42.4	37,008
+Greenacres
+FL
+43	36,996
+Puyallup
+WA
+42.1	36,961
+Odenton
+MD
+30.1	36,959
+Stanton
+CA
+65.6	36,957
+Montclair
+CA
+60.4	36,943
+Monrovia
+CA
+64	36,832
+Bozeman
+MT
+57.4	36,742
+Hallandale Beach
+FL
+56.6	36,740
+Portage
+IN
+27.6	36,700
+Roy
+UT
+32.9	36,661
+Beloit
+WI
+46.9	36,650
+Burleson
+TX
+30.4	36,636
+Addison
+IL
+53.9	36,620
+Lewiston
+ME
+51.9	36,607
+Calumet City
+IL
+53.1	36,603
+Brighton
+NY
+41.7	36,535
+Richmond
+IN
+47.8	36,529
+Carpentersville
+IL
+35.3	36,492
+Lake Oswego
+OR
+50.9	36,480
+Marion
+OH
+39.1	36,480
+Gadsden
+AL
+34.5	36,455
+Pahrump
+NV
+8.1	36,438
+Longview
+WA
+44.9	36,437
+Panama City
+FL
+42.7	36,380
+Lancaster
+TX
+25.8	36,355
+Florence
+SC
+37	36,277
+Lynnwood
+WA
+56.7	36,260
+Spartanburg
+SC
+40.1	36,253
+Torrington
+CT
+45.6	36,245
+Beaumont
+CA
+27.2	36,218
+Texarkana
+TX
+38.1	36,208
+The Colony
+TX
+32.5	36,205
+Oakville
+MO
+27.6	36,182
+Trumbull
+CT
+27.3	36,180
+Commack
+NY
+43.4	36,150
+Mechanicsville
+VA
+25.2	36,140
+Rome
+GA
+35.3	36,078
+New Albany
+IN
+45.7	36,058
+Goose Creek
+SC
+23	36,041
+Clinton
+MD
+22.9	36,020
+Apache Junction
+AZ
+22.6	35,972
+Keizer
+OR
+43.9	35,908
+Dover
+DE
+45	35,886
+Friendswood
+TX
+29.4	35,841
+Temple City
+CA
+57.2	35,840
+Braintree Town
+MA
+45.6	35,831
+Kendall West
+FL
+52.7	35,780
+Bell
+CA
+68.3	35,754
+Westerville
+OH
+40.9	35,729
+Menomonee Falls
+WI
+32.4	35,727
+Apex
+NC
+34.4	35,676
+Merrillville
+IN
+31.5	35,640
+Mission Bend
+TX
+27.4	35,610
+Franklin
+WI
+29	35,586
+Northglenn
+CO
+52.3	35,577
+Martinez
+CA
+48.8	35,575
+Goldsboro
+NC
+35.3	35,574
+Martinez
+GA
+32.5	35,562
+Boardman
+OH
+37.8	35,451
+Oakley
+CA
+28.4	35,449
+Willowbrook
+CA
+45.8	35,431
+Reynoldsburg
+OH
+39.6	35,416
+Wildwood
+MO
+18.3	35,381
+Linton Hall
+VA
+18	35,348
+Valrico
+FL
+20.1	35,283
+Los Banos
+CA
+43.1	35,269
+Bartlesville
+OK
+33.9	35,254
+Claremont
+CA
+52.2	35,251
+Weslaco
+TX
+41.2	35,138
+Leavenworth
+KS
+35.5	35,129
+South Miami Heights
+FL
+39.8	35,083
+Kearns
+UT
+34.9	35,074
+Chelsea
+MA
+71.9	35,071
+Parkland
+WA
+43.4	35,058
+Marana
+AZ
+20.3	35,052
+Dunedin
+FL
+44.6	35,044
+Richfield
+MN
+54.4	35,034
+University City
+MO
+59.7	35,032
+Lufkin
+TX
+35.6	35,008
+Aventura
+FL
+61.4	34,943
+San Juan Capistrano
+CA
+46.3	34,924
+Winter Haven
+FL
+33.3	34,907
+Grove City
+OH
+37.5	34,890
+Marumsco
+VA
+38.6	34,866
+Plant City
+FL
+35	34,845
+Fort Lee
+NJ
+76.3	34,834
+Bay City
+MI
+58.8	34,788
+Stow
+OH
+30.3	34,772
+Merritt Island
+FL
+30.6	34,756
+Bentonville
+AR
+29.1	34,750
+Egypt Lake-Leto
+FL
+49.3	34,729
+Manhattan Beach
+CA
+65.9	34,673
+Lake Worth
+FL
+55.4	34,661
+Hot Springs
+AR
+38.9	34,642
+Marion
+IA
+37.2	34,622
+Oak Creek
+WI
+32.2	34,618
+Cottage Grove
+MN
+21.5	34,598
+Tupelo
+MS
+31.9	34,595
+West Little River
+FL
+46.4	34,580
+Del Rio
+TX
+42	34,578
+St. Cloud
+FL
+27.6	34,526
+Ocoee
+FL
+27.6	34,521
+Beverly Hills
+CA
+76.4	34,449
+La Presa
+CA
+44	34,357
+Spanish Fork
+UT
+35.8	34,327
+Central Islip
+NY
+44.4	34,308
+Peachtree City
+GA
+28.3	34,242
+Greenville
+MS
+36.6	34,217
+Orangevale
+CA
+42.9	34,210
+Rubidoux
+CA
+34.7	34,173
+Columbia
+TN
+30.6	34,156
+Norristown
+PA
+68.6	34,139
+Kaneohe
+HI
+45.3	34,123
+Delaware
+OH
+40.5	34,104
+Pekin
+IL
+40.6	33,991
+Moorpark
+CA
+48.8	33,983
+Inver Grove Heights
+MN
+29.1	33,982
+Royal Palm Beach
+FL
+30.7	33,943
+East Point
+GA
+40.2	33,910
+Olney
+MD
+31.9	33,910
+Hobbs
+NM
+48.6	33,882
+Gainesville
+GA
+39.1	33,867
+Upper Arlington
+OH
+48.9	33,816
+Rome
+NY
+41.4	33,773
+Hollister
+CA
+48.5	33,711
+Grants Pass
+OR
+55.6	33,645
+Bothell
+WA
+42.6	33,641
+Prattville
+AL
+26.7	33,616
+New City
+NY
+32.4	33,615
+Oakton
+VA
+39	33,611
+San Juan
+TX
+29.3	33,610
+Winter Garden
+FL
+37.9	33,581
+Brunswick
+OH
+33.4	33,579
+Jackson
+MI
+55.7	33,572
+Chester
+PA
+55.3	33,568
+Manitowoc
+WI
+44.7	33,488
+Pleasant Grove
+UT
+35.6	33,483
+Butte-Silver Bow
+MT
+44.6	33,473
+San Dimas
+CA
+45.4	33,418
+Carrollwood
+FL
+39.1	33,413
+La Porte
+TX
+30.3	33,394
+Roseville
+MN
+44.4	33,376
+Houma
+LA
+51.4	33,341
+Olive Branch
+MS
+20.7	33,332
+Golden Glades
+FL
+48.1	33,328
+Elmont
+NY
+57.5	33,315
+Vestavia Hills
+AL
+34.9	33,274
+Cottonwood Heights
+UT
+45.6	33,269
+Bettendorf
+IA
+41.8	33,198
+Dana Point
+CA
+61.2	33,192
+Long Beach
+NY
+66.7	33,181
+Westlake
+OH
+37.6	33,164
+Pleasant Hill
+CA
+62.6	33,116
+Glendale Heights
+IL
+48.9	33,079
+Bangor
+ME
+50.2	33,061
+Seaside
+CA
+48.5	33,043
+Brighton
+CO
+37.1	33,019
+Winter Springs
+FL
+25.3	33,013
+Burien
+WA
+54.6	32,981
+West Hollywood
+CA
+89.4	32,963
+Huntington Station
+NY
+57	32,948
+Holland
+MI
+52	32,945
+Marrero
+LA
+48.5	32,896
+Security-Widefield
+CO
+27.5	32,879
+Gahanna
+OH
+35.5	32,831
+Oviedo
+FL
+25.2	32,825
+Redan
+GA
+30.8	32,800
+Salisbury
+NC
+36.5	32,790
+Hinesville
+GA
+27.5	32,771
+Elk Grove Village
+IL
+49.1	32,769
+Indian Trail
+NC
+18.3	32,757
+Chillum
+MD
+51.8	32,755
+Northbrook
+IL
+51.3	32,672
+Nacogdoches
+TX
+39.8	32,666
+Poughkeepsie
+NY
+66.7	32,662
+Milton
+GA
+19.4	32,658
+Danville
+IL
+41.1	32,580
+Menlo Park
+CA
+62.4	32,548
+St. Charles
+IL
+45.8	32,547
+North Olmsted
+OH
+42.7	32,538
+Newnan
+GA
+34	32,519
+Lauderdale Lakes
+FL
+49.1	32,509
+Phenix City
+AL
+30.4	32,505
+Foothill Farms
+CA
+48.2	32,490
+Eastpointe
+MI
+58.6	32,484
+La Vergne
+TN
+17.6	32,454
+Woodridge
+IL
+43.7	32,435
+Riviera Beach
+FL
+39.7	32,426
+Bethel Park
+PA
+41.2	32,378
+Randallstown
+MD
+30.7	32,369
+Dalton
+GA
+40.2	32,346
+Oildale
+CA
+46.2	32,344
+Fair Lawn
+NJ
+63.8	32,332
+Ken Caryl
+CO
+45.7	32,310
+Petersburg
+VA
+35.8	32,298
+Fairborn
+OH
+36.3	32,197
+Oceanside
+NY
+61	32,126
+Monroe
+NC
+32.2	32,122
+Wildomar
+CA
+18.6	32,108
+Leawood
+KS
+36	32,090
+Massillon
+OH
+45.7	32,077
+Watertown Town
+MA
+73.5	32,052
+Deer Park
+TX
+39.3	32,011
+Socorro
+TX
+21.5	32,002
+North Chicago
+IL
+37.1	31,902
+El Mirage
+AZ
+32.1	31,888
+Randolph
+MA
+42.9	31,869
+Lawndale
+CA
+70.9	31,843
+Dakota Ridge
+CO
+35.9	31,782
+Land O' Lakes
+FL
+22.8	31,754
+Naugatuck
+CT
+38.5	31,730
+Lewiston
+ID
+48.9	31,644
+Lexington
+MA
+39	31,644
+Mount Vernon
+WA
+43	31,636
+Franklin Town
+MA
+31.6	31,612
+Wenatchee
+WA
+55.2	31,553
+North Tonawanda
+NY
+46.9	31,548
+Valparaiso
+IN
+49	31,530
+Centereach
+NY
+31.9	31,516
+Copperas Cove
+TX
+29.8	31,496
+Galesburg
+IL
+49.2	31,461
+Richmond West
+FL
+26.8	31,450
+Hopkinsville
+KY
+34.5	31,426
+Fairbanks
+AK
+50.6	31,415
+Mooresville
+NC
+30.2	31,395
+Walla Walla
+WA
+53	31,374
+McMinnville
+OR
+50.8	31,367
+Schertz
+TX
+25.6	31,307
+Montgomery Village
+MD
+43.1	31,303
+University Place
+WA
+41.1	31,299
+Tooele
+UT
+34.4	31,283
+Adelanto
+CA
+11.3	31,266
+Parkersburg
+WV
+50.4	31,254
+Goshen
+IN
+38.3	31,251
+Navarre
+FL
+14.2	31,251
+Michigan City
+IN
+42.1	31,209
+Juneau
+AK
+31.1	31,181
+East Lake
+FL
+18.6	31,172
+Newark
+DE
+50.9	31,136
+Richmond
+KY
+47.6	31,100
+Mason
+OH
+31.3	31,088
+Oregon City
+OR
+49.3	30,980
+Pikesville
+MD
+44.8	30,972
+Fair Oaks
+CA
+46.5	30,955
+Jamestown
+NY
+56.5	30,955
+University
+FL
+34.7	30,940
+Lakeside
+FL
+30	30,796
+La Verne
+CA
+50.6	30,785
+Mundelein
+IL
+48.3	30,783
+Owings Mills
+MD
+45.7	30,777
+Bel Air North
+MD
+26.2	30,752
+Gurnee
+IL
+35.9	30,699
+Westmont
+CA
+55.2	30,684
+Parkville
+MD
+53.3	30,661
+Long Branch
+NJ
+60	30,612
+Newington
+CT
+44.4	30,595
+Andover
+MN
+21.4	30,585
+Laguna Hills
+CA
+55.3	30,585
+Eldersburg
+MD
+22.6	30,567
+Rosenberg
+TX
+40.1	30,548
+West Bend
+WI
+43	30,540
+Niles
+IL
+62.6	30,463
+Englewood
+CO
+62.8	30,458
+North Royalton
+OH
+25.5	30,424
+Ballwin
+MO
+31.3	30,409
+Kearney
+NE
+49.8	30,397
+Cookeville
+TN
+40.1	30,392
+Springfield
+VA
+48.7	30,387
+Laramie
+WY
+44.1	30,335
+Garfield
+NJ
+73.7	30,325
+Westfield
+NJ
+48.8	30,314
+Granger
+IN
+14.2	30,278
+Granite City
+IL
+39.4	30,265
+Wheat Ridge
+CO
+57.4	30,244
+Alamogordo
+NM
+34.6	30,228
+Morgantown
+WV
+63	30,223
+Manchester
+CT
+61.6	30,209
+Foster City
+CA
+52.4	30,160
+Salisbury
+MD
+51.5	30,150
+Saratoga
+CA
+39	30,122
+New Iberia
+LA
+50.6	30,113
+Burton
+MI
+32.4	30,096
+Chicago Heights
+IL
+48.9	30,061
+Port Huron
+MI
+34.3	30,059
+Fallbrook
+CA
+47.8	30,004
+Brooklyn Center
+MN
+42.5	29,994
+Douglasville
+GA
+30	29,973
+Gallatin
+TN
+33.7	29,963
+Alabaster
+AL
+20.7	29,943
+East Hill-Meridian
+WA
+29.9	29,932
+Spring Valley
+NY
+58.7	29,922
+Benton
+AR
+27.4	29,890
+Texarkana
+AR
+36.4	29,882
+Westfield
+IN
+27.9	29,872
+Laplace
+LA
+30.8	29,869
+College Park
+MD
+55	29,857
+Dover
+NH
+38.9	29,853
+Shawnee
+OK
+39.7	29,845
+Highland Park
+IL
+53.2	29,831
+Oswego
+IL
+32.7	29,810
+Marion
+IN
+45.9	29,803
+Southgate
+MI
+56.6	29,800
+Carney
+MD
+46.3	29,707
+Fair Oaks
+VA
+55.4	29,684
+Algonquin
+IL
+37.2	29,664
+Bowling Green
+OH
+51.5	29,658
+Rochester
+NH
+31.8	29,642
+Waxahachie
+TX
+32.6	29,613
+Clearfield
+UT
+44.2	29,607
+Los Gatos
+CA
+52.1	29,573
+El Paso de Robles (Paso Robles)
+CA
+47.7	29,546
+Madison Heights
+MI
+62.8	29,542
+Sherwood
+AR
+26	29,542
+East Chicago
+IN
+62.1	29,538
+Pullman
+WA
+55.5	29,528
+Fort Hood
+TX
+14.4	29,519
+Westchester
+FL
+53.5	29,516
+Pueblo West
+CO
+12.1	29,507
+Ithaca
+NY
+71.7	29,504
+East Haven
+CT
+42.6	29,482
+North Ridgeville
+OH
+22.5	29,476
+West Falls Church
+VA
+53.4	29,471
+Walnut
+CA
+41	29,470
+Austintown
+OH
+34.4	29,452
+Goleta
+CA
+58.4	29,423
+Issaquah
+WA
+38.4	29,419
+LaGrange
+GA
+34	29,409
+Raytown
+MO
+35.2	29,405
+Banning
+CA
+35.3	29,403
+New Bern
+NC
+38.1	29,397
+Oak Park
+MI
+54.9	29,365
+Oak Ridge
+TN
+27.5	29,259
+Kennesaw
+GA
+36.1	29,251
+Franklin Square
+NY
+69.2	29,244
+Des Moines
+WA
+50.9	29,225
+Cleburne
+TX
+34.7	29,223
+West Lafayette
+IN
+52.6	29,221
+Williamsport
+PA
+62.8	29,211
+Liberty
+MO
+34.2	29,154
+Evans
+GA
+17.1	29,129
+Elmira
+NY
+53.8	29,113
+Los Altos
+CA
+50.4	29,108
+Florence
+KY
+47.2	29,092
+Hobart
+IN
+34.7	29,049
+Morristown
+TN
+36.6	29,027
+Milford Mill
+MD
+41.4	28,999
+Dania Beach
+FL
+56.3	28,996
+Sun Prairie
+WI
+38.7	28,982
+Springville
+UT
+29	28,975
+Needham
+MA
+46.3	28,968
+Ferry Pass
+FL
+32.5	28,966
+San Pablo
+CA
+55.8	28,934
+Fruit Cove
+FL
+16.6	28,929
+Miami Lakes
+FL
+48.8	28,921
+Schererville
+IN
+32.7	28,895
+Farmers Branch
+TX
+50	28,892
+Port Chester
+NY
+77.7	28,862
+Hilliard
+OH
+35.2	28,860
+Spring Hill
+TN
+17.6	28,842
+Lake in the Hills
+IL
+26.2	28,833
+Monroeville
+PA
+35.6	28,814
+Cedar City
+UT
+41.6	28,772
+Gloucester
+MA
+48.5	28,766
+Garfield Heights
+OH
+52.1	28,753
+Newburgh
+NY
+68.7	28,747
+Burbank
+IL
+55.3	28,735
+Santa Paula
+CA
+60.3	28,731
+Shaker Heights
+OH
+48.2	28,700
+Lawrenceville
+GA
+39	28,682
+Northampton
+MA
+50.4	28,570
+Allen Park
+MI
+53.3	28,569
+Elizabethtown
+KY
+38.9	28,538
+Orcutt
+CA
+32.7	28,529
+Cooper City
+FL
+40.3	28,508
+Aiken
+SC
+30.6	28,467
+Spring Valley
+CA
+41.6	28,449
+West Springfield Town
+MA
+41.2	28,449
+Perry Hall
+MD
+39.8	28,443
+Lake Magdalene
+FL
+36.6	28,434
+Kent
+OH
+51.2	28,432
+Norwood
+MA
+56.5	28,431
+Millville
+NJ
+39	28,400
+Agawam Town
+MA
+32.1	28,380
+Clermont
+FL
+31.3	28,310
+West Islip
+NY
+43.2	28,306
+Burlingame
+CA
+67.2	28,295
+Wake Forest
+NC
+29.8	28,259
+Gillette
+WY
+32.3	28,228
+Atascadero
+CA
+35.7	28,220
+Wheeling
+WV
+48.3	28,092
+San Carlos
+CA
+51.5	28,077
+Owasso
+OK
+31.9	28,047
+Georgetown
+KY
+31.5	28,034
+Henderson
+KY
+33.3	28,034
+Kingman
+AZ
+35.7	28,016
+Mason City
+IA
+46.3	28,015
+Jacksonville
+AR
+29.9	28,005
+Mehlville
+MO
+45.7	28,005
+Helena
+MT
+59.8	27,998
+Round Lake Beach
+IL
+44	27,980
+Winter Park
+FL
+50.4	27,958
+Drexel Heights
+AZ
+21.9	27,894
+Wentzville
+MO
+17.9	27,875
+Russellville
+AR
+33.8	27,867
+Statesboro
+GA
+47.8	27,857
+Shirley
+NY
+29.8	27,855
+Garden City
+MI
+49.7	27,849
+Maryland Heights
+MO
+36.3	27,845
+Wellesley
+MA
+50.6	27,836
+Midvale
+UT
+57.9	27,800
+Suisun City
+CA
+43	27,788
+Drexel Hill
+PA
+60.2	27,753
+Alton
+IL
+40.1	27,751
+Tucker
+GA
+37.2	27,730
+Norco
+CA
+33.3	27,702
+Deer Park
+NY
+49.8	27,670
+Lansing
+IL
+50	27,634
+Auburn
+NY
+55.6	27,625
+Kyle
+TX
+18.4	27,620
+Bessemer
+AL
+30.5	27,614
+Sterling
+VA
+45.2	27,575
+Winona
+MN
+52.1	27,510
+Sanford
+NC
+30.8	27,460
+Ridgecrest
+CA
+42.3	27,453
+Winchester
+NV
+61.4	27,452
+Lake Stevens
+WA
+31.4	27,442
+Atwater
+CA
+44.9	27,435
+Mililani Town
+HI
+47.9	27,425
+Matthews
+NC
+32.1	27,423
+Marshalltown
+IA
+50.8	27,420
+Eureka
+CA
+66.2	27,405
+Kirkwood
+MO
+47.1	27,402
+O'Fallon
+IL
+31.9	27,401
+Harrison
+NY
+43.9	27,397
+Plainfield
+IN
+27.8	27,396
+Middletown
+NY
+64.9	27,394
+Kankakee
+IL
+52.2	27,366
+Milton
+MA
+41.5	27,365
+Oakdale
+MN
+31.2	27,343
+Glen Ellyn
+IL
+55.5	27,311
+Fridley
+MN
+44.6	27,299
+Monterey
+CA
+64.6	27,292
+New London
+CT
+62.7	27,282
+Kaysville
+UT
+28.4	27,241
+Maryville
+TN
+37.5	27,229
+Superior
+WI
+49.3	27,228
+SeaTac
+WA
+45.6	27,226
+Rahway
+NJ
+68.6	27,210
+Lindenhurst
+NY
+60.2	27,194
+East Palo Alto
+CA
+56.9	27,174
+Crown Point
+IN
+36.3	27,138
+Fleming Island
+FL
+21.9	27,127
+Slidell
+LA
+48.5	27,123
+Post Falls
+ID
+33.8	27,122
+Englewood
+NJ
+60.5	27,112
+University Park
+FL
+56.8	27,097
+Plum
+PA
+22.2	27,049
+Spanaway
+WA
+29.1	27,027
+Melrose
+MA
+55.7	27,023
+Dix Hills
+NY
+25.1	27,007
+Holbrook
+NY
+41.6	27,000
+Dodge City
+KS
+50.1	26,983
+Nicholasville
+KY
+34.3	26,973
+Wilmette
+IL
+59.7	26,972
+Watertown
+NY
+57.9	26,969
+Benicia
+CA
+46.9	26,936
+Oak Forest
+IL
+45	26,903
+Crofton
+MD
+35.6	26,891
+Clinton
+IA
+46.7	26,877
+Central
+LA
+13.2	26,866
+Big Spring
+TX
+31.4	26,844
+Savage
+MN
+31.9	26,840
+Prairieville
+LA
+18.9	26,839
+Southlake
+TX
+23.7	26,800
+Lake Jackson
+TX
+34.4	26,796
+Wethersfield
+CT
+39.7	26,786
+Glen Cove
+NY
+59.9	26,760
+Easton
+PA
+69.9	26,754
+Bristol
+TN
+33.9	26,747
+Mount Pleasant
+WI
+28.3	26,746
+Jeffersontown
+KY
+42.7	26,737
+East St. Louis
+IL
+36.9	26,707
+Stevens Point
+WI
+55.2	26,654
+Myrtle Beach
+SC
+48.6	26,649
+McHenry
+IL
+38.5	26,646
+Saugus
+MA
+50.2	26,644
+Maywood
+CA
+67.9	26,577
+Danvers
+MA
+47.5	26,574
+Little Elm
+TX
+23.9	26,563
+Saratoga Springs
+NY
+46	26,563
+Leander
+TX
+27.3	26,529
+Paramus
+NJ
+55.3	26,525
+Bergenfield
+NJ
+63.4	26,498
+Kahului
+HI
+42.4	26,481
+Magna
+UT
+35.4	26,426
+Garden City
+KS
+49.1	26,374
+Opelika
+AL
+25.8	26,374
+Westport
+CT
+35.7	26,374
+DeLand
+FL
+39.3	26,352
+Thomasville
+NC
+32.9	26,352
+Harker Heights
+TX
+28.4	26,347
+Smithtown
+NY
+33.5	26,315
+Queen Creek
+AZ
+26.2	26,284
+Anderson
+SC
+41.8	26,278
+West Chicago
+IL
+39.1	26,272
+Plainview
+NY
+56.4	26,246
+Holladay
+UT
+46.2	26,237
+Barberton
+OH
+47.6	26,230
+Enterprise
+AL
+29.4	26,222
+Medina
+OH
+38.9	26,222
+Fortuna Foothills
+AZ
+17	26,214
+Bella Vista
+AR
+7.3	26,213
+Bay Shore
+NY
+54.9	26,195
+Casselberry
+FL
+43.1	26,171
+West Memphis
+AR
+34.9	26,155
+Eagle Pass
+TX
+41.2	26,150
+Kingsville
+TX
+43.2	26,130
+Horn Lake
+MS
+28.2	26,108
+Lebanon
+TN
+31.5	26,102
+Windsor
+CA
+48.7	26,096
+Paradise
+CA
+35.1	26,044
+Desert Hot Springs
+CA
+39.4	26,041
+Duluth
+GA
+41.8	26,038
+Redmond
+OR
+40.2	26,024
+Imperial Beach
+CA
+58.3	26,008
+South Laurel
+MD
+39.9	25,999
+Mount Pleasant
+MI
+60.8	25,985
+Four Corners
+FL
+18.8	25,980
+Carlsbad
+NM
+44.8	25,968
+Wyandotte
+MI
+50.3	25,943
+Paragould
+AR
+30.5	25,942
+Winchester
+VA
+58.2	25,909
+Wooster
+OH
+45	25,900
+Forest Hills
+MI
+16.5	25,847
+Aberdeen
+SD
+50.5	25,846
+American Fork
+UT
+39.5	25,815
+Fremont
+NE
+52.8	25,803
+Lemon Grove
+CA
+48.4	25,799
+Reisterstown
+MD
+46.2	25,790
+Tualatin
+OR
+43.6	25,748
+West Fargo
+ND
+36.4	25,713
+Carbondale
+IL
+49.5	25,706
+Melrose Park
+IL
+67	25,682
+Fountain
+CO
+23.6	25,658
+Green
+OH
+16.1	25,645
+Sandusky
+OH
+52.7	25,606
+Burlington
+IA
+43.2	25,603
+Hazelwood
+MO
+39.3	25,558
+Belmont
+CA
+59.2	25,550
+Buenaventura Lakes
+FL
+23.5	25,545
+Lochearn
+MD
+37.8	25,533
+Meadow Woods
+FL
+19.6	25,526
+Xenia
+OH
+35.9	25,526
+Greenville
+TX
+32.8	25,513
+South Pasadena
+CA
+67.7	25,503
+Edgewood
+MD
+30.7	25,496
+Florence
+AZ
+20.7	25,470
+Freeport
+IL
+47.1	25,446
+Rexburg
+ID
+53.3	25,439
+Hazleton
+PA
+64.3	25,432
+Gladstone
+MO
+39.1	25,379
+Lebanon
+PA
+60.9	25,316
+Ponca City
+OK
+46.9	25,293
+Inkster
+MI
+39.7	25,279
+Batavia
+IL
+39.6	25,277
+San Luis
+AZ
+15.2	25,252
+Owatonna
+MN
+33.8	25,249
+Zanesville
+OH
+48.6	25,228
+Sahuarita
+AZ
+13.6	25,224
+Seguin
+TX
+41.4	25,222
+Neenah
+WI
+45.5	25,217
+Collinsville
+IL
+40.2	25,194
+Frankfort
+KY
+42.7	25,169
+Suitland
+MD
+39.1	25,159
+Middle River
+MD
+42.9	25,155
+Clinton
+MS
+29.4	25,126
+Paris
+TX
+42.9	25,121
+Wasco
+CA
+36.5	25,116
+Stockbridge
+GA
+29.7	25,100
+Harvey
+IL
+50.6	25,078
+Fitchburg
+WI
+38.8	25,072
+Fort Dodge
+IA
+45.9	25,066
+Belvidere
+IL
+40.1	25,037
+Greer
+SC
+32.3	25,034
+Weatherford
+TX
+31.9	25,027
+Wakefield
+MA
+53.8	25,011
+Milford
+MA
+45.5	24,999
+Riverside
+OH
+39.6	24,995
+Bridgeton
+NJ
+48.2	24,988
+Ridgewood
+NJ
+52.9	24,962
+Paducah
+KY
+43.4	24,957
+Pearl
+MS
+27.7	24,942
+Rockledge
+FL
+31.8	24,927
+Garner
+NC
+34.7	24,908
+Homewood
+AL
+52.9	24,880
+Dedham
+MA
+54.6	24,872
+Twentynine Palms
+CA
+18.6	24,871
+Vineyard
+CA
+25	24,846
+South Portland
+ME
+46.2	24,835
+Laurel
+MD
+55.2	24,819
+Caledonia
+WI
+18.6	24,799
+North Tustin
+CA
+35.7	24,746
+Burlington
+MA
+41.1	24,729
+Ottumwa
+IA
+45.5	24,715
+Cave Spring
+VA
+38.1	24,699
+Hastings
+NE
+55.6	24,698
+Temple Terrace
+FL
+48.4	24,686
+Belmont
+MA
+63.4	24,653
+Emporia
+KS
+55.8	24,637
+Troy
+OH
+42.9	24,631
+Uniondale
+NY
+62.3	24,603
+Newport
+RI
+67.9	24,602
+West Whittier-Los Nietos
+CA
+56	24,598
+West Linn
+OR
+45.4	24,588
+Corcoran
+CA
+23.8	24,578
+Ossining
+NY
+63.7	24,560
+Pasadena
+MD
+34.3	24,547
+Coral Terrace
+FL
+57.5	24,536
+Salem
+VA
+40.6	24,536
+Soledad
+CA
+30.2	24,520
+Austin
+MN
+43.9	24,512
+Reading
+MA
+47.6	24,500
+Key West
+FL
+64.4	24,478
+Brawley
+CA
+44.3	24,467
+Short Pump
+VA
+34	24,467
+Grandview
+MO
+31.8	24,462
+Scaggsville
+MD
+31.7	24,455
+Lockport
+IL
+29.3	24,433
+North Platte
+NE
+47.6	24,405
+Vernon Hills
+IL
+42.6	24,402
+Asheboro
+NC
+35	24,362
+Shoreview
+MN
+27.5	24,353
+Seal Beach
+CA
+51.3	24,316
+Citrus Park
+FL
+31.2	24,287
+Independence
+KY
+17.1	24,264
+Elmwood Park
+IL
+70.1	24,259
+Columbine
+CO
+43.5	24,240
+Statesville
+NC
+42	24,240
+Sun City West
+AZ
+17	24,240
+Ardmore
+OK
+39.8	24,230
+Balch Springs
+TX
+33.7	24,196
+Summerlin South
+NV
+27.6	24,191
+Syracuse
+UT
+28.9	24,178
+North Potomac
+MD
+30.5	24,173
+Trotwood
+OH
+29.7	24,163
+Westmont
+IL
+56.2	24,160
+Muskego
+WI
+23.8	24,145
+San Benito
+TX
+39.1	24,140
+Carrollton
+GA
+35.1	24,139
+Loves Park
+IL
+39.9	24,137
+Alvin
+TX
+38	24,130
+Homer Glen
+IL
+20.8	24,127
+Ridgeland
+MS
+40.6	24,123
+South Riding
+VA
+26.7	24,113
+Baldwin
+NY
+66.5	24,110
+Fredericksburg
+VA
+49.4	24,104
+Immokalee
+FL
+27.8	24,099
+Woodstock
+IL
+38.1	24,086
+Medford
+NY
+28.4	24,085
+Centerville
+OH
+41.6	24,078
+North Haven
+CT
+32.2	24,075
+Rockville Centre
+NY
+64.5	24,069
+Norton Shores
+MI
+24.2	24,052
+Zion
+IL
+45.6	24,035
+Lafayette
+CA
+32.6	24,016
+Edwardsville
+IL
+40.7	23,990
+Lemoore
+CA
+47.7	23,977
+Lodi
+NJ
+70	23,961
+Lafayette
+CO
+46.6	23,957
+Keystone
+FL
+11.9	23,951
+New Lenox
+IL
+34.4	23,938
+Holt
+MI
+29.2	23,920
+Romulus
+MI
+25.2	23,916
+Madison
+MS
+17.7	23,900
+Sanger
+CA
+50.1	23,887
+Huntley
+IL
+18.9	23,864
+San Fernando
+CA
+68.7	23,846
+Norfolk
+NE
+47.1	23,804
+Reedley
+CA
+50.9	23,803
+Starkville
+MS
+40.3	23,791
+Parkland
+FL
+26.2	23,779
+Rolling Meadows
+IL
+49.7	23,775
+Vicksburg
+MS
+30.4	23,771
+Maywood
+IL
+56.3	23,737
+Fort Washington
+MD
+24.2	23,727
+Waverly
+MI
+41.4	23,722
+Hercules
+CA
+44	23,714
+Kingston
+NY
+62.8	23,712
+South Salt Lake
+UT
+62.8	23,708
+Staunton
+VA
+42.9	23,699
+Chaska
+MN
+30.9	23,679
+South Plainfield
+NJ
+49.7	23,657
+Watertown
+WI
+49.5	23,642
+Fairland
+MD
+37.5	23,640
+Graham
+WA
+14.5	23,627
+Cudahy
+CA
+67.2	23,626
+Corsicana
+TX
+37.2	23,621
+Bloomington
+CA
+33	23,617
+White Bear Lake
+MN
+44	23,605
+Highland
+IN
+55.8	23,597
+Athens
+OH
+63	23,595
+Mequon
+WI
+23.1	23,595
+Holly Springs
+NC
+25.1	23,592
+Ramsey
+MN
+14.3	23,588
+Walker
+MI
+33.4	23,572
+Columbus
+MS
+43.9	23,553
+Moscow
+ID
+57.6	23,548
+Munster
+IN
+41	23,547
+De Pere
+WI
+40.7	23,544
+Cornelius
+NC
+35.7	23,514
+Woodburn
+OR
+51.2	23,512
+Old Bridge
+NJ
+34.2	23,490
+Lincolnia
+VA
+51.1	23,440
+Duncan
+OK
+39.1	23,429
+Marshall
+TX
+34.4	23,427
+Keene
+NH
+52.1	23,393
+Tarpon Springs
+FL
+37.6	23,387
+Peekskill
+NY
+69.5	23,359
+Chantilly
+VA
+43.4	23,347
+Herndon
+VA
+58.6	23,344
+Palmetto Bay
+FL
+35.4	23,335
+Anniston
+AL
+33.4	23,333
+El Cerrito
+CA
+63.8	23,322
+Bayonet Point
+FL
+32.2	23,319
+Ilchester
+MD
+29.8	23,319
+Solon
+OH
+22.2	23,310
+Franklin
+IN
+35.3	23,297
+Mount Juliet
+TN
+21.6	23,297
+Morton Grove
+IL
+58.9	23,290
+Fairfax
+VA
+58.8	23,236
+Faribault
+MN
+35	23,219
+Watauga
+TX
+50.9	23,207
+Bellview
+FL
+20.1	23,200
+Machesney Park
+IL
+31.8	23,189
+Terrytown
+LA
+57.7	23,187
+San Lorenzo
+CA
+58.1	23,171
+Cabot
+AR
+28	23,164
+Golden Gate
+FL
+40.9	23,162
+Griffin
+GA
+39.7	23,155
+New Castle
+PA
+49.2	23,149
+Webster Groves
+MO
+50.4	23,140
+Woodstock
+GA
+31	23,137
+Chanhassen
+MN
+23.1	23,122
+Colleyville
+TX
+30	23,111
+University Park
+TX
+69.9	23,085
+French Valley
+CA
+13.3	23,076
+Auburn
+ME
+38.4	23,070
+Dolton
+IL
+48.3	23,062
+Galt
+CA
+40.2	23,058
+Arnold
+MD
+23.2	23,048
+Palm City
+FL
+20.5	23,036
+Loma Linda
+CA
+39.8	23,031
+Garden City
+NY
+59.7	23,030
+Bainbridge Island
+WA
+31.1	23,025
+Cliffside Park
+NJ
+79.9	23,025
+Vero Beach South
+FL
+29.7	22,973
+Elk River
+MN
+23.8	22,959
+Blue Island
+IL
+66.4	22,945
+Champlin
+MN
+32.2	22,939
+East Peoria
+IL
+29.1	22,939
+Cloverleaf
+TX
+44.9	22,924
+Belton
+MO
+34.2	22,913
+Maple Heights
+OH
+45.8	22,899
+East Lake-Orient Park
+FL
+33.4	22,888
+Muscatine
+IA
+47.7	22,884
+Bailey's Crossroads
+VA
+67.3	22,881
+Landover
+MD
+42.7	22,877
+Rock Springs
+WY
+42.9	22,864
+Greenbelt
+MD
+52.3	22,851
+Selma
+CA
+48.6	22,836
+Greenwood
+SC
+41.7	22,834
+Junction City
+KS
+37.9	22,823
+Candler-McAfee
+GA
+35.3	22,788
+Copiague
+NY
+62.2	22,783
+Barstow
+CA
+41.1	22,781
+Searcy
+AR
+46.3	22,776
+Oak Ridge
+FL
+37	22,746
+Carteret
+NJ
+57.3	22,718
+Mercer Island
+WA
+43.8	22,699
+Ladera Ranch
+CA
+40.3	22,698
+West Odessa
+TX
+9.2	22,695
+Rosemont
+CA
+46.8	22,683
+The Crossings
+FL
+54.8	22,659
+Prior Lake
+MN
+24.6	22,650
+Prichard
+AL
+30.1	22,617
+Inglewood-Finn Hill
+WA
+40.1	22,614
+Mint Hill
+NC
+17.8	22,604
+Leisure City
+FL
+43.1	22,584
+Laguna Beach
+CA
+49	22,571
+Wilmington
+MA
+31.7	22,548
+Cottage Lake
+WA
+16	22,546
+Yukon
+OK
+39.9	22,536
+Wright
+FL
+39.4	22,533
+Hopewell
+VA
+37	22,461
+Pascagoula
+MS
+38.8	22,450
+Denison
+TX
+31.8	22,446
+Estero
+FL
+23.9	22,437
+Bloomingdale
+FL
+25.1	22,431
+Avon Lake
+OH
+30.9	22,417
+Kernersville
+NC
+34.2	22,395
+Calabasas
+CA
+29.6	22,382
+Roselle
+IL
+47.9	22,376
+Valinda
+CA
+49.5	22,375
+East Patchogue
+NY
+34.4	22,335
+Port Hueneme
+CA
+55.3	22,333
+Van Buren
+AR
+29.8	22,328
+Fountain Hills
+AZ
+26.2	22,316
+Temescal Valley
+CA
+18.8	22,311
+Northport
+AL
+33.3	22,289
+South Holland
+IL
+46	22,282
+Isla Vista
+CA
+57.3	22,273
+South Bradenton
+FL
+50.4	22,271
+Willoughby
+OH
+41.7	22,270
+Holiday
+FL
+31.9	22,261
+Pottstown
+PA
+61.8	22,253
+Hudson
+OH
+22.3	22,227
+New Smyrna Beach
+FL
+28.3	22,220
+Riverbank
+CA
+42.4	22,220
+Hialeah Gardens
+FL
+49.4	22,215
+Northdale
+FL
+25.9	22,203
+West Puente Valley
+CA
+58.4	22,179
+Hamtramck
+MI
+68.8	22,176
+Alliance
+OH
+48.1	22,157
+West Springfield
+VA
+33.9	22,147
+Mauldin
+SC
+33.1	22,133
+Brent
+FL
+35	22,120
+Plainview
+TX
+38	22,091
+Bloomingdale
+IL
+54	22,083
+Darien
+IL
+42.8	22,059
+Somerset
+NJ
+32.6	22,050
+Mira Loma
+CA
+29.2	22,045
+Kerrville
+TX
+43.8	22,041
+Crystal
+MN
+50.3	22,036
+Merrick
+NY
+59.6	22,015
+South Euclid
+OH
+56.1	22,013
+Canton
+GA
+30.5	21,965
+Lisle
+IL
+51.8	21,941
+Brookings
+SD
+49.1	21,926
+Herriman
+UT
+17.2	21,926
+Derby
+KS
+37.2	21,908
+Lennox
+CA
+64	21,907
+West Carson
+CA
+60	21,892
+Ewa Gentry
+HI
+37.1	21,885
+Wekiwa Springs
+FL
+27.7	21,869
+Rosemount
+MN
+26.6	21,857
+La Porte
+IN
+49	21,847
+Hastings
+MN
+38.9	21,844
+Derry
+NH
+37.7	21,842
+Westchase
+FL
+36.4	21,835
+Brushy Creek
+TX
+25.1	21,807
+Princeton
+FL
+22.7	21,806
+Chillicothe
+OH
+50.4	21,804
+Athens
+AL
+30.1	21,786
+Sebastian
+FL
+19.3	21,767
+Marysville
+OH
+31.7	21,751
+Maple Valley
+WA
+34	21,738
+Brandon
+MS
+18	21,710
+Oak Harbor
+WA
+39.5	21,675
+Ruston
+LA
+39.6	21,675
+Columbus
+NE
+55.8	21,659
+Ashland
+KY
+41.5	21,630
+Villa Park
+IL
+55	21,600
+Summit
+NJ
+53.8	21,588
+Roselle
+NJ
+62.6	21,587
+Ashland
+CA
+66.5	21,561
+Massapequa
+NY
+52.6	21,557
+Anthem
+AZ
+29.9	21,553
+North Plainfield
+NJ
+61.7	21,544
+Charleston
+IL
+50.8	21,537
+South Elgin
+IL
+38.3	21,522
+North Augusta
+SC
+30.9	21,520
+Taylors
+SC
+21.8	21,504
+Millbrae
+CA
+57.3	21,483
+Prairie Village
+KS
+47.3	21,453
+Jacksonville Beach
+FL
+48.8	21,450
+Okemos
+MI
+35.2	21,415
+Allison Park
+PA
+25	21,407
+Radcliff
+KY
+30.9	21,406
+New Brighton
+MN
+41.7	21,399
+McDonough
+GA
+29.6	21,394
+Clarksville
+IN
+40.7	21,346
+Eagle Mountain
+UT
+15.9	21,342
+Dinuba
+CA
+51.3	21,339
+Auburn Hills
+MI
+36	21,338
+Avon
+OH
+22.6	21,334
+Stoneham
+MA
+55.4	21,328
+Bay Point
+CA
+41.6	21,326
+Marquette
+MI
+55.2	21,324
+Pelham
+AL
+25.6	21,314
+Gallup
+NM
+40.7	21,289
+Kinston
+NC
+39.1	21,282
+Rancho San Diego
+CA
+36	21,266
+Canyon Lake
+TX
+6.4	21,251
+Biddeford
+ME
+46	21,248
+Geneva
+IL
+46.5	21,246
+Newberg
+OR
+54.5	21,244
+Green Valley
+AZ
+22.1	21,239
+Winchester
+MA
+46.7	21,231
+Sedalia
+MO
+48.7	21,230
+Park Forest
+IL
+42.9	21,210
+Ferguson
+MO
+46.5	21,209
+Benbrook
+TX
+30	21,181
+Lockport
+NY
+55.6	21,164
+West Pensacola
+FL
+41.6	21,157
+South Lake Tahoe
+CA
+51.7	21,155
+Wadsworth
+OH
+43.3	21,138
+Albertville
+AL
+22.5	21,108
+Oxford
+OH
+57.1	21,085
+East Moline
+IL
+40.1	21,065
+Del City
+OK
+41.4	21,038
+Daphne
+AL
+29.7	21,027
+South Milwaukee
+WI
+44.1	21,001
+Forest Grove
+OR
+52.5	20,993
+Sidney
+OH
+40.6	20,985
+Arnold
+MO
+34.1	20,983
+Roseburg
+OR
+57.9	20,981
+Watertown
+SD
+45.7	20,957
+Chester
+VA
+23.6	20,953
+Hauppauge
+NY
+36.6	20,947
+Brownsburg
+IN
+32.2	20,925
+Adrian
+MI
+55.3	20,923
+Darien
+CT
+41.1	20,912
+Waynesboro
+VA
+38.9	20,906
+Palm River-Clair Mel
+FL
+25.4	20,903
+Kihei
+HI
+48.5	20,854
+Silver Firs
+WA
+22.3	20,841
+Farmington
+MN
+27	20,825
+Edgewater
+FL
+22.9	20,793
+Cumberland
+MD
+55.2	20,792
+Christiansburg
+VA
+34	20,783
+Lumberton
+NC
+34.4	20,783
+Mililani Mauka
+HI
+23.9	20,767
+Cockeysville
+MD
+42.1	20,765
+Farragut
+TN
+24.6	20,714
+Rotterdam
+NY
+48.1	20,706
+Johnstown
+PA
+50.4	20,693
+Portsmouth
+NH
+56.4	20,692
+Nogales
+AZ
+34.3	20,687
+East Ridge
+TN
+38	20,671
+Klamath Falls
+OR
+48.5	20,664
+Yucca Valley
+CA
+25.9	20,658
+Oxford
+AL
+16.1	20,657
+Lakeside
+CA
+36	20,647
+Sunny Isles Beach
+FL
+57.6	20,628
+Selma
+AL
+40.3	20,627
+Duarte
+CA
+54.6	20,620
+Grayslake
+IL
+39.2	20,613
+Harvey
+LA
+54.7	20,564
+Parma Heights
+OH
+53.6	20,564
+Affton
+MO
+41.3	20,540
+Granite Bay
+CA
+23.1	20,531
+Bixby
+OK
+21.8	20,526
+South El Monte
+CA
+61.7	20,523
+Ensley
+FL
+27	20,512
+West Mifflin
+PA
+37.1	20,504
+Wade Hampton
+SC
+40.4	20,497
+Golden Valley
+MN
+43.4	20,495
+Glen Avon
+CA
+32.5	20,492
+Rose Hill
+VA
+39.6	20,485
+Bethany
+OR
+49.5	20,478
+Venice
+FL
+35	20,474
+Monroe
+MI
+53.8	20,458
+Kenmore
+WA
+42.3	20,456
+Winter Gardens
+CA
+34.7	20,435
+Oregon
+OH
+33.4	20,431
+Clinton
+UT
+37.4	20,412
+St. Andrews
+SC
+40.3	20,408
+Crest Hill
+IL
+31.7	20,407
+Miamisburg
+OH
+34.7	20,406
+Mountain Brook
+AL
+31.8	20,402
+Greenfield
+IN
+35.1	20,398
+Moses Lake
+WA
+40.3	20,370
+Woodlawn
+VA
+44.5	20,369
+Lino Lakes
+MN
+15.6	20,368
+Murrysville
+PA
+21.2	20,363
+Perrysburg
+OH
+38.8	20,362
+Crestview
+FL
+26.3	20,357
+Haines City
+FL
+29.9	20,351
+Pleasant Prairie
+WI
+18.8	20,329
+Oakleaf Plantation
+FL
+15.3	20,293
+Oakdale
+CA
+55.2	20,292
+Blythe
+CA
+30.7	20,287
+Ramona
+CA
+39.5	20,281
+Piqua
+OH
+44.2	20,275
+Sulphur
+LA
+42.3	20,235
+Arbutus
+MD
+52.5	20,222
+Liberal
+KS
+46.9	20,202
+Ashland
+OH
+52.7	20,175
+Milwaukie
+OR
+59.3	20,166
+Gardner
+MA
+46.7	20,162
+Leesburg
+FL
+35.4	20,158
+Sapulpa
+OK
+28	20,152
+La Cañada Flintridge
+CA
+44.2	20,139
+Portsmouth
+OH
+48.5	20,132
+Rocky River
+OH
+58.9	20,131
+South St. Paul
+MN
+46.6	20,116
+Hayesville
+OR
+47.6	20,101
+Eastmont
+WA
+29.6	20,095
+Havelock
+NC
+30.4	20,086
+Hays
+KS
+54.9	20,084
+East Northport
+NY
+53	20,083
+Sachse
+TX
+22.1	20,082
+Lake Ronkonkoma
+NY
+45	20,072
+Shelbyville
+TN
+31.9	20,068
+Pittsburg
+KS
+46.8	20,060
+Shelby
+NC
+38	20,050
+Chambersburg
+PA
+59.2	20,049
+Pleasantville
+NJ
+53.2	20,040
+Agoura Hills
+CA
+54.7	20,020
+King of Prussia
+PA
+49.2	20,013
+Libertyville
+IL
+49.7	20,006
+Mukilteo
+WA
+35.3	19,984
+Birmingham
+MI
+60.4	19,956
+North Bellmore
+NY
+59.5	19,953
+La Crescenta-Montrose
+CA
+60	19,920
+New Hope
+MN
+48.3	19,901
+Salmon Creek
+WA
+41.3	19,896
+South San Jose Hills
+CA
+45.7	19,892
+Palm Valley
+FL
+25	19,885
+Selden
+NY
+39.2	19,883
+Pace
+FL
+17.7	19,876
+Patterson
+CA
+43.5	19,865
+Corinth
+TX
+18	19,841
+Socastee
+SC
+29.4	19,799
+Evergreen Park
+IL
+65.6	19,794
+Naples
+FL
+46.5	19,777
+Ives Estates
+FL
+49.7	19,761
+Germantown
+WI
+34.7	19,756
+Holtsville
+NY
+33.6	19,754
+Marblehead
+MA
+53.6	19,740
+Union City
+GA
+17.5	19,738
+Plattsburgh
+NY
+61.3	19,735
+Saginaw
+TX
+29.5	19,734
+McKeesport
+PA
+45.3	19,715
+Marina
+CA
+52.4	19,687
+Acworth
+GA
+31	19,685
+Baldwin
+PA
+37.5	19,678
+Lomita
+CA
+74.9	19,675
+Mountlake Terrace
+WA
+54.1	19,671
+Weirton
+WV
+40.9	19,665
+Cartersville
+GA
+35	19,653
+Lebanon
+OH
+40.9	19,646
+Eagle
+ID
+28.3	19,642
+Montclair
+VA
+19.3	19,638
+Ferndale
+MI
+63.8	19,634
+Northfield
+MN
+40	19,621
+Lutz
+FL
+17.2	19,613
+Hammond
+LA
+43.6	19,611
+Ashland
+OR
+62.3	19,600
+Altus
+OK
+40.6	19,566
+Sun Valley
+NV
+24	19,532
+Lealman
+FL
+46.3	19,524
+Spanish Lake
+MO
+29.3	19,521
+Trussville
+AL
+19.7	19,513
+Upper St. Clair
+PA
+28.2	19,512
+Palm Springs
+FL
+51.7	19,508
+Elmwood Park
+NJ
+58.3	19,470
+Coronado
+CA
+58.8	19,462
+Homewood
+IL
+54.2	19,450
+Orchards
+WA
+39.8	19,431
+Woodbridge
+NJ
+61.5	19,429
+Fort Walton Beach
+FL
+46.4	19,427
+Palisades Park
+NJ
+79.1	19,415
+Badger
+AK
+6.2	19,411
+Monsey
+NY
+48.2	19,409
+Camas
+WA
+27.9	19,406
+Lake Shore
+MD
+21.3	19,404
+Clifton
+CO
+26.2	19,400
+Broadview Heights
+OH
+17.6	19,394
+Rolla
+MO
+50.8	19,386
+Norwood
+OH
+64	19,376
+West St. Paul
+MN
+55.5	19,364
+Fernley
+NV
+24.8	19,354
+Rosedale
+MD
+44.3	19,344
+Willmar
+MN
+41.1	19,329
+Painesville
+OH
+48.1	19,325
+Tukwila
+WA
+53.9	19,325
+Ypsilanti
+MI
+58.7	19,317
+Lake Forest
+IL
+34.4	19,308
+Pooler
+GA
+18.6	19,302
+Madisonville
+KY
+33.1	19,288
+Amherst Center
+MA
+56.1	19,277
+Lynbrook
+NY
+74.1	19,273
+Central Falls
+RI
+74	19,270
+Bear
+DE
+32.4	19,267
+Hazel Dell
+WA
+51.3	19,263
+American Canyon
+CA
+41.9	19,262
+Eastchester
+NY
+63.1	19,251
+Camp Springs
+MD
+31.8	19,244
+Tysons Corner
+VA
+65.7	19,229
+Decatur
+GA
+62.7	19,224
+Altamont
+OR
+42.7	19,216
+DeBary
+FL
+26.3	19,212
+Bayou Cane
+LA
+44.6	19,198
+Silverdale
+WA
+28.3	19,196
+Sun City Center
+FL
+13.6	19,196
+Lake Zurich
+IL
+44.5	19,194
+Ronkonkoma
+NY
+36	19,188
+Franklin Farm
+VA
+29.1	19,181
+Hermosa Beach
+CA
+77.7	19,171
+Jacksonville
+IL
+49.5	19,163
+Columbia Heights
+MN
+54.7	19,162
+Carrboro
+NC
+37.1	19,159
+Niles
+OH
+38.7	19,154
+Ansonia
+CT
+44.8	19,150
+Haslett
+MI
+28.5	19,139
+North Druid Hills
+GA
+58.7	19,115
+Augusta
+ME
+39.3	19,100
+Kalispell
+MT
+55.4	19,097
+Old Jamestown
+MO
+19.6	19,079
+White Oak
+OH
+42.8	19,069
+Raymore
+MO
+23.6	19,064
+Brownwood
+TX
+35.8	19,048
+Easley
+SC
+33.5	19,042
+Cortland
+NY
+65.3	19,026
+Alice
+TX
+38.5	19,008
+Newton
+KS
+40	18,984
+East Massapequa
+NY
+56.6	18,981
+Fresno
+TX
+10.4	18,969
+Fairwood
+WA
+34.8	18,954
+Port Angeles
+WA
+49	18,946
+Union Hill-Novelty Hill
+WA
+16.3	18,928
+Converse
+TX
+30.3	18,916
+Oxford
+MS
+38.2	18,905
+North Bay Shore
+NY
+41.6	18,897
+Rio Rico
+AZ
+6.2	18,893
+Melville
+NY
+31.5	18,881
+Wantagh
+NY
+56	18,880
+Shelbyville
+IN
+46.3	18,878
+Marshfield
+WI
+48.5	18,872
+Brook Park
+OH
+40	18,868
+Brookfield
+IL
+59.8	18,830
+Bellwood
+IL
+62.6	18,825
+Mamaroneck
+NY
+69.9	18,823
+Berea
+OH
+46.6	18,820
+Jasmine Estates
+FL
+47.1	18,808
+Arvin
+CA
+35	18,795
+El Dorado
+AR
+45.9	18,790
+Coralville
+IA
+45.3	18,774
+Twinsburg
+OH
+29.1	18,771
+Matteson
+IL
+31.8	18,762
+Wilsonville
+OR
+41.9	18,754
+West Hempstead
+NY
+64.2	18,752
+Casa de Oro-Mount Helix
+CA
+40.6	18,751
+Syosset
+NY
+51.3	18,745
+Ashtabula
+OH
+42.3	18,738
+Alsip
+IL
+54.7	18,734
+Hawthorne
+NJ
+63.4	18,728
+Macomb
+IL
+49.4	18,706
+Lexington
+NC
+40.5	18,705
+Trenton
+MI
+49.5	18,701
+Bethany
+OK
+50	18,693
+Washington
+UT
+20.2	18,688
+Pinole
+CA
+46.5	18,682
+Mayfield Heights
+OH
+54.1	18,673
+Gardner
+KS
+33.2	18,658
+Dickinson
+TX
+35.3	18,653
+Ojus
+FL
+53.7	18,648
+Forest Park
+OH
+42.5	18,645
+Montrose
+CO
+40.4	18,642
+Golden
+CO
+52.5	18,641
+Sand Springs
+OK
+24.3	18,638
+Frederickson
+WA
+11.9	18,634
+Fairmont
+WV
+50.1	18,625
+Eastlake
+OH
+39	18,618
+Warrensburg
+MO
+45.1	18,613
+Sylvania
+OH
+40.8	18,596
+Angleton
+TX
+33.9	18,580
+Iselin
+NJ
+61.1	18,555
+Orange
+TX
+31.4	18,552
+Amsterdam
+NY
+49.6	18,549
+Papillion
+NE
+51.5	18,539
+Tullahoma
+TN
+27.5	18,535
+Saco
+ME
+34.1	18,533
+Islip
+NY
+43.9	18,517
+Langley Park
+MD
+57.2	18,512
+Mead Valley
+CA
+7.8	18,503
+Bourbonnais
+IL
+46.3	18,487
+Universal City
+TX
+46.5	18,481
+Mineola
+NY
+78	18,480
+Middletown
+DE
+41	18,479
+Steubenville
+OH
+49	18,478
+Lorton
+VA
+31.8	18,460
+Castaic
+CA
+36.1	18,453
+Glassboro
+NJ
+44.4	18,451
+Laurel
+MS
+40.8	18,420
+Forest Park
+GA
+35.9	18,416
+Gautier
+MS
+18.3	18,401
+Windsor
+CO
+29	18,400
+Evans
+CO
+35.3	18,391
+Elizabeth City
+NC
+48.6	18,389
+Mill Creek
+WA
+45.1	18,377
+Morristown
+NJ
+75	18,368
+Ennis
+TX
+37.2	18,360
+Carlisle
+PA
+67.9	18,358
+Claremore
+OK
+35.9	18,344
+Franklin Park
+IL
+61.1	18,337
+Meadowbrook
+VA
+23.2	18,329
+Montgomery
+IL
+25.6	18,312
+Forest Lake
+MN
+27.9	18,306
+Palestine
+TX
+34.1	18,303
+Louisville
+CO
+48.3	18,299
+Ottawa
+IL
+46.5	18,298
+Cudahy
+WI
+55.8	18,291
+Point Pleasant
+NJ
+52	18,282
+Logansport
+IN
+53.8	18,281
+Kiryas Joel
+NY
+41.6	18,280
+North Massapequa
+NY
+54.2	18,274
+Natchitoches
+LA
+46	18,270
+Pickerington
+OH
+28.4	18,263
+Mokena
+IL
+33.7	18,253
+Rutherford
+NJ
+70.9	18,248
+Belton
+TX
+39.1	18,235
+McAlester
+OK
+36.8	18,234
+Ballenger Creek
+MD
+33.5	18,210
+South Burlington
+VT
+42.8	18,197
+Snellville
+GA
+31.4	18,195
+Cameron Park
+CA
+32.5	18,187
+Florida Ridge
+FL
+17.3	18,163
+Alamo
+TX
+33.8	18,162
+Oswego
+NY
+64	18,160
+Huntington
+NY
+49.2	18,159
+Westminster
+MD
+47.4	18,156
+Shenandoah
+LA
+32.6	18,154
+Midlothian
+TX
+15.1	18,153
+Whitehall
+OH
+55.3	18,147
+Thomasville
+GA
+35.4	18,143
+Wisconsin Rapids
+WI
+45.7	18,135
+Rosamond
+CA
+22	18,116
+Franconia
+VA
+43.7	18,115
+Wallingford Center
+CT
+52.5	18,113
+Deerfield
+IL
+50.6	18,111
+Bensenville
+IL
+54.9	18,110
+West Melbourne
+FL
+29.3	18,104
+Albany
+CA
+85.7	18,097
+Lynn Haven
+FL
+31	18,089
+Elko
+NV
+51.7	18,086
+Farmington
+UT
+25.3	18,075
+Dover
+NJ
+59.9	18,067
+Pinecrest
+FL
+33.4	18,063
+Cinco Ranch
+TX
+46.1	18,056
+Erlanger
+KY
+30.9	18,052
+Mandan
+ND
+36.9	18,051
+Hyattsville
+MD
+60.2	18,047
+Payson
+UT
+40	18,046
+Clemmons
+NC
+21.7	18,041
+Oxon Hill
+MD
+28	18,039
+Dixon
+CA
+51.9	18,003
+West Chester
+PA
+79.4	18,003
+Somerset
+MA
+37.4	18,001
+Eustis
+FL
+32.1	17,990
+Lathrop
+CA
+32.7	17,984
+Manchester
+MO
+37.4	17,981
+Creve Coeur
+MO
+40.4	17,979
+Nixa
+MO
+26.4	17,975
+Tinton Falls
+NJ
+25	17,973
+Hanahan
+SC
+29.2	17,971
+Ellensburg
+WA
+50.9	17,969
+Godfrey
+IL
+18.2	17,968
+Cary
+IL
+38.7	17,949
+Westerly
+RI
+42.3	17,947
+Five Corners
+WA
+36.4	17,944
+Vincennes
+IN
+52.7	17,933
+Clarksdale
+MS
+38.5	17,914
+Chowchilla
+CA
+25.5	17,897
+Winchester
+KY
+48.7	17,893
+Erie
+CO
+15.5	17,885
+Sugar Hill
+GA
+18.5	17,885
+Bristol
+VA
+39.9	17,874
+Brigham City
+UT
+45.5	17,865
+Sherrelwood
+CO
+47.9	17,862
+Stillwater
+MN
+42.3	17,841
+Mattoon
+IL
+44.4	17,831
+Tiffin
+OH
+51.8	17,829
+Lenoir
+NC
+30.5	17,824
+Hannibal
+MO
+42.2	17,822
+East Cleveland
+OH
+55.3	17,800
+Lackawanna
+NY
+45.6	17,795
+Makakilo
+HI
+23	17,794
+Troy
+AL
+29.1	17,769
+Nanuet
+NY
+47.9	17,761
+Simpsonville
+SC
+33.5	17,738
+New Castle
+IN
+43.9	17,732
+Pampa
+TX
+44.5	17,715
+Murphy
+TX
+19.7	17,706
+Colonia
+NJ
+46.1	17,703
+Gretna
+LA
+65.5	17,681
+Albert Lea
+MN
+36.8	17,669
+Sherwood
+OR
+48.6	17,662
+Stevenson Ranch
+CA
+29.2	17,647
+Hopkins
+MN
+61	17,632
+Dickinson
+ND
+54.6	17,616
+Round Lake
+IL
+25.6	17,593
+North Amityville
+NY
+45.6	17,580
+Allendale
+MI
+21.6	17,555
+Wayne
+MI
+51.7	17,554
+Milledgeville
+GA
+36.1	17,539
+Susanville
+CA
+31.1	17,537
+Tallmadge
+OH
+26.4	17,525
+Saratoga Springs
+UT
+9	17,517
+Calverton
+MD
+42.1	17,506
+Linda
+CA
+25.4	17,497
+Seminole
+FL
+45.1	17,496
+Winthrop Town
+MA
+59.8	17,487
+White Oak
+MD
+45.5	17,471
+North Babylon
+NY
+49	17,469
+Battle Ground
+WA
+42.8	17,468
+Prunedale
+CA
+9.3	17,466
+Arlington
+WA
+38.5	17,464
+Morrisville
+NC
+32.6	17,457
+Orinda
+CA
+21.5	17,444
+Kirksville
+MO
+51.4	17,441
+Beckley
+WV
+49.2	17,436
+Menasha
+WI
+48.1	17,433
+Greenfield Town
+MA
+48.3	17,427
+East Hemet
+CA
+31.4	17,422
+Willimantic
+CT
+62.1	17,412
+Frankfort
+IL
+30.8	17,398
+Bartow
+FL
+29.6	17,397
+Howard
+WI
+28.1	17,384
+Newburyport
+MA
+53.7	17,378
+Woodmere
+NY
+53.7	17,376
+Murray
+KY
+45	17,373
+Onalaska
+WI
+36.6	17,373
+Ocean Springs
+MS
+35.9	17,365
+Westbrook
+ME
+43.7	17,358
+Glassmanor
+MD
+42	17,350
+Lindenwold
+NJ
+46.7	17,340
+Rancho Mirage
+CA
+24.3	17,334
+Bonney Lake
+WA
+26.4	17,333
+Covington
+WA
+33.5	17,327
+Scarsdale
+NY
+43.1	17,305
+North Canton
+OH
+40.5	17,304
+McNair
+VA
+55.2	17,292
+Burke Centre
+VA
+43.5	17,289
+Kings Park
+NY
+34.6	17,289
+Nederland
+TX
+44.3	17,262
+Fuquay-Varina
+NC
+33.2	17,254
+Cocoa
+FL
+40.6	17,238
+Redland
+MD
+34.4	17,228
+Anoka
+MN
+46	17,202
+Tumwater
+WA
+37.5	17,199
+Dumont
+NJ
+58.4	17,197
+Mustang
+OK
+27.1	17,192
+Huntington
+IN
+46.9	17,180
+Palos Hills
+IL
+40.8	17,180
+Johnston
+IA
+28.2	17,164
+Maumelle
+AR
+23.1	17,147
+Stafford
+TX
+41.4	17,139
+Beltsville
+MD
+44.9	17,134
+Seymour
+IN
+45.8	17,125
+South Houston
+TX
+48.9	17,123
+Tillmans Corner
+AL
+18.8	17,114
+Colonial Heights
+VA
+40.2	17,110
+Takoma Park
+MD
+67.4	17,102
+St. Matthews
+KY
+58.6	17,083
+Ashwaubenon
+WI
+46.6	17,047
+Sheridan
+WY
+46.4	17,043
+Sycamore
+IL
+38.4	17,043
+Douglas
+AZ
+35.2	17,038
+Bay City
+TX
+38	17,036
+Monroe
+WA
+42.6	17,033
+Ruskin
+FL
+15.2	17,030
+Stephenville
+TX
+47.2	17,017
+Tanque Verde
+AZ
+11.8	17,016
+Dyersburg
+TN
+36.7	17,012
+Bryant
+AR
+24.1	16,984
+Martinsburg
+WV
+57.5	16,984
+Middleton
+WI
+54.9	16,969
+Live Oak
+CA
+66.6	16,966
+El Segundo
+CA
+73.1	16,925
+Poplar Bluff
+MO
+46.6	16,925
+Seabrook
+MD
+37.8	16,916
+Avenel
+NJ
+53	16,913
+Griffith
+IN
+45.2	16,907
+Bellaire
+TX
+58.4	16,901
+Arroyo Grande
+CA
+57	16,896
+Aberdeen
+WA
+55.5	16,892
+St. Marys
+GA
+21.1	16,883
+Center Point
+AL
+26.1	16,879
+Shafter
+CA
+44.7	16,875
+North Ogden
+UT
+26	16,850
+Arcata
+CA
+57.1	16,840
+Wahiawa
+HI
+43.1	16,832
+Springboro
+OH
+29.7	16,827
+Sayville
+NY
+46.5	16,817
+Idylwood
+VA
+55.2	16,803
+Fairview Heights
+IL
+39.7	16,801
+Fairview Park
+OH
+49.9	16,779
+New Philadelphia
+OH
+53	16,773
+Norwalk
+OH
+47	16,773
+El Reno
+OK
+34.8	16,772
+Massapequa Park
+NY
+50.3	16,772
+Marion
+IL
+46.3	16,769
+Morganton
+NC
+39.6	16,761
+Fremont
+OH
+57.5	16,754
+Jenks
+OK
+16.9	16,738
+North Decatur
+GA
+52.9	16,735
+Chalmette
+LA
+48.3	16,732
+Mineral Wells
+TX
+31.2	16,727
+North Valley Stream
+NY
+61.4	16,722
+Horizon City
+TX
+21.7	16,719
+Southbridge Town
+MA
+47.6	16,699
+Hinsdale
+IL
+52.8	16,689
+Ozark
+MO
+25.5	16,678
+Lemay
+MO
+39.3	16,662
+Nipomo
+CA
+31.3	16,661
+Ada
+OK
+44	16,658
+Oak Grove
+OR
+58.1	16,658
+Laurel
+VA
+42.7	16,651
+Belle Glade
+FL
+36.7	16,646
+Ferndale
+MD
+47.6	16,638
+Mount Vernon
+OH
+49.9	16,622
+Helena
+AL
+19.3	16,612
+San Carlos Park
+FL
+17	16,600
+Conway
+SC
+30.1	16,586
+Boone
+NC
+66.6	16,570
+Yorkville
+IL
+24.5	16,539
+North Lynnwood
+WA
+41.2	16,524
+Jenison
+MI
+29.3	16,501
+Bothell West
+WA
+24.3	16,486
+Lexington
+SC
+39.9	16,484
+Central Point
+OR
+41.9	16,476
+Punta Gorda
+FL
+24.1	16,430
+Eloy
+AZ
+14.3	16,421
+Glenvar Heights
+FL
+54	16,415
+Clarksburg
+WV
+51.6	16,372
+Americus
+GA
+38.5	16,332
+Westchester
+IL
+52.7	16,315
+Safety Harbor
+FL
+33.5	16,296
+Opelousas
+LA
+49.5	16,277
+North Aurora
+IL
+28.1	16,210
+South Ogden
+UT
+44.7	16,206
+Pendleton
+OR
+52.4	16,205
+Country Club Hills
+IL
+38	16,161
+Hermiston
+OR
+52.7	16,143
+Durango
+CO
+54.2	16,141
+Artesia
+CA
+74.4	15,719
