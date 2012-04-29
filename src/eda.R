@@ -21,13 +21,6 @@ with(scores, cor.test(WalkScore, log(Population)))
 summary(lm(WalkScore ~ log(Population) + State, data = scores))
 summary(lm(WalkScore ~ log(Population) + State - 1, data = scores))
 
-coefficients <- summary(lm(WalkScore ~ log(Population) + State - 1, data = scores))$coefficients
-coefficients <- coefficients[2:nrow(coefficients), ]
-coefficients.df <- as.data.frame(coefficients)
-row.names(coefficients.df) <- NULL
-coefficients.df <- transform(coefficients.df, State = as.character(row.names(coefficients)))
-coefficients.df <- transform(coefficients.df, State = str_replace(State, 'State', ''))
-
 ggplot(coefficients.df, aes(x = reorder(State, Estimate), y = Estimate)) +
   geom_point() +
   geom_errorbar(aes(ymin = Estimate - Std..Error, ymax = Estimate + Std..Error)) +
@@ -37,12 +30,10 @@ ggplot(coefficients.df, aes(x = reorder(State, Estimate), y = Estimate)) +
   opts(title = 'Walkability')
 ggsave(file.path('graphs', 'state_coefficients.png'), height = 14, width = 7)
 
-state.data <- merge(coefficients.df, votes2008, by = 'State')
 ggplot(state.data, aes(x = ObamaPercentage, y = Estimate)) +
   geom_text(aes(label = State))
 ggsave(file.path('graphs', 'state_coefficients_by_voting.png'), height = 14, width = 7)
 
-state.data <- transform(state.data, Democrat = factor(ifelse(ObamaPercentage > 50, 1, 0)))
 # Color by winning candidate.
 ggplot(state.data, aes(x = reorder(State, Estimate), y = Estimate, color = Democrat)) +
   geom_point() +
@@ -53,7 +44,23 @@ ggplot(state.data, aes(x = reorder(State, Estimate), y = Estimate, color = Democ
   opts(title = 'Walkability')
 ggsave(file.path('graphs', 'colored_state_coefficients.png'), height = 14, width = 7)
 
-merged.scores <- merge(scores, votes2008, by = 'State')
 summary(lm(WalkScore ~ log(Population) + ObamaPercentage, data = merged.scores))
 
+ggplot(merged.scores, aes(x = Admission, y = WalkScore)) +
+  geom_point() +
+  geom_smooth(method = 'lm')
+ggsave(file.path('graphs', 'walk-score_vs_admission.png'), height = 14, width = 7)
 
+summary(lm(WalkScore ~ Admission, data = merged.scores))
+
+ggplot(merged.scores, aes(x = Admission, y = ObamaPercentage)) +
+  geom_point() +
+  geom_smooth(method = 'lm')
+ggsave(file.path('graphs', 'democrat_vs_admission.png'), height = 14, width = 7)
+
+summary(lm(ObamaPercentage ~ Admission, data = merged.scores))
+
+#ggplot(merged.scores, aes(x = Income, y = ObamaPercentage)) +
+#  geom_point() +
+#  geom_smooth(method = 'lm')
+#ggsave(file.path('graphs', 'democrat_vs_income.png'), height = 14, width = 7)
