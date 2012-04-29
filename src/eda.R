@@ -39,5 +39,21 @@ ggsave(file.path('graphs', 'state_coefficients.png'), height = 14, width = 7)
 
 state.data <- merge(coefficients.df, votes2008, by = 'State')
 ggplot(state.data, aes(x = ObamaPercentage, y = Estimate)) +
-  geom_point()
+  geom_text(aes(label = State))
 ggsave(file.path('graphs', 'state_coefficients_by_voting.png'), height = 14, width = 7)
+
+state.data <- transform(state.data, Democrat = factor(ifelse(ObamaPercentage > 50, 1, 0)))
+# Color by winning candidate.
+ggplot(state.data, aes(x = reorder(State, Estimate), y = Estimate, color = Democrat)) +
+  geom_point() +
+  geom_errorbar(aes(ymin = Estimate - Std..Error, ymax = Estimate + Std..Error)) +
+  coord_flip() +
+  xlab('State') +
+  ylab('Estimated Walkability') +
+  opts(title = 'Walkability')
+ggsave(file.path('graphs', 'colored_state_coefficients.png'), height = 14, width = 7)
+
+merged.scores <- merge(scores, votes2008, by = 'State')
+summary(lm(WalkScore ~ log(Population) + ObamaPercentage, data = merged.scores))
+
+
